@@ -1,0 +1,77 @@
+{
+  "slug": "about",
+  "title": "About",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "About Royalty Buyer USA: Why This Site Exists",
+  "metaDescription": "We have sat on the seller's side of a mineral rights sale ourselves. Here is why this site exists, how we work, and what we are honest about not being.",
+  "heroLead": "We have sat on your side of this table, holding a statement we did not fully understand and an offer we could not tell was fair.",
+  "intro": [
+    "This site exists because of a gap we felt firsthand: mailbox offers arrive with a number and a deadline and almost never an explanation, and most owners are left to decide with far less information than the buyer has. We built this to close that gap, for our own family's situation and for anyone else standing where we once stood."
+  ],
+  "sections": [
+    {
+      "heading": "Why This Site Exists",
+      "paragraphs": [
+        "Mineral and royalty ownership in this country runs through families the same way land does, passed down through inheritance, split among siblings and cousins, sitting quietly for a generation before anyone thinks hard about it. Most owners never chose to become mineral owners; they inherited the role along with a deed nobody fully explained. We built this site to give that owner a fair, plainly explained path, whether that path ends in a sale to us or somewhere else entirely.",
+        "The opacity in this business is not accidental. A buyer who does not explain their math benefits from you not asking questions. We would rather compete on being the clearest explanation you get, not the fastest close."
+      ]
+    },
+    {
+      "heading": "How We Work",
+      "paragraphs": [
+        "One point of contact handles your situation from first conversation through closing, so you are not repeating your story to a different voice each time. Offers are documented, meaning we can walk you through the production history, decimal interest, and assumptions behind the number, rather than only handing you a figure and asking for a signature.",
+        "We do not pressure a fast decision. A fair offer today is generally still a fair offer next week, and if you want time to get a second opinion, we would rather you take it than feel rushed into something you have not had a chance to weigh properly."
+      ]
+    },
+    {
+      "heading": "What We Believe About This Market",
+      "paragraphs": [
+        "We believe an informed seller makes a better counterparty for everyone involved, including us. An owner who understands their statement, their decimal, and the range a fair offer should fall in is harder to take advantage of and, frankly, easier to work with, because the conversation moves faster once the basic questions are already answered.",
+        "We also believe the all-royalty breadth we build this site around matters. Too many buyers focus narrowly on producing oil wells and treat gas-heavy interests, overriding royalties, or non-producing acreage as an afterthought. Those interests deserve the same careful math as anything else, and pricing them well requires actually understanding how each type behaves, not applying one formula to everything."
+      ]
+    },
+    {
+      "heading": "Where We Work",
+      "paragraphs": [
+        "We buy across major producing basins nationwide, and we try to know each county we work in well enough to talk about it specifically: which operators are active, what the courthouse and clerk's process looks like, whether a spacing unit nearby is core to the play or sitting on its flank. That fluency is not a marketing line; it is what lets an offer reflect your actual situation rather than a national average."
+      ]
+    },
+    {
+      "heading": "What We're Not",
+      "paragraphs": [
+        "We are a direct mineral and royalty buyer. We are not licensed appraisers, attorneys, or CPAs, and we say that plainly rather than letting the line blur. When a question crosses into legal or tax territory, we will tell you that directly and point you toward the right kind of professional instead of guessing at an answer we are not qualified to give.",
+        "We also believe in telling you when we would not sell if we were in your position, whether that means your interest sits in an area with strong near-term development probability worth waiting on, or an offer you already have elsewhere looks like the better number. We would rather earn a longer relationship with a well-informed owner than a quick signature from someone who was not given the full picture."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Have you actually sold mineral rights yourselves?",
+      "answer": "Yes, our own family has been through this process from the seller's side, which is part of why we built this site the way we did, explaining the math rather than just presenting a number."
+    },
+    {
+      "question": "Are you licensed appraisers, attorneys, or CPAs?",
+      "answer": "No. We are a direct buyer. For appraisal, legal, or tax questions specific to your situation, we will point you toward the right kind of licensed professional rather than answering ourselves."
+    },
+    {
+      "question": "Why should you trust an offer from a company without a long public track record listed here?",
+      "answer": "We would rather earn your trust through transparency, showing our math, encouraging second opinions, and telling you plainly when another offer looks fair, than through unverifiable claims about our history."
+    },
+    {
+      "question": "Do you only work with sellers who already know exactly what they own?",
+      "answer": "No. Many people who reach out are still figuring out what kind of interest they hold, particularly after an inheritance, and helping sort that out is part of how we work with owners from the start."
+    },
+    {
+      "question": "What would make you tell someone not to sell right now?",
+      "answer": "If an interest sits in an area with meaningful near-term development probability that would likely change its value substantially, or if another offer already on the table looks stronger than what we could reasonably offer, we would rather say so than push a sale that is not in your interest."
+    }
+  ],
+  "wordCount": 923,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-about-royaltybuyerusa-com.jpg",
+    "alt": "About mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

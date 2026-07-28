@@ -1,0 +1,78 @@
+{
+  "slug": "colorado",
+  "title": "Sell Mineral Rights in Colorado",
+  "type": "state",
+  "group": "DJ basin, Piceance",
+  "primaryKeyword": "mineral rights colorado",
+  "seo": {
+    "vol": 260,
+    "cpc": 8.49
+  },
+  "metaTitle": "Sell Mineral Rights in Colorado | Royalty Buyer USA",
+  "metaDescription": "Own DJ basin or Piceance royalty in Colorado? Here's exactly how we research your interest and make an offer, step by step. Free, no-obligation quote.",
+  "heroLead": "Colorado owners ask us more process questions than almost anyone else, probably because Weld County has seen so much drilling activity that people have heard a dozen different stories about how a sale is supposed to work.",
+  "intro": [
+    "We're going to walk through this one differently than most of our pages, because Colorado owners tend to come to us mid-process — they've already gotten a lease offer, or a neighbor already sold, or an operator already sent a division order, and what they actually want isn't a sales pitch, it's a clear explanation of what happens next. So here's the honest walkthrough, the same one we'd give family at the kitchen table.",
+    "Colorado has two very different plays we buy in. The DJ basin, running through Weld, Adams, and neighboring counties on the eastern plains, is one of the most active horizontal drilling areas in the country, with dense multi-well pads and a lot of recent activity. The Piceance basin, out on the western slope, is older, gassier, and much quieter today than it was during its 2000s boom. Whichever one your interest sits in, the process below is the same, but the numbers behind it are not."
+  ],
+  "sections": [
+    {
+      "heading": "Step one: we figure out exactly what you own",
+      "paragraphs": [
+        "Before anything else, we confirm your decimal interest, the specific wells or unit it's tied to, and whether you hold minerals, royalty, or both. In the DJ basin especially, spacing units have gotten larger and more complex over the past decade as operators drill longer laterals across multiple sections, so your interest might be pooled into a unit that looks nothing like the original tract your family owned.",
+        "This step matters because a lot of DJ basin owners assume their interest is tied to one well when it's actually part of a multi-well pad producing from several formations at different depths. Getting this wrong is the single biggest reason offers come in low elsewhere — we take the time to get it right first."
+      ]
+    },
+    {
+      "heading": "Step two: we pull real production and pricing data",
+      "paragraphs": [
+        "For DJ basin acreage, that means recent horizontal well data from Weld or Adams County, benchmarked against DJ basin oil and gas pricing and typical decline curves for the Niobrara and Codell formations. For Piceance acreage, it means looking at what's left of a much older, more gas-heavy field where drilling has slowed considerably since its peak, and where value depends more on remaining reserve life than on any new activity.",
+        "We never quote a specific dollar-per-acre figure as a promise — Colorado pricing moves with commodity markets and with how active operators are in your specific unit, so any number we give you is tied to that data and explained as a range, not a guarantee."
+      ]
+    },
+    {
+      "heading": "Step three: we build an offer and explain how we got there",
+      "paragraphs": [
+        "You'll get a written offer with the reasoning behind it, along with the number. If your interest is in an active DJ basin unit, we'll show you what nearby wells have produced and how we weighted that. If it's Piceance legacy acreage, we'll show you the decline curve we used and why. We want you comparing our math to anyone else's, beyond our final figure alone.",
+        "This is also the point where we tell you plainly if we think holding is the better move for your situation, or if an interest looks like it may increase in value with pending nearby permits. We'd rather lose a deal than have you regret one."
+      ]
+    },
+    {
+      "heading": "Step four: closing, if you decide to move forward",
+      "paragraphs": [
+        "If you accept, we handle the title work and draft the assignment, and we close through a title company or attorney escrow, standard for any Colorado mineral transaction. We're not attorneys or CPAs, so if your sale has estate or tax implications worth planning around, we'll point you toward getting your own advice on that before closing.",
+        "Most Colorado closings complete within a few weeks of an accepted offer. There's no cost to you at any point in the process to get a number and decide for yourself."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Your DJ basin interest is pooled into a multi-well unit. Does that make it harder to value?",
+      "answer": "It makes the research more involved but not the value inherently harder to determine. We identify every well in your unit and price your interest across all of them, rather than only one."
+    },
+    {
+      "question": "Is Piceance basin acreage worth less than DJ basin acreage?",
+      "answer": "Generally the Piceance is a more mature, slower-moving gas play with less current drilling activity than the DJ basin, which does typically affect relative value, but every interest is priced on its own production and reserve data."
+    },
+    {
+      "question": "You got a lease offer, not a purchase offer. Are those the same thing?",
+      "answer": "No. A lease offer pays you to allow drilling and you keep the underlying royalty; a purchase offer buys the royalty or mineral interest itself. We can explain the tradeoffs between the two for your specific situation."
+    },
+    {
+      "question": "Will you tell you if it's better for you to hold rather than sell?",
+      "answer": "Yes. If nearby permitting or production trends suggest your interest may be worth more later, we'll say so plainly rather than pushing a sale that isn't in your interest."
+    },
+    {
+      "question": "How long does a Colorado mineral sale take from offer to payment?",
+      "answer": "Typically a few weeks once you accept an offer and title is confirmed, closing through a title company or attorney escrow."
+    }
+  ],
+  "status": "written",
+  "wordCount": 935,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-colorado.jpg",
+    "alt": "Replacement Minerals in Colorado location",
+    "width": 1600,
+    "height": 1000
+  }
+}

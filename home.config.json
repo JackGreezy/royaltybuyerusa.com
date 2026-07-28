@@ -1,0 +1,30 @@
+{
+  "domain": "royaltybuyerusa.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/royaltybuyerusa.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/royaltybuyerusa.com",
+  "reference": "https://www.cesiumastro.com/",
+  "refhost": "cesiumastro-com",
+  "biz": "Royalty Buyer",
+  "businessName": "Royalty Buyer",
+  "wordmark_l1": "Royalty",
+  "wordmark_l2": "Buyer USA",
+  "city": "Midland",
+  "state": "Texas",
+  "region": "Midland, the Permian Basin, and royalty-owning families nationwide",
+  "phone": "432-555-1015",
+  "email": "buyer@royaltybuyerusa.com",
+  "address": "601 N Marienfeld St, Midland, TX 79701",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "hero_image": "/ours/pages/mineral-rights-pages-home-royaltybuyerusa-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/royaltybuyerusa.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Producing Basins", "/basins"],
+    ["Owner Resources", "/resources"],
+    ["About", "/about"],
+    ["Contact", "/contact"]
+  ],
+  "cta": ["Request a Royalty Review", "/contact"]
+}

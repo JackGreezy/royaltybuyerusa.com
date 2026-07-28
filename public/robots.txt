@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://royaltybuyerusa.com/sitemap.xml
+# AI: https://royaltybuyerusa.com/llms.txt

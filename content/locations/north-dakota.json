@@ -1,0 +1,75 @@
+{
+  "slug": "north-dakota",
+  "title": "Sell Mineral Rights in North Dakota",
+  "type": "state",
+  "group": "Bakken/Three Forks",
+  "primaryKeyword": "mineral rights north dakota",
+  "seo": {
+    "vol": 260,
+    "cpc": 9.7
+  },
+  "metaTitle": "Sell Mineral Rights in North Dakota | Royalty Buyer USA",
+  "metaDescription": "Bakken or Three Forks royalty owner in North Dakota? Get a straightforward cash offer, decline curve and all, from a family that's sold minerals themselves.",
+  "heroLead": "Nobody explains a Bakken decline curve to you when the checks start coming in, and by the time you're staring at year six wondering why the number's half what it used to be, most owners just want a straight answer.",
+  "intro": [
+    "We sold minerals of our own once, and the thing that stuck with us was how much a royalty check can shrink over a few years without anyone telling you why. If you own a producing interest in the Bakken or Three Forks, whether it's in Williams, McKenzie, Mountrail, or one of the other core counties, you've probably watched that decline firsthand. It's normal. It's also exactly why the timing of a sale matters, and why we look at your actual check history instead of a number pulled from when the well first came online.",
+    "We buy Bakken and Three Forks mineral and royalty interests across North Dakota, producing or not, single tracts or interests split across multiple sections from an old family estate. No pressure to decide today, and no offer without us actually looking at your specific well."
+  ],
+  "sections": [
+    {
+      "heading": "Reading your own decline curve",
+      "paragraphs": [
+        "Bakken and Three Forks wells typically post their strongest production in the first twelve to eighteen months, then decline steeply before settling into a longer, shallower tail that can run for years. If you've owned a producing interest for a while, your own check stubs already tell that story, month by month. We pull your production history from the North Dakota Industrial Commission's records and line it up against your actual payments to figure out where the well sits on that curve right now, not where it sat when it was first completed.",
+        "That matters because the same well can be priced very differently depending on whether it's still in its steep early decline or has leveled off into a more predictable stretch. Selling into the steep part of the curve and selling once it's leveled off are two different conversations, and we'll tell you honestly where your well appears to be."
+      ]
+    },
+    {
+      "heading": "Core counties versus the edges",
+      "paragraphs": [
+        "Williams, McKenzie, Mountrail, and Dunn counties anchor the densest Bakken development, with dense well spacing and a long track record of multi-well pads. Move toward the edges, into counties like Divide, Burke, or Williams County's outer townships, and well density thins out along with the certainty of future development. We price both, but the reasoning differs: core-county interests lean heavily on existing production and offset activity, while edge interests weigh more on regional trends and permitting patterns."
+      ]
+    },
+    {
+      "heading": "Spacing units and multi-well pads",
+      "paragraphs": [
+        "North Dakota's spacing orders often combine large sections into single units, sometimes stacking multiple laterals from the Bakken and Three Forks benches under the same acreage. If your interest sits under one of these larger units, your royalty may be tied to several wellbores rather than just one, which we account for when reviewing your division order. It's common for owners to not fully realize how many wells their interest actually touches until we walk through the county and state production records together."
+      ]
+    },
+    {
+      "heading": "Family interests split across generations",
+      "paragraphs": [
+        "A lot of the mineral ownership in North Dakota traces back to homestead-era severances, where families kept minerals when land was sold or divided estates among children who scattered across the country. Today that often means a small fractional interest shared among cousins who've never met, each getting a modest check every month and no real sense of what the whole interest is worth. We can buy your specific share directly, and we're glad to explain what we see to any family member who wants to understand the reasoning before deciding."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Your Bakken royalty checks have dropped a lot since the well was completed. Is that normal?",
+      "answer": "Yes, Bakken and Three Forks wells typically decline steeply in the first year or two before leveling off into a longer, more gradual tail, so a significant drop from peak production is expected and doesn't necessarily mean something is wrong."
+    },
+    {
+      "question": "How do you value an interest under a multi-well spacing unit?",
+      "answer": "We review your division order alongside the North Dakota Industrial Commission's production records to identify every wellbore tied to your unit, then value the combined production history rather than assuming a single well."
+    },
+    {
+      "question": "Is now a bad time to sell if your well is still in steep decline?",
+      "answer": "Not necessarily, but it does change the pricing conversation compared to a well that's already leveled off. We'll walk you through where your well appears to sit on its curve so you can decide with real information."
+    },
+    {
+      "question": "You own a small fractional interest in a McKenzie County section. Do you buy interests that small?",
+      "answer": "Yes, fractional interests inherited from a larger family estate are common in North Dakota, and we regularly buy shares as small as an eighth or sixteenth."
+    },
+    {
+      "question": "Do you buy non-producing minerals on the edge of the Bakken play too?",
+      "answer": "Yes, though pricing on edge acreage depends more on nearby permitting and lease activity than on existing production, since development there is less certain than in the core counties."
+    }
+  ],
+  "status": "written",
+  "wordCount": 875,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-north-dakota.jpg",
+    "alt": "Replacement Minerals in North Dakota location",
+    "width": 1600,
+    "height": 1000
+  }
+}

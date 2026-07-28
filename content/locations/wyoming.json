@@ -1,0 +1,78 @@
+{
+  "slug": "wyoming",
+  "title": "Sell Mineral Rights in Wyoming",
+  "type": "state",
+  "group": "Powder River, Green River",
+  "primaryKeyword": "mineral rights wyoming",
+  "seo": {
+    "vol": 210,
+    "cpc": 17.66
+  },
+  "metaTitle": "Sell Mineral Rights in Wyoming | Royalty Buyer USA",
+  "metaDescription": "Powder River or Green River basin minerals in Wyoming? We know the checkerboard land pattern and federal split-estate math cold. Get a fair cash offer.",
+  "heroLead": "Wyoming mineral ownership comes with a puzzle most other states don't have: figuring out whether your interest is private, state, or federal before you can even talk about what it's worth.",
+  "intro": [
+    "Our own family dealt with a version of this on our ranch, where private and federal land sat right next to each other and you had to know exactly which was which before making any decision. Wyoming takes that same problem statewide. Much of the Powder River basin in the northeast and the Green River basin in the southwest sits on a checkerboard pattern left over from nineteenth-century railroad land grants, where alternating sections of private and federal land sit side by side across the same county, sometimes the same township.",
+    "That checkerboard affects everything from who administers your lease to how royalty rates are calculated. We know how to sort through it, and whether your minerals are privately held, tied to federal land through the Bureau of Land Management, or a mix of both, we'll tell you clearly which situation you're in before making an offer."
+  ],
+  "sections": [
+    {
+      "heading": "The checkerboard, explained",
+      "paragraphs": [
+        "When the transcontinental railroads were built through Wyoming in the 1800s, the federal government granted alternating sections of land to the railroads, who later sold much of it to private owners while the government kept the sections in between. That pattern still shapes mineral ownership today across large parts of the Powder River and Green River basins, where a single drilling unit can combine private minerals in one section with federal minerals in the adjoining one. If your interest sits in checkerboard country, your unit may be governed by both state and federal rules simultaneously, which affects royalty rates and how payments are structured."
+      ]
+    },
+    {
+      "heading": "Powder River basin: coalbed methane's long tail and newer oil plays",
+      "paragraphs": [
+        "The Powder River basin around Campbell and Sheridan County built its reputation on coalbed methane development in the 1990s and 2000s, much of which has since matured into a long, low-decline production tail. More recently, horizontal oil development has added a second, different production story to parts of the same basin. If you own an older coalbed methane interest, we price it on its own established decline pattern; if a newer horizontal well sits nearby or on the same unit, that changes the picture, and we look at both."
+      ]
+    },
+    {
+      "heading": "Green River basin: deep gas and federal minerals",
+      "paragraphs": [
+        "In the southwest, the Green River basin has a long history of deep, high-pressure gas production, much of it tied to federal minerals administered by the Bureau of Land Management. Federal leases follow specific royalty rate structures and reporting requirements set by federal regulation rather than private lease negotiation, which we account for when reviewing your division order. If your interest here is federal, we'll walk you through exactly what a transfer requires, since it differs somewhat from a private mineral sale."
+      ]
+    },
+    {
+      "heading": "Sorting out what you actually own",
+      "paragraphs": [
+        "A lot of Wyoming owners aren't entirely sure whether their interest is state, private, or federal, especially if it was inherited rather than acquired directly. We check the Wyoming Oil and Gas Conservation Commission's records, county assessor and recorder documents, and, where relevant, BLM records to nail this down before we ever discuss a number, so you're working from an accurate picture of what you actually hold."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do you know if your Wyoming minerals are private or federal?",
+      "answer": "We check county and, where relevant, Bureau of Land Management records to determine this as part of preparing your offer. Many owners, especially those who inherited their interest, aren't certain themselves until we look."
+    },
+    {
+      "question": "What does the checkerboard land pattern mean for your specific interest?",
+      "answer": "It means your drilling unit may combine private and federal minerals in adjoining sections, which can affect royalty rates and administration. We'll explain exactly how that applies to your situation once we've confirmed your section and township."
+    },
+    {
+      "question": "Is an old coalbed methane interest in the Powder River basin still worth selling?",
+      "answer": "Often yes. These interests typically have a long, well-documented production history with a gradual decline, which gives us a solid, predictable basis for pricing even if the well is decades old."
+    },
+    {
+      "question": "Does selling a federal mineral interest work differently than a private one?",
+      "answer": "Yes, transfers involving federal minerals follow Bureau of Land Management procedures in addition to standard county recording. It takes a bit longer, and we'll walk you through the specific steps for your interest."
+    },
+    {
+      "question": "Do you buy both Green River basin gas interests and Powder River basin oil or coalbed methane interests?",
+      "answer": "Yes, we evaluate both basins and price each based on its own production history and current activity rather than treating Wyoming as one uniform market."
+    },
+    {
+      "question": "Your family's Wyoming minerals were inherited and you do not have any recent paperwork. Can you still help?",
+      "answer": "Yes, we can research your interest through the Wyoming Oil and Gas Conservation Commission and county records using your family name and, if you have it, a general location, then confirm exactly what you own before discussing a number."
+    }
+  ],
+  "status": "written",
+  "wordCount": 865,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-wyoming.jpg",
+    "alt": "Replacement Minerals in Wyoming location",
+    "width": 1600,
+    "height": 1000
+  }
+}

@@ -1,0 +1,20 @@
+{
+ "domain": "royaltybuyerusa.com",
+ "keyword": "royalty buyer",
+ "segment": "national-royalty",
+ "intent": "seller",
+ "tier": "Strong test",
+ "available": true,
+ "voice": "fourth-gen-ranch-family: sold their own minerals once; empathetic, story-forward",
+ "angle": "all-royalty (incl. non-oil) breadth",
+ "taxonomyCounts": {
+  "locations": 24,
+  "basins": 23,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 80,
+ "status": "scaffold"
+}

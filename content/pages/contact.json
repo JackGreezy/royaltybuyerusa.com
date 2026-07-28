@@ -1,0 +1,91 @@
+{
+  "slug": "contact",
+  "title": "Contact",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "Contact Royalty Buyer USA About Your Mineral Rights",
+  "metaDescription": "Questions about a mineral or royalty interest, a document you cannot find, or an offer you received elsewhere. Reach out directly, no obligation.",
+  "heroLead": "If something on this site did not answer your question clearly enough, that is worth telling us, not something to just quietly work around.",
+  "intro": [
+    "You do not need a finished file or a firm decision to reach out. Questions about a confusing royalty statement, a document you cannot locate, or whether your situation is even worth pursuing are all fair reasons to get in touch before you send anything formal."
+  ],
+  "sections": [
+    {
+      "heading": "What to Include",
+      "paragraphs": [
+        "Your county and state, and a short description of your situation, are usually enough to get a useful answer back. If you already have a deed, a statement, or an offer from another buyer you would like a second read on, attaching it lets us give you a more specific response rather than a general one."
+      ]
+    },
+    {
+      "heading": "What We Can Help With",
+      "paragraphs": [
+        "Questions about reading a royalty statement, understanding a division order, figuring out what type of interest you actually hold, or getting a second opinion on an offer you received elsewhere. If your question is really a legal or tax question, we will tell you that plainly and point you toward the right kind of professional instead of guessing at an answer."
+      ]
+    },
+    {
+      "heading": "Response Time",
+      "paragraphs": [
+        "One person handles inquiries directly, so you are talking to the same voice each time rather than a rotating call center. Expect a response within a few business days for most questions, and understand that more involved title or estate questions may take a bit longer to research properly before we get back to you."
+      ]
+    },
+    {
+      "heading": "If You Are Comparing Us Against Another Buyer",
+      "paragraphs": [
+        "Send the other offer along with your deed or statement and we will give you an honest read on how it compares, including telling you plainly if we think it is a fair number even if it means we do not end up buying your interest. We would rather you make a well-informed decision, with us or with someone else, than one you regret because nobody walked the math through with you."
+      ]
+    },
+    {
+      "heading": "If You Are Just Starting to Research",
+      "paragraphs": [
+        "You do not need a deed in hand or a firm plan to reach out. Plenty of people contact us after inheriting an interest they know almost nothing about, simply looking for a starting point. Telling us the county, and whatever you already know about how the interest came into the family, is enough for us to point you toward the right first step."
+      ]
+    },
+    {
+      "heading": "Reaching Us From Out of State",
+      "paragraphs": [
+        "Many mineral owners live nowhere near the county where their interest sits, having moved away from family land decades ago. That distance does not slow things down; document review, offer discussion, and closing can typically be handled remotely, including mobile or remote online notarization for the final signature, so travel is generally not required."
+      ]
+    },
+    {
+      "heading": "What Not to Send Us Yet",
+      "paragraphs": [
+        "You do not need to send highly sensitive identifiers such as a full Social Security number in an initial message. A deed, a statement, or a general description of your situation is plenty to start the conversation, and any sensitive verification details can be handled later through a more secure channel once you are actually moving toward closing."
+      ]
+    },
+    {
+      "heading": "If Several Family Members Share the Interest",
+      "paragraphs": [
+        "It is common for one person to reach out on behalf of a group of heirs, whether siblings, cousins, or a mix of both, before every individual owner has been looped in. Tell us that upfront and we will keep the conversation general and useful until the family has decided how it wants to proceed, rather than pushing for a decision before everyone is ready. When the time comes to formalize anything, each owner will still need to sign for their own share, but the early conversation does not require that everyone be on the call at once."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is contacting you the same as requesting an offer?",
+      "answer": "Not necessarily. You can reach out with a general question with no intention of selling right now, and we are glad to answer without treating it as the start of a sales process."
+    },
+    {
+      "question": "Can you ask about a mineral interest you have not fully researched yet?",
+      "answer": "Yes. Many people reach out before they have a full picture of what they own, and pointing you toward the right first step, usually pulling your deed, is a common starting answer."
+    },
+    {
+      "question": "Do you charge for answering questions?",
+      "answer": "No. General questions, second opinions on other offers, and help understanding your documents are all free, with no obligation attached."
+    },
+    {
+      "question": "What if your question is really a legal or tax question?",
+      "answer": "We will tell you plainly when a question belongs with an attorney or your CPA rather than with us, since giving you a confident wrong answer helps no one."
+    },
+    {
+      "question": "Can you contact you on behalf of a sibling or other family member instead of yourself?",
+      "answer": "Yes, this comes up often with inherited interests split among heirs. We are glad to talk through the general situation with you, though any actual offer or closing documents will need to reflect the correct owner or owners on the deed."
+    }
+  ],
+  "wordCount": 873,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-contact-royaltybuyerusa-com.jpg",
+    "alt": "Contact mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

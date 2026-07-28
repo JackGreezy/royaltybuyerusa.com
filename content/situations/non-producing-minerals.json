@@ -1,0 +1,73 @@
+{
+  "slug": "non-producing-minerals",
+  "title": "Non-Producing Minerals",
+  "type": "situation",
+  "note": "acreage with no wells or expired leases",
+  "metaTitle": "Selling Non-Producing Mineral Rights",
+  "metaDescription": "No wells, no royalty checks, no active lease — non-producing minerals still have value. Here's how it's calculated and how a sale would work.",
+  "heroLead": "No checks in the mailbox, no rig on the horizon, just a deed and a county name passed down with no explanation of what it's worth.",
+  "intro": [
+    "A lot of what we buy has never produced a dollar. That surprises people, because most of the mineral-rights conversation online assumes you're already collecting royalties, and if you're not, it can feel like there's nothing to talk about. That's not true. Whether it's acreage your family has held for generations with no lease ever signed, or a lease that expired years ago and simply reverted back to you, non-producing minerals are real property with real value, it just isn't calculated off a check history the way a producing interest is.",
+    "We come at this from having owned quiet acreage ourselves for years before anything was ever drilled on it. There's a particular kind of waiting that comes with minerals that haven't produced yet, wondering whether a landman will ever knock, or whether the ground under your family's old homestead will ever see a rig. We're not here to promise you it will. We're here to give you an honest number for what that uncertainty is worth today, if you'd rather have cash than keep waiting."
+  ],
+  "sections": [
+    {
+      "heading": "Two Kinds of Non-Producing Acreage",
+      "paragraphs": [
+        "Unleased acreage has never had a lease signed on it at all — nobody has paid you a bonus, and no operator currently has any legal right to drill it. Leased-but-expired acreage had a lease at some point, collected whatever bonus came with signing, and then the primary term ran out with no drilling, so the rights reverted fully back to you. These are treated somewhat differently in a valuation, since expired-lease acreage sometimes signals an operator looked at the tract and passed, while unleased acreage in a hot area may simply mean no landman has gotten to it yet.",
+        "Either way, the key question is the same: what's happening on the ground around your specific tract right now. Nearby permits, recent completions, and active leasing by name-brand operators in the surrounding sections all point toward real near-term potential. A quiet stretch with no recent activity for years points the other direction, and we'll tell you that honestly rather than inflating an offer to make a quiet tract sound hot."
+      ]
+    },
+    {
+      "heading": "How We Value Acreage With No Production History",
+      "paragraphs": [
+        "Without a royalty check to point to, we lean on comparable activity: recent lease bonuses paid on nearby tracts, permits filed within the surrounding sections, well spacing units that already touch or come close to your acreage, and how operators active in that specific play have been trending over the past couple years. Formation depth and known reservoir quality in your county matter too — some counties sit on the flank of a play where results have historically been inconsistent, while others sit squarely in the core where nearly every well drilled has performed well.",
+        "This is a more judgment-driven number than valuing a producing well, and we say that plainly. Two appraisers can reasonably land on different figures for the same quiet tract. What we offer is a written number based on real, checkable activity in your area, not a guess pulled from a national average that has nothing to do with your specific county."
+      ]
+    },
+    {
+      "heading": "Why Someone Sells Minerals That Have Never Paid a Dime",
+      "paragraphs": [
+        "The most common reason is simply removing uncertainty. An heir who inherited quiet acreage in a county they've never visited often has no way to judge whether it's worth waiting on, and every year that passes with no lease offer is a year of continued ownership with no income to show for it, plus the tax filings and address-tracking that come with owning any mineral interest at all. Selling converts that open-ended wait into a known number today.",
+        "Some owners also sell specifically because they've watched neighboring tracts get leased or drilled while theirs sits untouched, and they'd rather cash out at today's activity-driven value than keep hoping a landman eventually reaches their particular parcel. There's no wrong reason. We'll give you the number and let you weigh it against whatever your own patience and circumstances call for."
+      ]
+    },
+    {
+      "heading": "What the Process Looks Like",
+      "paragraphs": [
+        "We start by confirming exactly what you own — the legal description, the county, and whether there's a deed or probate record establishing your interest, since non-producing minerals sometimes have less paper trail than a producing interest with years of division orders behind it. From there we research activity in the surrounding township and sections, put together a written offer, and walk you through exactly how we got to that number so it isn't a mystery figure.",
+        "There's no obligation to accept, and no cost to find out. If the answer is that your specific tract shows very little near-term activity and the number comes back modest, we'll tell you that too rather than manufacturing urgency around an offer that doesn't reflect what's actually happening in your area."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How can minerals be worth anything if they've never produced income?",
+      "answer": "Value comes from the potential for future leasing and drilling, based on activity happening on nearby tracts, not from a payment history. A quiet tract in an actively developing area can carry real value even with zero production to date."
+    },
+    {
+      "question": "Your lease expired years ago with no well drilled. Do you still own the minerals?",
+      "answer": "Yes. When a lease's primary term expires without drilling or production, the mineral rights typically revert fully back to you, free to lease again or sell as you see fit."
+    },
+    {
+      "question": "How do you value acreage with no production history?",
+      "answer": "We look at recent lease bonuses and permits on nearby tracts, well spacing units near your acreage, and known formation quality in your county, then build a written offer around what's realistically happening in your specific area."
+    },
+    {
+      "question": "Is it better to wait for a lease offer than to sell now?",
+      "answer": "That depends on your patience and how active your specific area is. There's no guarantee a landman ever reaches a given tract, so some owners prefer a known number today over an open-ended wait with no set timeline."
+    },
+    {
+      "question": "Do you need a survey or title work before you can make an offer?",
+      "answer": "Not to get an initial written offer. We'll do our own research to confirm the legal description and ownership, and any formal title work happens later, as part of actually closing a sale."
+    }
+  ],
+  "status": "written",
+  "wordCount": 1090,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-non-producing-minerals-royaltybuyerusa-com.jpg",
+    "alt": "Non-Producing Minerals mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

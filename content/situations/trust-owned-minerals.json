@@ -1,0 +1,73 @@
+{
+  "slug": "trust-owned-minerals",
+  "title": "Trust-Owned Minerals",
+  "type": "situation",
+  "note": "trustee sale considerations",
+  "metaTitle": "Selling Mineral Rights Held in a Trust",
+  "metaDescription": "Trustees face a higher bar than individual owners when selling mineral rights. Here's how fiduciary duty, beneficiary consent, and valuation fit together.",
+  "heroLead": "A trustee doesn't just own the decision, they answer for it, sometimes to beneficiaries who each see the interest differently.",
+  "intro": [
+    "Being a trustee changes the calculus on a mineral sale in a way that catches some trustees off guard the first time it comes up. If you owned the interest personally, you could sell it whenever you wanted, for whatever price you were comfortable with, and answer to nobody. As trustee, you're managing someone else's asset under a fiduciary duty, and that duty follows you into every decision about a trust-held mineral interest, from whether to sell at all to how you document that the price was fair.",
+    "We work with trustees regularly, often family members serving as trustee for the first time rather than professional fiduciaries, and most are simply trying to do right by beneficiaries who may not agree with each other about what 'right' even means. Some want income preserved, some want the trust liquidated and distributed, and the trustee sits in the middle trying to honor the trust document's instructions while treating everyone fairly."
+  ],
+  "sections": [
+    {
+      "heading": "The Trustee's Duty in a Mineral Sale",
+      "paragraphs": [
+        "A trustee generally owes beneficiaries a duty of loyalty and a duty of care, which in practice means acting in the beneficiaries' interest, not your own, and exercising reasonable care and diligence in evaluating any decision, including a sale. For a mineral interest, that usually translates into getting a defensible valuation before selling, documenting how you arrived at your decision, and, where the trust document requires it, obtaining beneficiary consent or court approval before finalizing a transfer.",
+        "The trust document itself is the first place to look. Some trusts give the trustee broad discretion to sell trust property without beneficiary sign-off; others require notice to beneficiaries, a waiting period, or explicit consent before a sale of this kind can proceed. Your attorney should confirm what your specific trust requires before you move forward, since getting this wrong can expose you to a later challenge from a beneficiary who disagreed with the sale."
+      ]
+    },
+    {
+      "heading": "Documenting a Fair Price",
+      "paragraphs": [
+        "Because a trustee can be held accountable for the price obtained, it's worth building a paper trail showing the sale was reasonable — a written offer with supporting detail on how the number was calculated, and ideally a second opinion or comparison point if the interest is significant relative to the trust's total value. We provide exactly that kind of documented offer, explaining the production history, decline trend, or comparable activity we used to arrive at our number, specifically because trustees need more than a verbal figure to satisfy their duty.",
+        "For larger or more complex trust-held interests, some trustees also obtain a formal third-party appraisal alongside any purchase offers, which adds an extra layer of defensibility even though it takes more time and cost. Whether that extra step is warranted usually scales with the size of the interest and how contentious the beneficiaries are likely to be."
+      ]
+    },
+    {
+      "heading": "When Beneficiaries Disagree",
+      "paragraphs": [
+        "It's common for beneficiaries to split on whether a trust-held mineral interest should be sold or held — some want the steady, if unpredictable, royalty income to continue funding trust distributions, others would rather see the trust simplified and the value converted to cash that's easier to divide or invest elsewhere. As trustee, you're not obligated to satisfy every beneficiary's individual preference, only to act reasonably and in line with the trust's terms and your fiduciary duty as a whole.",
+        "Getting a real, written offer in hand — even before deciding whether to sell — can actually help resolve this kind of disagreement, since it turns an abstract debate about 'what the minerals might be worth' into a concrete number everyone can react to. Some trustees use our offer purely as a data point in that internal conversation and never sell to us at all, which is a completely legitimate use of the information."
+      ]
+    },
+    {
+      "heading": "How the Sale Itself Works",
+      "paragraphs": [
+        "Once you've confirmed your authority to sell under the trust document and satisfied any consent requirements, the transaction itself works much like any other mineral sale — we confirm the trust's ownership against county records, review the trust document to verify your authority to sign as trustee, and prepare a deed that properly reflects the trust as seller. Title companies are accustomed to trust-held mineral sales and will typically want to see the trust document or a certification of trust confirming your powers before closing.",
+        "If the trust holds multiple mineral interests across different counties or states, we can evaluate all of them together and give you one consolidated picture, which is often easier for trustees managing a scattered portfolio than handling each interest as a separate transaction."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does your trust document allow you to sell mineral rights without beneficiary consent?",
+      "answer": "It depends entirely on the specific trust document. Some grant broad discretion to the trustee; others require notice, consent, or court approval for a sale like this. Have your attorney review the document before proceeding."
+    },
+    {
+      "question": "Can beneficiaries challenge a sale after it closes?",
+      "answer": "Potentially, if they believe the trustee didn't act with reasonable care or obtained an unfair price. This is exactly why documenting how the sale price was determined matters, and why some trustees pair our offer with a formal appraisal for larger interests."
+    },
+    {
+      "question": "What documents do you need to buy from a trust?",
+      "answer": "Typically the trust document or a certification of trust confirming your authority as trustee, along with the deed or division order establishing the trust's ownership of the mineral interest."
+    },
+    {
+      "question": "Can you get an offer just to inform a decision, without committing to sell?",
+      "answer": "Yes, plenty of trustees use our written offer purely as information for an internal discussion with beneficiaries or co-trustees, and never proceed to an actual sale. There's no obligation attached to getting a number."
+    },
+    {
+      "question": "What if the trust owns interests in multiple counties or states?",
+      "answer": "We can evaluate all of them together and provide one consolidated offer, which is usually simpler for a trustee to manage than treating each interest as a separate transaction."
+    }
+  ],
+  "status": "written",
+  "wordCount": 1033,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-royaltybuyerusa-com.jpg",
+    "alt": "Trust-Owned Minerals mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

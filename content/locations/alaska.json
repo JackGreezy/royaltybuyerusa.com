@@ -1,0 +1,78 @@
+{
+  "slug": "alaska",
+  "title": "Sell Mineral Rights in Alaska",
+  "type": "state",
+  "group": "North Slope royalty owners",
+  "primaryKeyword": "mineral rights alaska",
+  "seo": {
+    "vol": 90,
+    "cpc": null
+  },
+  "metaTitle": "Sell Alaska Mineral & Royalty Rights | Royalty Buyer USA",
+  "metaDescription": "Hold a North Slope royalty or overriding royalty interest in Alaska? We buy oil, gas, and non-op royalty from Alaska owners nationwide. No obligation offer.",
+  "heroLead": "North Slope royalty rarely looks like a Texas ranch royalty check — it's more often an ANCSA-linked interest, a working interest override, or a small legacy position that's been passed down without much explanation.",
+  "intro": [
+    "We come from ranching stock, not the oil patch, so when we started buying minerals we had to learn Alaska's ownership patterns from scratch — and they're genuinely unlike anywhere else in the country. Much of the North Slope sits on state and Native corporation land rather than the checkerboard of private mineral estates you'd find in Oklahoma or Texas, which means the royalty and overriding royalty interests that do exist in private hands often came from an early participation agreement, a farmout, or a family member who worked the industry decades ago and kept a piece.",
+    "If you're one of the relatively small number of people nationwide holding an Alaska oil and gas royalty or ORRI, whether it's tied to Prudhoe Bay, Kuparuk, or one of the newer discoveries on the Slope, we buy those interests. We also buy non-operated working interests and net profits interests where that's what someone actually holds. Because these positions are less common and less liquid than a typical Permian royalty, getting a real offer usually means more legwork on our end — legwork we do before we ever quote you a number."
+  ],
+  "sections": [
+    {
+      "heading": "Why Alaska interests are harder to value than most",
+      "paragraphs": [
+        "Most royalty buyers who focus on Texas, Oklahoma, and Louisiana simply won't touch an Alaska interest, because the comparable sales data that makes pricing fast in the Permian or Haynesville doesn't exist up there in the same volume. Fewer transactions means we can't just pull three recent nearby deals and price off them the way we would in Reeves County. Instead we go straight to production data filed with the Alaska Oil and Gas Conservation Commission and build a decline model specific to your well or unit.",
+        "That extra work is exactly why we're careful not to throw out a number before we've actually looked at your interest. If someone offers you a fast, generic quote on an Alaska royalty without asking which field, which unit, and what your decimal interest is, be skeptical — it likely means they're guessing, not pricing."
+      ]
+    },
+    {
+      "heading": "ANCSA land, state leases, and what you actually own",
+      "paragraphs": [
+        "Alaska Native Claims Settlement Act corporations hold enormous mineral estates that don't trade like typical private minerals, and if your family's interest connects to a Native corporation share, that's a different legal animal from a fee mineral interest you'd inherit in the Lower 48 — usually not something we or anyone else can simply buy outright. What we do buy is privately held royalty and override interests carved out of leases on state or federal acreage, which is a more limited but real category of ownership.",
+        "If you're not sure which bucket your family's paperwork falls into, send us what you have. We'll tell you plainly whether it's something we can make an offer on or something that needs to stay exactly as it is, rather than stringing you along toward a deal that was never going to close."
+      ]
+    },
+    {
+      "heading": "The realities of North Slope production and pricing",
+      "paragraphs": [
+        "North Slope crude has historically priced against Alaska North Slope (ANS) benchmark, which trades close to global Brent pricing rather than the WTI number most of the country watches, and that spread has moved around a lot over the years depending on shipping costs and global demand. Anyone valuing your interest should be working off ANS realizations, not a generic WTI assumption — using the wrong benchmark alone can throw an offer off meaningfully.",
+        "Legacy North Slope fields like Prudhoe Bay have been producing since the late 1970s and are well into decline, while newer developments on the western Slope have added fresh volumes in recent years. Where your specific interest sits in that mix, old and declining versus newer and still building, changes the shape of the value conversation, and we'll walk you through which one applies to you."
+      ]
+    },
+    {
+      "heading": "How we work with Alaska owners from a distance",
+      "paragraphs": [
+        "Almost none of our Alaska sellers live in Alaska, and neither do we — these interests get passed down to heirs scattered across the Lower 48 who inherited a royalty statement with no context attached to it. Everything can be done by mail, phone, and email; we don't need you to travel, and we don't ask you to sign anything before you've had a chance to review it and, if you'd like, run it past your own attorney.",
+        "We'll pull the title and production history ourselves once you send us your decimal interest, unit or lease name, and a recent statement. From there we build an offer, walk you through exactly how we got to that number, and close through a title company or escrow attorney once you're ready. There's no cost to get a number, and no obligation if it's not the right time to sell."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you buy royalty interests tied to Alaska Native corporation land?",
+      "answer": "Generally we buy privately held royalty and overriding royalty interests carved from leases on state or federal acreage, not shares in an ANCSA corporation itself. Send us your paperwork and we'll tell you clearly which category your interest falls into."
+    },
+    {
+      "question": "Is North Slope crude priced the same as Texas oil?",
+      "answer": "No. Alaska North Slope crude trades against its own ANS benchmark, which tracks closer to global Brent pricing than the WTI price most of the Lower 48 watches, and that spread varies with shipping and global demand."
+    },
+    {
+      "question": "You inherited a small Alaska royalty and have no idea what field it's in. Can you help you figure that out?",
+      "answer": "Yes. Send us whatever paperwork or statements you have, even incomplete ones, and we'll research the unit, lease, and production history before we ever discuss a number."
+    },
+    {
+      "question": "Why do so few companies buy Alaska mineral interests?",
+      "answer": "Alaska has far fewer private mineral transactions than Texas, Oklahoma, or Louisiana, so pricing data is thin and each interest typically requires individual research rather than a quick comparable-sales lookup. Many buyers simply skip the state because of that extra work."
+    },
+    {
+      "question": "Do you need to travel to Alaska to sell your interest?",
+      "answer": "No. We handle Alaska interests entirely by phone, mail, and email, and closings run through a title company or escrow attorney, the same as any other state we work in."
+    }
+  ],
+  "status": "written",
+  "wordCount": 1098,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-alaska.jpg",
+    "alt": "Sell Mineral Rights in Alaska location",
+    "width": 1600,
+    "height": 1000
+  }
+}

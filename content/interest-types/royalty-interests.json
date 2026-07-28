@@ -1,0 +1,72 @@
+{
+  "slug": "royalty-interests",
+  "title": "Royalty Interests",
+  "type": "interest-type",
+  "metaTitle": "What Is a Royalty Interest in Oil and Gas?",
+  "metaDescription": "A royalty interest pays you a share of production with no drilling costs and no leasing authority. Here's exactly how the payment math works.",
+  "heroLead": "A royalty interest is the simplest math in the oil patch — a fraction of what comes out of the ground, paid to you free of drilling cost.",
+  "intro": [
+    "A royalty interest entitles the owner to a share of the value of oil, gas, or other minerals produced from a well, without bearing any of the cost to drill, complete, or operate it. This is what most people mean when they talk about 'getting a check' from a well — the operator sells the production, deducts whatever the lease allows, and pays out the royalty owner's percentage of the remaining value, month after month, for as long as the well produces.",
+    "There are a few different flavors of royalty interest, and knowing which one you hold changes both the mechanics of your payment and how the interest gets valued if you ever want to sell. The most common by far is the landowner's royalty created in an oil and gas lease, but non-participating royalty and overriding royalty interests are structured somewhat differently, each covered on its own page here."
+  ],
+  "sections": [
+    {
+      "heading": "How a Landowner's Royalty Gets Created",
+      "paragraphs": [
+        "When a mineral owner signs an oil and gas lease, the lease specifies a royalty rate — historically 1/8th, though modern leases in active plays commonly run from 1/6th up to 1/4 or higher depending on negotiating leverage at the time — which is the mineral owner's reserved share of production. The operator, as lessee, bears 100% of the drilling and operating costs and keeps the remainder of production value after paying that royalty, which is why the lease is attractive to operators even at higher royalty rates: they only pay if the well actually produces.",
+        "Your royalty share gets further divided by your fractional ownership of the minerals under that specific well's spacing unit. If you own all the minerals under 80 acres and the well's unit covers 640 acres, your royalty is calculated on your pro-rata share of that unit, not on the full royalty rate applied to your smaller tract alone. This unit-based math is one of the more common points of confusion for owners looking at a royalty statement for the first time."
+      ]
+    },
+    {
+      "heading": "What Comes Off the Top Before You're Paid",
+      "paragraphs": [
+        "Most leases allow certain post-production costs to be deducted before calculating your royalty — gathering, processing, transportation, and compression, depending on exactly how the lease is worded. Some leases specify the royalty as free of these deductions, sometimes called a 'gross' royalty; others allow them, producing a 'net' royalty that can run noticeably lower than the stated rate would suggest. Reading your specific lease language, or asking the operator directly which deductions apply, clears up a lot of confusion when a check looks smaller than expected relative to the well's reported production.",
+        "Severance taxes, which most oil and gas producing states levy on production, are also typically deducted from your royalty share before payment, separate from any post-production cost deductions the lease allows. Your division order or royalty statement should itemize these deductions, and it's worth reviewing that breakdown periodically rather than assuming the number is always correct."
+      ]
+    },
+    {
+      "heading": "Why Royalty Checks Move Around Month to Month",
+      "paragraphs": [
+        "Two things drive the variation owners notice in their royalty checks: production volume and commodity price, and both move independently of each other. A well's output naturally declines over time following a decline curve — steep in the early months for most unconventional wells, then flattening into a longer, slower tail — so even at a constant price, your check will generally shrink over the years the well produces. Layer commodity price swings on top of that declining volume and it's normal to see real variation from one statement to the next, even without anything going wrong.",
+        "This is one of the main reasons royalty interests are harder to value than a fixed-income asset like a bond. There's no guaranteed payment amount, only a share of whatever the well actually produces at whatever price it sells for that month, which is exactly why we look closely at recent statements and the well's decline trend rather than any single month's number when putting together an offer."
+      ]
+    },
+    {
+      "heading": "Selling a Royalty Interest",
+      "paragraphs": [
+        "When you sell a royalty interest, the buyer takes over your right to future production payments, and you receive a lump sum today instead of the ongoing monthly checks. The lease itself, and whatever operator is producing the well, doesn't change — only who's entitled to the royalty owner's share changes hands. We confirm your interest against the operator's division order and county records, review recent statements and the decline trend, and put together a written offer that reflects both the current payment level and where the well is likely headed over its remaining life.",
+        "You can sell your entire royalty interest or a defined portion of it, and you can do this whether the interest came from an original lease you signed, or one you inherited, or one you purchased from someone else years ago. The mechanics of the sale are the same regardless of how you originally came to own it."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you have to pay drilling costs on a royalty interest?",
+      "answer": "No. A royalty interest is free of drilling and operating costs by definition — the operator bears those entirely. You may still see post-production costs like gathering or transportation deducted, depending on how your specific lease is worded."
+    },
+    {
+      "question": "Why does your royalty check change every month?",
+      "answer": "Both production volume and commodity price move independently and affect your payment. Wells typically decline in output over time, and prices fluctuate with the market, so variation month to month is normal rather than a sign of a problem."
+    },
+    {
+      "question": "What's the difference between a gross royalty and a net royalty?",
+      "answer": "A gross royalty is free of post-production cost deductions; a net royalty allows the operator to deduct costs like gathering, processing, or transportation before calculating your share. Your lease language determines which applies to you."
+    },
+    {
+      "question": "Can you sell only part of your royalty interest?",
+      "answer": "Yes. You can sell a percentage of your royalty interest, or a set number of years of future production, and keep the remainder, rather than selling the entire interest at once."
+    },
+    {
+      "question": "Does selling your royalty interest change who operates the well?",
+      "answer": "No. The operator and the underlying lease stay exactly the same. Only the right to receive the royalty owner's share of future production changes hands."
+    }
+  ],
+  "status": "written",
+  "wordCount": 1097,
+  "image": {
+    "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-royaltybuyerusa-com.jpg",
+    "alt": "Royalty Interests mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

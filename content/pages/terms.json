@@ -1,0 +1,98 @@
+{
+  "slug": "terms",
+  "title": "Terms",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "Terms of Use — Royalty Buyer USA",
+  "metaDescription": "Terms of use for this site: no obligation from an offer request, no professional advice, accuracy of submitted information, and limits of liability.",
+  "heroLead": "These terms govern your use of this site and any offer request submitted through it. Read them before you submit an inquiry.",
+  "intro": [
+    "This site is operated to connect mineral and royalty owners considering a sale with a direct buyer. Using this site, requesting an offer, or contacting us does not create any obligation on your part to sell, and does not create any obligation on our part to purchase, until both parties sign a definitive purchase and sale agreement.",
+    "These terms explain the basic rules of engagement, what this site is and is not, and where liability sits."
+  ],
+  "sections": [
+    {
+      "heading": "No Obligation, No Binding Offer Until Signed",
+      "paragraphs": [
+        "Any valuation, estimate, or offer communicated through this site, by phone, or by email is preliminary and non-binding until reduced to a signed purchase and sale agreement and, ultimately, a signed and delivered deed. Submitting information to request an offer does not obligate you to sell, and does not obligate us to purchase at any particular price.",
+        "Preliminary numbers may change based on information discovered during title review or records confirmation, and we will explain any change in reasoning rather than simply presenting a revised figure."
+      ]
+    },
+    {
+      "heading": "Accuracy of Information You Submit",
+      "paragraphs": [
+        "You are responsible for the accuracy of information and documents you provide, including ownership details, deeds, and royalty statements. We rely on this information, along with our own independent county records review, to build any offer, and material inaccuracies discovered later may affect the terms of a proposed transaction.",
+        "If you are uncertain about any detail of your ownership, tell us that directly rather than guessing, since it helps us scope the records review correctly from the start."
+      ]
+    },
+    {
+      "heading": "Not Professional Advice",
+      "paragraphs": [
+        "Nothing on this site, including the resource articles, constitutes legal, tax, or appraisal advice. We are a mineral and royalty buyer, not a licensed attorney, CPA, or certified appraiser, and content here is provided for general informational purposes. For guidance specific to your situation, consult a qualified professional.",
+        "Where a page references talking to your CPA or an attorney, that reflects the limits of what we are positioned to advise on, not a formality."
+      ]
+    },
+    {
+      "heading": "Limitation of Liability",
+      "paragraphs": [
+        "This site and its content are provided as-is, without warranties of any kind regarding accuracy or completeness, and we are not liable for decisions made based solely on general information published here. Any actual transaction is governed by its own signed purchase and sale agreement, which controls over anything stated informally on this site.",
+        "To the extent permitted by law, our liability arising from your use of this site is limited to the fullest extent applicable."
+      ]
+    },
+    {
+      "heading": "Changes to These Terms",
+      "paragraphs": [
+        "We may update these terms from time to time to reflect changes in how the site or our process operates. Continued use of the site after an update constitutes acceptance of the revised terms, and material changes will be reflected with an updated effective date."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does requesting an offer obligate you to sell?",
+      "answer": "No, submitting a request or receiving a preliminary valuation does not create any obligation to sell, and no transaction is binding until a definitive purchase and sale agreement and deed are signed."
+    },
+    {
+      "question": "Is the information on this site legal or tax advice?",
+      "answer": "No, content on this site is general information only and is not a substitute for advice from a licensed attorney, CPA, or certified appraiser regarding your specific situation."
+    },
+    {
+      "question": "Can a preliminary offer change before closing?",
+      "answer": "Yes, if title review or records confirmation reveals information that differs from what was initially submitted, the terms of a proposed transaction may be adjusted, with the reasoning explained to you directly."
+    },
+    {
+      "question": "What governs the actual sale if you decide to proceed?",
+      "answer": "A signed purchase and sale agreement and the final deed govern the transaction, and those documents control over any informal statement made earlier in the process."
+    },
+    {
+      "question": "Can you stop the process at any point before closing?",
+      "answer": "Yes, until documents are signed and closing has occurred, you are free to step away from a proposed transaction without penalty or obligation."
+    },
+    {
+      "question": "Who owns the content published on this site?",
+      "answer": "Content on this site, including the resource articles, is provided for informational use by visitors and may not be reproduced or republished elsewhere without permission."
+    },
+    {
+      "question": "What if a dispute arises regarding a completed transaction?",
+      "answer": "Any dispute regarding a completed sale is governed by the terms of the signed purchase and sale agreement for that specific transaction, which supersedes anything stated on this site."
+    },
+    {
+      "question": "Are these terms the same as the purchase and sale agreement you would sign to close?",
+      "answer": "No, these terms govern general use of the site, while a definitive purchase and sale agreement is a separate, specific document negotiated and signed only if you decide to proceed with an actual transaction."
+    },
+    {
+      "question": "Can these terms be updated without notice?",
+      "answer": "We may revise these terms periodically to reflect how the site operates, with the effective date updated accordingly, and continued use of the site after a revision reflects your acceptance of the current version."
+    },
+    {
+      "question": "Does using this site create any attorney-client or fiduciary relationship?",
+      "answer": "No, using this site or requesting an offer does not create an attorney-client, fiduciary, or advisory relationship of any kind between you and us."
+    }
+  ],
+  "wordCount": 891,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-terms-royaltybuyerusa-com.jpg",
+    "alt": "Terms mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}
