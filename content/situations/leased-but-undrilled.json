@@ -1,73 +1,73 @@
 {
- "slug": "leased-but-undrilled",
- "title": "Leased but Undrilled",
- "type": "situation",
- "note": "bonus paid, no drilling yet",
- "metaTitle": "Mineral Rights Leased but No Well Drilled Yet",
- "metaDescription": "Signed a lease, cashed the bonus check, and now years have passed with no drilling? Here's what's happening and what your leased acreage is worth.",
- "heroLead": "A landman shows up, a bonus check clears, and then years pass with nothing but a quiet lease sitting in a drawer.",
- "intro": [
-  "This is one of the most common calls we get, and it usually starts with confusion more than anything else. An owner leased their minerals three, five, sometimes eight years ago, took the signing bonus, and expected a well to follow within a reasonable stretch of time. Instead, nothing happened. No rig ever showed up, no royalty check ever arrived, and the lease itself is written in language dense enough that most owners can't tell whether it's still in effect or quietly expired.",
-  "Leasing without drilling isn't unusual, and it doesn't automatically mean anything went wrong. Operators lease far more acreage than they ever drill in a given year, holding it as an option while they decide where capital actually goes. What matters to you as the owner is understanding what your specific lease says about how long that option lasts, and what your acreage is worth while you wait to find out."
- ],
- "sections": [
-  {
-   "heading": "Why Operators Lease and Then Wait",
-   "paragraphs": [
-    "A lease gives an operator the right to drill for a set primary term — commonly three or five years — and it stays in effect beyond that term only if drilling begins or production starts before the term runs out. Operators lease broad blocks of acreage up front because it's cheaper to hold optionality on a lot of ground than to drill it all at once, and drilling decisions follow commodity prices, rig availability, and where the best rock sits within that leased block. Your particular tract might simply be lower priority than acreage closer to existing infrastructure, even if it's geologically similar.",
-    "This can feel frustrating from the owner's side, since there's no real communication requirement once the bonus is paid — most leases don't obligate the operator to update you on their plans. That silence is normal, not a sign the operator has forgotten about the acreage or that something is wrong with it."
-   ]
-  },
-  {
-   "heading": "What Happens When the Primary Term Runs Out",
-   "paragraphs": [
-    "If the primary term expires with no drilling and no production, most leases terminate automatically and the mineral rights revert fully back to you, free to lease again to whoever offers the best terms. Some leases include delay rental clauses that let the operator pay an annual fee to extend the term without drilling, so check whether your lease has that language before assuming it's expired just because the years have passed. Read your lease's habendum clause specifically — that's the section defining the primary term and what keeps it alive afterward.",
-    "If you're unsure whether your lease is still active, a title check at the county courthouse or clerk's office where the lease was recorded will show whether it's been extended, released, or left to lapse quietly. This is worth doing before you sign anything new or make a decision to sell, since your negotiating position is different depending on whether the lease is live or dead."
-   ]
-  },
-  {
-   "heading": "What Leased-but-Undrilled Acreage Is Worth",
-   "paragraphs": [
-    "Value on leased, undrilled acreage is driven almost entirely by what's happening around it rather than on your specific tract, since there's no production history to point to yet. We look at permits filed nearby, whether neighboring sections have active rigs or recent completions, how the play has trended in that county over the last couple years, and what your lease terms say about royalty rate and any bonus already paid. A tract sitting inside a hot, actively developing area is worth meaningfully more than the same acreage in a quiet corner of the same basin, even with identical lease language.",
-    "Because there's no royalty check to anchor the number, this is inherently a more speculative valuation than a producing interest, and we say that plainly rather than pretending otherwise. Some owners choose to sell here specifically because they'd rather take a known amount now than keep waiting on a drilling decision that may or may not ever come, especially if the lease is close to expiring anyway and the acreage could simply revert with no offer on the table at all."
-   ]
-  },
-  {
-   "heading": "Selling While Under an Active Lease",
-   "paragraphs": [
-    "You can sell mineral rights while a lease is still in effect — the buyer simply steps into your position as lessor, inheriting whatever royalty rate and terms the existing lease sets, while you keep any bonus you already collected. This is a completely normal transaction and doesn't require the operator's consent or involvement in most states, though the sale does need to be recorded at the courthouse to put the operator on notice of the new owner.",
-    "We'll review your lease terms as part of any offer, confirm the primary term status, and factor recent activity in your area into the number. If the lease has already expired and reverted, that changes the picture too — unleased minerals in an active area still carry value, just calculated a bit differently than leased acreage with a locked-in royalty rate."
-   ]
+  "slug": "leased-but-undrilled",
+  "title": "Leased but Undrilled",
+  "type": "situation",
+  "note": "bonus paid, no drilling yet",
+  "metaTitle": "Mineral Rights Leased but No Well Drilled Yet",
+  "metaDescription": "Signed a lease, cashed the bonus check, and now years have passed with no drilling? Here's what's happening and what your leased acreage is worth.",
+  "heroLead": "A landman shows up, a bonus check clears, and then years pass with nothing but a quiet lease sitting in a drawer.",
+  "intro": [
+    "This is one of the most common calls we get, and it usually starts with confusion more than anything else. An owner leased their minerals three, five, sometimes eight years ago, took the signing bonus, and expected a well to follow within a reasonable stretch of time. Instead, nothing happened. No rig ever showed up, no royalty check ever arrived, and the lease itself is written in language dense enough that most owners can't tell whether it's still in effect or quietly expired.",
+    "Leasing without drilling isn't unusual, and it doesn't automatically mean anything went wrong. Operators lease far more acreage than they ever drill in a given year, holding it as an option while they decide where capital actually goes. What matters to you as the owner is understanding what your specific lease says about how long that option lasts, and what your acreage is worth while you wait to find out."
+  ],
+  "sections": [
+    {
+      "heading": "Why Operators Lease and Then Wait",
+      "paragraphs": [
+        "A lease gives an operator the right to drill for a set primary term — commonly three or five years — and it stays in effect beyond that term only if drilling begins or production starts before the term runs out. Operators lease broad blocks of acreage up front because it's cheaper to hold optionality on a lot of ground than to drill it all at once, and drilling decisions follow commodity prices, rig availability, and where the best rock sits within that leased block. Your particular tract might simply be lower priority than acreage closer to existing infrastructure, even if it's geologically similar.",
+        "This can feel frustrating from the owner's side, since there's no real communication requirement once the bonus is paid — most leases don't obligate the operator to update you on their plans. That silence is normal, not a sign the operator has forgotten about the acreage or that something is wrong with it."
+      ]
+    },
+    {
+      "heading": "What Happens When the Primary Term Runs Out",
+      "paragraphs": [
+        "If the primary term expires with no drilling and no production, most leases terminate automatically and the mineral rights revert fully back to you, free to lease again to whoever offers the best terms. Some leases include delay rental clauses that let the operator pay an annual fee to extend the term without drilling, so check whether your lease has that language before assuming it's expired just because the years have passed. Read your lease's habendum clause specifically — that's the section defining the primary term and what keeps it alive afterward.",
+        "If you're unsure whether your lease is still active, a title check at the county courthouse or clerk's office where the lease was recorded will show whether it's been extended, released, or left to lapse quietly. This is worth doing before you sign anything new or make a decision to sell, since your negotiating position is different depending on whether the lease is live or dead."
+      ]
+    },
+    {
+      "heading": "What Leased-but-Undrilled Acreage Is Worth",
+      "paragraphs": [
+        "Value on leased, undrilled acreage is driven almost entirely by what's happening around it rather than on your specific tract, since there's no production history to point to yet. We look at permits filed nearby, whether neighboring sections have active rigs or recent completions, how the play has trended in that county over the last couple years, and what your lease terms say about royalty rate and any bonus already paid. A tract sitting inside a hot, actively developing area is worth meaningfully more than the same acreage in a quiet corner of the same basin, even with identical lease language.",
+        "Because there's no royalty check to anchor the number, this is inherently a more speculative valuation than a producing interest, and we say that plainly rather than pretending otherwise. Some owners choose to sell here specifically because they'd rather take a known amount now than keep waiting on a drilling decision that may or may not ever come, especially if the lease is close to expiring anyway and the acreage could simply revert with no offer on the table at all."
+      ]
+    },
+    {
+      "heading": "Selling While Under an Active Lease",
+      "paragraphs": [
+        "You can sell mineral rights while a lease is still in effect — the buyer simply steps into your position as lessor, inheriting whatever royalty rate and terms the existing lease sets, while you keep any bonus you already collected. This is a completely normal transaction and doesn't require the operator's consent or involvement in most states, though the sale does need to be recorded at the courthouse to put the operator on notice of the new owner.",
+        "We'll review your lease terms as part of any offer, confirm the primary term status, and factor recent activity in your area into the number. If the lease has already expired and reverted, that changes the picture too — unleased minerals in an active area still carry value, just calculated a bit differently than leased acreage with a locked-in royalty rate."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "It's been six years since you leased and no well has been drilled. Is your lease still active?",
+      "answer": "Check the primary term length in your lease and whether it has a delay rental clause. If the term has run with no drilling, production, or rental payment, most leases terminate automatically, but a county title check is the surest way to confirm."
+    },
+    {
+      "question": "Can you lease the same minerals to a different company if your old lease expired?",
+      "answer": "Yes, once a lease terminates the minerals revert fully to you and you're free to negotiate a new lease with any operator, including better terms than the original if activity in your area has picked up."
+    },
+    {
+      "question": "Is undrilled acreage worth anything at all?",
+      "answer": "Yes, though the value depends heavily on nearby drilling activity rather than your specific tract's history. Acreage in an actively developing area can carry real value even with no well yet; quiet acreage carries less."
+    },
+    {
+      "question": "Do you need the operator's permission to sell your leased minerals?",
+      "answer": "In most states, no. You can sell your mineral interest subject to the existing lease without the operator's consent, though the sale should be recorded at the county to put the operator on notice of who to pay going forward."
+    },
+    {
+      "question": "Should you wait to see if a well gets drilled before selling?",
+      "answer": "That's your call to make, and there's no single right answer. Waiting could mean a higher payout if drilling starts, or it could mean the lease simply expires with nothing to show for it. We'll give you today's number so you can weigh that decision with real information."
+    }
+  ],
+  "status": "written",
+  "wordCount": 1134,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-royaltybuyerusa-com.jpg",
+    "alt": "Leased but Undrilled mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "It's been six years since you leased and no well has been drilled. Is your lease still active?",
-   "answer": "Check the primary term length in your lease and whether it has a delay rental clause. If the term has run with no drilling, production, or rental payment, most leases terminate automatically, but a county title check is the surest way to confirm."
-  },
-  {
-   "question": "Can you lease the same minerals to a different company if your old lease expired?",
-   "answer": "Yes, once a lease terminates the minerals revert fully to you and you're free to negotiate a new lease with any operator, including better terms than the original if activity in your area has picked up."
-  },
-  {
-   "question": "Is undrilled acreage worth anything at all?",
-   "answer": "Yes, though the value depends heavily on nearby drilling activity rather than your specific tract's history. Acreage in an actively developing area can carry real value even with no well yet; quiet acreage carries less."
-  },
-  {
-   "question": "Do you need the operator's permission to sell your leased minerals?",
-   "answer": "In most states, no. You can sell your mineral interest subject to the existing lease without the operator's consent, though the sale should be recorded at the county to put the operator on notice of who to pay going forward."
-  },
-  {
-   "question": "Should you wait to see if a well gets drilled before selling?",
-   "answer": "That's your call to make, and there's no single right answer. Waiting could mean a higher payout if drilling starts, or it could mean the lease simply expires with nothing to show for it. We'll give you today's number so you can weigh that decision with real information."
-  }
- ],
- "status": "written",
- "wordCount": 1134,
- "image": {
-  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-royaltybuyerusa-com.jpg",
-  "alt": "Leased but Undrilled mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

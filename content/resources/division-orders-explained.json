@@ -1,71 +1,71 @@
 {
- "slug": "division-orders-explained",
- "title": "Division Orders Explained",
- "type": "resource",
- "status": "written",
- "metaTitle": "Division Orders Explained: What to Check Before Signing",
- "metaDescription": "What a division order actually is, why operators send them, and the specific details worth checking before you sign one and start getting paid.",
- "heroLead": "A division order landed in our own mailbox once with no explanation attached, just a form and a signature line, and we understand why that feels uneasy.",
- "intro": [
-  "A division order is one of the first pieces of paper most new owners receive, often right after a well is completed or after an interest changes hands through inheritance or a title update. It is not a lease and it does not transfer any ownership; it is the operator's way of confirming exactly how they intend to pay you before the checks start. Getting comfortable with what it says, and what it does not say, before you sign is worth the twenty minutes it takes."
- ],
- "sections": [
-  {
-   "heading": "What a Division Order Actually Does",
-   "paragraphs": [
-    "The division order states the well name, your decimal interest, and how the operator has calculated that decimal based on their title review. Signing it confirms you agree with that decimal and authorizes the operator to begin or continue paying you at that rate. It is a payment mechanism, not a conveyance, and signing one does not change what you own.",
-    "Operators typically send a division order after a new well is completed within your unit, after they acquire or take over operation of an existing well, or after a title change like an inheritance, a sale, or a name correction has been filed and recorded. If you have not received one in a while but know a new well was drilled nearby, it is worth calling to ask whether your interest is included in that unit."
-   ]
-  },
-  {
-   "heading": "The Decimal Is the Only Number That Matters",
-   "paragraphs": [
-    "Before you sign, compare the decimal interest on the division order against your own math from your deed and, if you can get it, the unit's total acreage and spacing. A simple way to sanity-check it: your net mineral acres divided by total unit acres, multiplied by your royalty rate, should land close to the decimal shown. It will rarely match exactly to the last digit because of rounding and participation factors, but a large mismatch is worth a phone call before you sign anything.",
-    "If your interest passed through an estate, double-check that the decimal reflects your correct share among the heirs, not the full interest the deceased owner held. This is one of the more common points of confusion after an inheritance, especially when several siblings or cousins each inherited a portion."
-   ]
-  },
-  {
-   "heading": "Common Errors Worth Catching",
-   "paragraphs": [
-    "Misspelled names, an outdated mailing address, a Social Security number field that should not be filled in on a document you are mailing rather than submitting through a secure portal, and interest type errors, such as being listed as a royalty owner when you actually hold a full mineral interest, are the errors we see most often. None of these are unusual, and operators generally correct them without much friction once flagged.",
-    "It is also worth checking whether the division order references the correct lease and the correct royalty rate from that lease. An operator working from an older or incorrect copy of your lease can carry the wrong rate forward onto the division order, which then affects every payment until someone catches it."
-   ]
-  },
-  {
-   "heading": "What Happens If You Do Not Sign",
-   "paragraphs": [
-    "Most states allow an operator to hold your share in suspense if you have not returned a signed division order, meaning your payments accrue but do not get released until the paperwork is settled. You are not required to sign immediately, and taking time to verify the decimal is reasonable, but an unsigned division order sitting in a drawer for months or years is the most common reason we see stalled or delayed royalty payments when we review someone's history.",
-    "If something on the form looks wrong, contact the operator's owner relations department directly rather than signing anyway and hoping it sorts itself out later. A corrected division order is a normal, routine request, and most operators have a specific process for handling them."
-   ]
+  "slug": "division-orders-explained",
+  "title": "Division Orders Explained",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "Division Orders Explained: What to Check Before Signing",
+  "metaDescription": "What a division order actually is, why operators send them, and the specific details worth checking before you sign one and start getting paid.",
+  "heroLead": "A division order landed in our own mailbox once with no explanation attached, just a form and a signature line, and we understand why that feels uneasy.",
+  "intro": [
+    "A division order is one of the first pieces of paper most new owners receive, often right after a well is completed or after an interest changes hands through inheritance or a title update. It is not a lease and it does not transfer any ownership; it is the operator's way of confirming exactly how they intend to pay you before the checks start. Getting comfortable with what it says, and what it does not say, before you sign is worth the twenty minutes it takes."
+  ],
+  "sections": [
+    {
+      "heading": "What a Division Order Actually Does",
+      "paragraphs": [
+        "The division order states the well name, your decimal interest, and how the operator has calculated that decimal based on their title review. Signing it confirms you agree with that decimal and authorizes the operator to begin or continue paying you at that rate. It is a payment mechanism, not a conveyance, and signing one does not change what you own.",
+        "Operators typically send a division order after a new well is completed within your unit, after they acquire or take over operation of an existing well, or after a title change like an inheritance, a sale, or a name correction has been filed and recorded. If you have not received one in a while but know a new well was drilled nearby, it is worth calling to ask whether your interest is included in that unit."
+      ]
+    },
+    {
+      "heading": "The Decimal Is the Only Number That Matters",
+      "paragraphs": [
+        "Before you sign, compare the decimal interest on the division order against your own math from your deed and, if you can get it, the unit's total acreage and spacing. A simple way to sanity-check it: your net mineral acres divided by total unit acres, multiplied by your royalty rate, should land close to the decimal shown. It will rarely match exactly to the last digit because of rounding and participation factors, but a large mismatch is worth a phone call before you sign anything.",
+        "If your interest passed through an estate, double-check that the decimal reflects your correct share among the heirs, not the full interest the deceased owner held. This is one of the more common points of confusion after an inheritance, especially when several siblings or cousins each inherited a portion."
+      ]
+    },
+    {
+      "heading": "Common Errors Worth Catching",
+      "paragraphs": [
+        "Misspelled names, an outdated mailing address, a Social Security number field that should not be filled in on a document you are mailing rather than submitting through a secure portal, and interest type errors, such as being listed as a royalty owner when you actually hold a full mineral interest, are the errors we see most often. None of these are unusual, and operators generally correct them without much friction once flagged.",
+        "It is also worth checking whether the division order references the correct lease and the correct royalty rate from that lease. An operator working from an older or incorrect copy of your lease can carry the wrong rate forward onto the division order, which then affects every payment until someone catches it."
+      ]
+    },
+    {
+      "heading": "What Happens If You Do Not Sign",
+      "paragraphs": [
+        "Most states allow an operator to hold your share in suspense if you have not returned a signed division order, meaning your payments accrue but do not get released until the paperwork is settled. You are not required to sign immediately, and taking time to verify the decimal is reasonable, but an unsigned division order sitting in a drawer for months or years is the most common reason we see stalled or delayed royalty payments when we review someone's history.",
+        "If something on the form looks wrong, contact the operator's owner relations department directly rather than signing anyway and hoping it sorts itself out later. A corrected division order is a normal, routine request, and most operators have a specific process for handling them."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does signing a division order affect your ownership of the minerals?",
+      "answer": "No. A division order only confirms how the operator will calculate and send your royalty payments. It does not transfer, sell, or change your underlying ownership in any way."
+    },
+    {
+      "question": "What if the decimal interest on the form looks too small?",
+      "answer": "Small decimals are common on wells with many owners or on interests split among several heirs, and a small decimal is not inherently a sign of an error. Compare it to your own math from the deed, and call the operator if the gap seems large rather than rounding."
+    },
+    {
+      "question": "Is there a deadline to sign a division order?",
+      "answer": "Most states do not set a hard deadline, but your payments are typically held in suspense until you return a signed copy, so there is a practical cost to waiting too long."
+    },
+    {
+      "question": "Should you sign a division order you received from a new operator after a well was sold?",
+      "answer": "Yes, generally, once you have verified the decimal matches what you had with the prior operator. A change in operator is common and does not by itself change your ownership or your decimal interest."
+    },
+    {
+      "question": "Can a buyer help you review a division order before you sign it?",
+      "answer": "Yes. When we review an offer or a set of documents for someone, checking the division order decimal against their deed is one of the first things we look at, at no cost and with no obligation attached."
+    }
+  ],
+  "wordCount": 932,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-division-orders-explained-royaltybuyerusa-com.jpg",
+    "alt": "Division Orders Explained mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Does signing a division order affect your ownership of the minerals?",
-   "answer": "No. A division order only confirms how the operator will calculate and send your royalty payments. It does not transfer, sell, or change your underlying ownership in any way."
-  },
-  {
-   "question": "What if the decimal interest on the form looks too small?",
-   "answer": "Small decimals are common on wells with many owners or on interests split among several heirs, and a small decimal is not inherently a sign of an error. Compare it to your own math from the deed, and call the operator if the gap seems large rather than rounding."
-  },
-  {
-   "question": "Is there a deadline to sign a division order?",
-   "answer": "Most states do not set a hard deadline, but your payments are typically held in suspense until you return a signed copy, so there is a practical cost to waiting too long."
-  },
-  {
-   "question": "Should you sign a division order you received from a new operator after a well was sold?",
-   "answer": "Yes, generally, once you have verified the decimal matches what you had with the prior operator. A change in operator is common and does not by itself change your ownership or your decimal interest."
-  },
-  {
-   "question": "Can a buyer help you review a division order before you sign it?",
-   "answer": "Yes. When we review an offer or a set of documents for someone, checking the division order decimal against their deed is one of the first things we look at, at no cost and with no obligation attached."
-  }
- ],
- "wordCount": 932,
- "image": {
-  "src": "/images/resources/mineral-rights-resources-division-orders-explained-royaltybuyerusa-com.jpg",
-  "alt": "Division Orders Explained mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

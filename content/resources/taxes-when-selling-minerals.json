@@ -1,78 +1,78 @@
 {
- "slug": "taxes-when-selling-minerals",
- "title": "Taxes When You Sell Mineral Rights",
- "type": "resource",
- "status": "written",
- "metaTitle": "Taxes When You Sell Mineral or Royalty Rights",
- "metaDescription": "How selling mineral or royalty rights is generally taxed, including capital gains basics and inherited-interest basis rules, in plain language.",
- "heroLead": "Nobody handed us a tax summary when we sold, and figuring it out after the fact is harder than understanding the basics ahead of time.",
- "intro": [
-  "This page explains, in plain terms, how a mineral or royalty sale is generally treated for tax purposes so the conversation with your CPA starts from a place of understanding rather than confusion. It is general information, not tax advice for your specific situation, and every owner should talk to a CPA or tax advisor before finalizing a sale, since state rules, your basis, and your broader tax picture all affect the actual outcome."
- ],
- "sections": [
-  {
-   "heading": "Capital Gains Is the Starting Framework",
-   "paragraphs": [
-    "Selling a mineral or royalty interest generally results in a capital gain or loss, calculated as the sale price minus your basis in the interest. How long you have held the interest typically determines whether the gain is taxed at short-term or long-term capital gains rates, with long-term treatment generally applying to interests held more than a year.",
-    "This is meaningfully different from royalty income received while you hold the interest, which is generally taxed as ordinary income each year you receive it. A sale is a one-time event taxed differently than the recurring income the same interest would have generated had you kept it."
-   ]
-  },
-  {
-   "heading": "Basis Gets Complicated With Inherited Interests",
-   "paragraphs": [
-    "If you inherited your mineral or royalty interest, your basis is generally the fair market value of the interest at the time of the prior owner's death, not what that person originally paid or the value at any earlier point. This stepped-up basis can meaningfully reduce your taxable gain compared to what it would have been for the original owner, which is one reason accurately establishing that historical fair market value matters.",
-    "Determining the fair market value at a specific past date, sometimes years or decades ago, is a real exercise, particularly for interests that were non-producing at that time or have changed status since. This is exactly the kind of question worth bringing to your CPA or a mineral appraiser rather than estimating on your own."
-   ]
-  },
-  {
-   "heading": "State-Level Considerations",
-   "paragraphs": [
-    "Some states impose their own tax on the sale of mineral interests located within that state, separate from federal capital gains treatment, and this can apply even if you live in a different state than where the minerals sit. Requirements and rates vary meaningfully by state, so this is another area where naming your specific state to your tax advisor matters more than a general rule of thumb can capture.",
-    "If your interest spans more than one state, which happens with family land split across county lines or multiple inherited tracts, each state's specific treatment may need to be considered separately."
-   ]
-  },
-  {
-   "heading": "What to Bring to Your CPA",
-   "paragraphs": [
-    "Your deed, any documentation of how and when you acquired the interest, whether by purchase or inheritance, prior royalty statements if the interest was producing, and the final purchase agreement from your sale give your CPA the fullest picture to work from. If the interest was inherited, documentation supporting the fair market value at the time of death is particularly valuable.",
-    "Bringing this to your CPA before you finalize a sale, rather than only afterward at tax time, gives you the chance to understand the likely tax impact while you can still weigh it against the offer itself."
-   ]
-  },
-  {
-   "heading": "Timing a Sale Around Your Broader Tax Picture",
-   "paragraphs": [
-    "A sale in a year with unusually high income, from a business sale, a large capital gain elsewhere, or a big bonus, can push more of your gain into a higher bracket, while a lower-income year can have the opposite effect. This is worth discussing with your CPA before you finalize timing, particularly if you have flexibility about when to close.",
-    "Splitting a sale across more than one tax year, if a buyer offers a partial sale structure, is one option some owners discuss with their advisor to manage this, though whether it fits your situation depends on your specific numbers."
-   ]
+  "slug": "taxes-when-selling-minerals",
+  "title": "Taxes When You Sell Mineral Rights",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "Taxes When You Sell Mineral or Royalty Rights",
+  "metaDescription": "How selling mineral or royalty rights is generally taxed, including capital gains basics and inherited-interest basis rules, in plain language.",
+  "heroLead": "Nobody handed us a tax summary when we sold, and figuring it out after the fact is harder than understanding the basics ahead of time.",
+  "intro": [
+    "This page explains, in plain terms, how a mineral or royalty sale is generally treated for tax purposes so the conversation with your CPA starts from a place of understanding rather than confusion. It is general information, not tax advice for your specific situation, and every owner should talk to a CPA or tax advisor before finalizing a sale, since state rules, your basis, and your broader tax picture all affect the actual outcome."
+  ],
+  "sections": [
+    {
+      "heading": "Capital Gains Is the Starting Framework",
+      "paragraphs": [
+        "Selling a mineral or royalty interest generally results in a capital gain or loss, calculated as the sale price minus your basis in the interest. How long you have held the interest typically determines whether the gain is taxed at short-term or long-term capital gains rates, with long-term treatment generally applying to interests held more than a year.",
+        "This is meaningfully different from royalty income received while you hold the interest, which is generally taxed as ordinary income each year you receive it. A sale is a one-time event taxed differently than the recurring income the same interest would have generated had you kept it."
+      ]
+    },
+    {
+      "heading": "Basis Gets Complicated With Inherited Interests",
+      "paragraphs": [
+        "If you inherited your mineral or royalty interest, your basis is generally the fair market value of the interest at the time of the prior owner's death, not what that person originally paid or the value at any earlier point. This stepped-up basis can meaningfully reduce your taxable gain compared to what it would have been for the original owner, which is one reason accurately establishing that historical fair market value matters.",
+        "Determining the fair market value at a specific past date, sometimes years or decades ago, is a real exercise, particularly for interests that were non-producing at that time or have changed status since. This is exactly the kind of question worth bringing to your CPA or a mineral appraiser rather than estimating on your own."
+      ]
+    },
+    {
+      "heading": "State-Level Considerations",
+      "paragraphs": [
+        "Some states impose their own tax on the sale of mineral interests located within that state, separate from federal capital gains treatment, and this can apply even if you live in a different state than where the minerals sit. Requirements and rates vary meaningfully by state, so this is another area where naming your specific state to your tax advisor matters more than a general rule of thumb can capture.",
+        "If your interest spans more than one state, which happens with family land split across county lines or multiple inherited tracts, each state's specific treatment may need to be considered separately."
+      ]
+    },
+    {
+      "heading": "What to Bring to Your CPA",
+      "paragraphs": [
+        "Your deed, any documentation of how and when you acquired the interest, whether by purchase or inheritance, prior royalty statements if the interest was producing, and the final purchase agreement from your sale give your CPA the fullest picture to work from. If the interest was inherited, documentation supporting the fair market value at the time of death is particularly valuable.",
+        "Bringing this to your CPA before you finalize a sale, rather than only afterward at tax time, gives you the chance to understand the likely tax impact while you can still weigh it against the offer itself."
+      ]
+    },
+    {
+      "heading": "Timing a Sale Around Your Broader Tax Picture",
+      "paragraphs": [
+        "A sale in a year with unusually high income, from a business sale, a large capital gain elsewhere, or a big bonus, can push more of your gain into a higher bracket, while a lower-income year can have the opposite effect. This is worth discussing with your CPA before you finalize timing, particularly if you have flexibility about when to close.",
+        "Splitting a sale across more than one tax year, if a buyer offers a partial sale structure, is one option some owners discuss with their advisor to manage this, though whether it fits your situation depends on your specific numbers."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is selling mineral rights taxed the same as receiving royalty income?",
+      "answer": "No. A sale generally produces a one-time capital gain or loss, while ongoing royalty income received while you hold the interest is generally taxed as ordinary income each year. Talk to your CPA about how each applies to your situation."
+    },
+    {
+      "question": "What is stepped-up basis and why does it matter for inherited minerals?",
+      "answer": "Stepped-up basis generally sets your basis at the fair market value of the interest at the time of the prior owner's death, which can meaningfully reduce your taxable gain compared to the original owner's basis. Confirming this value accurately is worth discussing with your CPA."
+    },
+    {
+      "question": "Do you owe taxes in the state where the minerals are located, even if you live elsewhere?",
+      "answer": "Some states tax the sale of mineral interests located within that state regardless of where the seller lives. Requirements vary by state, so this is worth confirming with your tax advisor for your specific situation."
+    },
+    {
+      "question": "Can selling part of your interest instead of all of it change the tax outcome?",
+      "answer": "It can, since a partial sale generally triggers gain or loss only on the portion sold. Whether that structure makes sense depends on your broader tax picture, which is a conversation for your CPA."
+    },
+    {
+      "question": "Are you able to give you tax advice directly?",
+      "answer": "No. We are a direct buyer, not a CPA or tax advisor, and this page is general information only. Please consult your CPA or tax advisor about how a sale would affect your specific situation before finalizing anything."
+    }
+  ],
+  "wordCount": 943,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-royaltybuyerusa-com.jpg",
+    "alt": "Taxes When You Sell Mineral Rights mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Is selling mineral rights taxed the same as receiving royalty income?",
-   "answer": "No. A sale generally produces a one-time capital gain or loss, while ongoing royalty income received while you hold the interest is generally taxed as ordinary income each year. Talk to your CPA about how each applies to your situation."
-  },
-  {
-   "question": "What is stepped-up basis and why does it matter for inherited minerals?",
-   "answer": "Stepped-up basis generally sets your basis at the fair market value of the interest at the time of the prior owner's death, which can meaningfully reduce your taxable gain compared to the original owner's basis. Confirming this value accurately is worth discussing with your CPA."
-  },
-  {
-   "question": "Do you owe taxes in the state where the minerals are located, even if you live elsewhere?",
-   "answer": "Some states tax the sale of mineral interests located within that state regardless of where the seller lives. Requirements vary by state, so this is worth confirming with your tax advisor for your specific situation."
-  },
-  {
-   "question": "Can selling part of your interest instead of all of it change the tax outcome?",
-   "answer": "It can, since a partial sale generally triggers gain or loss only on the portion sold. Whether that structure makes sense depends on your broader tax picture, which is a conversation for your CPA."
-  },
-  {
-   "question": "Are you able to give you tax advice directly?",
-   "answer": "No. We are a direct buyer, not a CPA or tax advisor, and this page is general information only. Please consult your CPA or tax advisor about how a sale would affect your specific situation before finalizing anything."
-  }
- ],
- "wordCount": 943,
- "image": {
-  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-royaltybuyerusa-com.jpg",
-  "alt": "Taxes When You Sell Mineral Rights mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }
