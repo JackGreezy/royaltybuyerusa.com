@@ -1,73 +1,73 @@
 {
- "slug": "unsolicited-offer-received",
- "title": "Got an Unsolicited Offer?",
- "type": "situation",
- "note": "benchmarking mailbox offers",
- "metaTitle": "Got an Unsolicited Offer on Your Mineral Rights?",
- "metaDescription": "A stranger's letter offering to buy your royalty interest arrived out of nowhere. Here's how to check whether the number is fair before you respond.",
- "heroLead": "A letter shows up referencing a well you may or may not know about, offering to buy something you didn't know was for sale.",
- "intro": [
-  "This happens more than people expect. A company you've never heard of gets your name and address from county deed records or an operator's division order list, and mails an offer to buy your mineral or royalty interest, sometimes for a specific dollar amount, sometimes just inviting you to call for a quote. It can feel intrusive, and it raises an obvious question: is this a fair number, or are they hoping you'll sign without checking?",
-  "We get asked to review these letters constantly, and the honest answer is it varies. Some unsolicited offers are reasonable. Others are priced well under what the interest is actually worth, betting that most owners won't take the time to verify before signing. There's no way to know which kind you're holding without doing a little homework first, and we're glad to help with that even if you never sell to us."
- ],
- "sections": [
-  {
-   "heading": "Why You're Getting These Letters",
-   "paragraphs": [
-    "Mineral ownership records are public. County deed and probate records, along with operator division orders, are searchable, and a number of companies build their entire business around mailing offers to owners of record across active plays, sometimes targeting counties where recent well permits or completions suggest values are rising. Getting a letter doesn't mean anything unusual is happening with your specific interest — it usually just means you're on a list compiled from public records, the same list anyone, including us, could compile.",
-    "It's also common to get several of these letters over time from different buyers, sometimes with noticeably different offer amounts for what should be the same interest. That spread by itself is a useful signal — if buyers can't agree within a reasonable range, it's worth taking the time to understand why before you sign anything back."
-   ]
-  },
-  {
-   "heading": "How to Check Whether an Offer Is Fair",
-   "paragraphs": [
-    "Start with your most recent royalty statements, if you have any. A rough industry rule of thumb multiplies a healthy year of royalty income by a range tied to the well's expected remaining life and current activity nearby — but that's only a starting sanity check, not a precise formula, since actual value depends heavily on the specific well's decline curve, remaining reserves, and what's happening in the surrounding unit. If an unsolicited offer comes in far below what that rough math suggests, it's worth questioning before you respond.",
-    "It also helps to ask the letter's sender directly how they calculated their number. A legitimate buyer should be able to explain their reasoning — production history, decline assumptions, comparable regional activity — rather than just stating a figure and asking for a signature. If they're vague or evasive about how they got there, treat that as a signal to get a second opinion before moving forward."
-   ]
-  },
-  {
-   "heading": "Getting a Second Opinion Costs You Nothing",
-   "paragraphs": [
-    "Send us the same information you'd send any buyer — your deed or division order, recent statements if you have them, and the letter you received if you're comfortable sharing it — and we'll give you our own written number based on the same production and activity data. You're under no obligation to sell to us, and there's no cost to compare. Plenty of owners use our number purely as a benchmark to negotiate with the original buyer, or simply to confirm the offer they already have in hand was fair.",
-    "We'd rather you take the time to compare than sign the first letter that lands in your mailbox, even when that means we don't end up buying the interest ourselves. A fair market has multiple buyers checking each other's numbers, and you're allowed to make them compete for your interest."
-   ]
-  },
-  {
-   "heading": "Red Flags Worth Watching For",
-   "paragraphs": [
-    "Be cautious of letters that pressure a fast response, use language implying the offer expires in days, or discourage you from seeking a second opinion. A genuine buyer isn't threatened by you taking time to verify, and urgency tactics are a common way to keep an owner from discovering a low offer was actually below market. Also double-check that the legal description and decimal interest referenced in the letter actually match what you own — mismatches happen, sometimes innocently, sometimes not.",
-    "If you ever feel unsure about a letter's legitimacy at all — a company you can't find any record of, contact information that doesn't check out, or a deed they're asking you to sign that looks unusual — it's worth having an attorney review it before you sign anything, regardless of who the buyer is."
-   ]
+  "slug": "unsolicited-offer-received",
+  "title": "Got an Unsolicited Offer?",
+  "type": "situation",
+  "note": "benchmarking mailbox offers",
+  "metaTitle": "Got an Unsolicited Offer on Your Mineral Rights?",
+  "metaDescription": "A stranger's letter offering to buy your royalty interest arrived out of nowhere. Here's how to check whether the number is fair before you respond.",
+  "heroLead": "A letter shows up referencing a well you may or may not know about, offering to buy something you didn't know was for sale.",
+  "intro": [
+    "This happens more than people expect. A company you've never heard of gets your name and address from county deed records or an operator's division order list, and mails an offer to buy your mineral or royalty interest, sometimes for a specific dollar amount, sometimes just inviting you to call for a quote. It can feel intrusive, and it raises an obvious question: is this a fair number, or are they hoping you'll sign without checking?",
+    "We get asked to review these letters constantly, and the honest answer is it varies. Some unsolicited offers are reasonable. Others are priced well under what the interest is actually worth, betting that most owners won't take the time to verify before signing. There's no way to know which kind you're holding without doing a little homework first, and we're glad to help with that even if you never sell to us."
+  ],
+  "sections": [
+    {
+      "heading": "Why You're Getting These Letters",
+      "paragraphs": [
+        "Mineral ownership records are public. County deed and probate records, along with operator division orders, are searchable, and a number of companies build their entire business around mailing offers to owners of record across active plays, sometimes targeting counties where recent well permits or completions suggest values are rising. Getting a letter doesn't mean anything unusual is happening with your specific interest — it usually just means you're on a list compiled from public records, the same list anyone, including us, could compile.",
+        "It's also common to get several of these letters over time from different buyers, sometimes with noticeably different offer amounts for what should be the same interest. That spread by itself is a useful signal — if buyers can't agree within a reasonable range, it's worth taking the time to understand why before you sign anything back."
+      ]
+    },
+    {
+      "heading": "How to Check Whether an Offer Is Fair",
+      "paragraphs": [
+        "Start with your most recent royalty statements, if you have any. A rough industry rule of thumb multiplies a healthy year of royalty income by a range tied to the well's expected remaining life and current activity nearby — but that's only a starting sanity check, not a precise formula, since actual value depends heavily on the specific well's decline curve, remaining reserves, and what's happening in the surrounding unit. If an unsolicited offer comes in far below what that rough math suggests, it's worth questioning before you respond.",
+        "It also helps to ask the letter's sender directly how they calculated their number. A legitimate buyer should be able to explain their reasoning — production history, decline assumptions, comparable regional activity — rather than just stating a figure and asking for a signature. If they're vague or evasive about how they got there, treat that as a signal to get a second opinion before moving forward."
+      ]
+    },
+    {
+      "heading": "Getting a Second Opinion Costs You Nothing",
+      "paragraphs": [
+        "Send us the same information you'd send any buyer — your deed or division order, recent statements if you have them, and the letter you received if you're comfortable sharing it — and we'll give you our own written number based on the same production and activity data. You're under no obligation to sell to us, and there's no cost to compare. Plenty of owners use our number purely as a benchmark to negotiate with the original buyer, or simply to confirm the offer they already have in hand was fair.",
+        "We'd rather you take the time to compare than sign the first letter that lands in your mailbox, even when that means we don't end up buying the interest ourselves. A fair market has multiple buyers checking each other's numbers, and you're allowed to make them compete for your interest."
+      ]
+    },
+    {
+      "heading": "Red Flags Worth Watching For",
+      "paragraphs": [
+        "Be cautious of letters that pressure a fast response, use language implying the offer expires in days, or discourage you from seeking a second opinion. A genuine buyer isn't threatened by you taking time to verify, and urgency tactics are a common way to keep an owner from discovering a low offer was actually below market. Also double-check that the legal description and decimal interest referenced in the letter actually match what you own — mismatches happen, sometimes innocently, sometimes not.",
+        "If you ever feel unsure about a letter's legitimacy at all — a company you can't find any record of, contact information that doesn't check out, or a deed they're asking you to sign that looks unusual — it's worth having an attorney review it before you sign anything, regardless of who the buyer is."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How did this company get your name and address?",
+      "answer": "Most likely from public county deed, probate, or division order records, which anyone can search. Receiving a letter doesn't mean anything unusual is happening with your interest specifically."
+    },
+    {
+      "question": "Is the offer you received a fair price?",
+      "answer": "It depends on the interest's actual production history and the well's remaining life, which the letter alone won't tell you. Send us the same details and we'll give you a written comparison number at no cost."
+    },
+    {
+      "question": "Should you be worried if the offer seems really low?",
+      "answer": "It's worth questioning, not panicking over. Some unsolicited offers are priced well under market value on the assumption owners won't verify. Ask the sender to explain their math, and get a second opinion before responding either way."
+    },
+    {
+      "question": "Do you charge anything to review an offer you already have?",
+      "answer": "No. Comparing an existing offer against our own written number costs nothing and comes with no obligation to sell to us."
+    },
+    {
+      "question": "The letter says the offer expires in a few days. Should you rush?",
+      "answer": "A legitimate buyer generally isn't hurt by you taking a reasonable amount of time to verify the number. Manufactured urgency is one of the more common signs an offer may not hold up under a second look."
+    }
+  ],
+  "status": "written",
+  "wordCount": 1013,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-royaltybuyerusa-com.jpg",
+    "alt": "Got an Unsolicited Offer? mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "How did this company get your name and address?",
-   "answer": "Most likely from public county deed, probate, or division order records, which anyone can search. Receiving a letter doesn't mean anything unusual is happening with your interest specifically."
-  },
-  {
-   "question": "Is the offer you received a fair price?",
-   "answer": "It depends on the interest's actual production history and the well's remaining life, which the letter alone won't tell you. Send us the same details and we'll give you a written comparison number at no cost."
-  },
-  {
-   "question": "Should you be worried if the offer seems really low?",
-   "answer": "It's worth questioning, not panicking over. Some unsolicited offers are priced well under market value on the assumption owners won't verify. Ask the sender to explain their math, and get a second opinion before responding either way."
-  },
-  {
-   "question": "Do you charge anything to review an offer you already have?",
-   "answer": "No. Comparing an existing offer against our own written number costs nothing and comes with no obligation to sell to us."
-  },
-  {
-   "question": "The letter says the offer expires in a few days. Should you rush?",
-   "answer": "A legitimate buyer generally isn't hurt by you taking a reasonable amount of time to verify the number. Manufactured urgency is one of the more common signs an offer may not hold up under a second look."
-  }
- ],
- "status": "written",
- "wordCount": 1013,
- "image": {
-  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-royaltybuyerusa-com.jpg",
-  "alt": "Got an Unsolicited Offer? mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }
