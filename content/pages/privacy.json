@@ -1,91 +1,91 @@
 {
-  "slug": "privacy",
-  "title": "Privacy",
-  "type": "page",
-  "status": "written",
-  "metaTitle": "Privacy Policy — Royalty Buyer USA",
-  "metaDescription": "Our privacy policy: what information we collect when you request an offer, how it is used, how it is protected, and how to request it be deleted.",
-  "heroLead": "This page explains what information we collect when you use this site or request an offer, how it is used, and the choices you have regarding it.",
-  "intro": [
-    "We collect information because evaluating a mineral or royalty interest requires it, ownership documents, production history, contact details, not because we are building a marketing database to sell to third parties. This policy explains what we gather, why, and how you can control it.",
-    "If anything here is unclear, reach out through the contact page and we will explain it plainly rather than pointing you back to the fine print."
-  ],
-  "sections": [
-    {
-      "heading": "Information We Collect",
-      "paragraphs": [
-        "When you request an offer or contact us, we collect what you provide directly: your name, contact information, the county and description of your mineral or royalty interest, and any documents you choose to share, such as a deed, division order, or royalty statements. We do not require sensitive personal identifiers like a Social Security number at the offer-request stage.",
-        "Like most websites, we also collect limited technical information automatically, such as browser type and pages visited, through standard analytics tools, primarily to understand how the site is used and to fix anything that is not working correctly."
-      ]
-    },
-    {
-      "heading": "How We Use Your Information",
-      "paragraphs": [
-        "Information you submit is used to evaluate your interest, prepare a documented offer, communicate with you about your inquiry, and, if you proceed with a sale, prepare closing documents. We do not sell your personal information to third-party marketers.",
-        "If your submission requires county-level record review, we may reference publicly available recorded documents, deeds, division orders, lease filings, that are already part of the public record in the county where your minerals are located."
-      ]
-    },
-    {
-      "heading": "How Your Information Is Protected",
-      "paragraphs": [
-        "We take reasonable administrative and technical measures to protect the information you provide, including limiting access to those directly involved in evaluating your inquiry. No online transmission or storage system can be guaranteed completely secure, and we encourage you to avoid sending highly sensitive identifiers, like a full Social Security number, through unsecured channels such as standard email.",
-        "Documents related to an active or closed transaction are retained as needed for recordkeeping and legal purposes, consistent with standard practice for real property transactions."
-      ]
-    },
-    {
-      "heading": "Your Choices and Rights",
-      "paragraphs": [
-        "You can request that we delete personal information you have submitted, subject to any records we are required to retain related to a completed or pending transaction, such as closing documents already recorded with the county. You can also request a copy of the information we hold about you or ask questions about how it is being used.",
-        "To make any of these requests, contact us directly. We aim to respond to privacy-related requests within a reasonable timeframe, generally within thirty days."
-      ]
-    },
-    {
-      "heading": "Third Parties and Service Providers",
-      "paragraphs": [
-        "We may share information with service providers who help facilitate a transaction, such as a title company or escrow agent handling closing, but only as needed to complete that specific function. We do not share your information with unrelated third parties for their own marketing purposes.",
-        "This policy may be updated periodically to reflect changes in how the site or our process works. Material changes will be reflected with an updated effective date on this page."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Do you sell your personal information to third parties?",
-      "answer": "No, we do not sell your personal information to third-party marketers, and information you provide is used only to evaluate and, if applicable, complete your transaction."
-    },
-    {
-      "question": "Can you request that your information be deleted?",
-      "answer": "Yes, you can request deletion of information you have submitted, subject to records we are required to retain related to a completed transaction, such as recorded closing documents."
-    },
-    {
-      "question": "Do you need to provide sensitive identifiers like a Social Security number to get an offer?",
-      "answer": "No, an initial offer request does not require sensitive identifiers, though certain identifying information may be needed later for closing documents through a title company."
-    },
-    {
-      "question": "Who do you share your information with?",
-      "answer": "Only service providers directly involved in facilitating a transaction you are pursuing, such as a title company or escrow agent, and only as needed to complete that function."
-    },
-    {
-      "question": "Do you use cookies or tracking technology on this site?",
-      "answer": "We may use standard analytics tools that rely on cookies to understand general site usage, such as which pages are visited, and you can typically manage cookie preferences through your browser settings if you would prefer to limit this."
-    },
-    {
-      "question": "What happens to your documents if you decide not to proceed with a sale?",
-      "answer": "Documents submitted for an offer that does not result in a closed transaction are retained only as long as reasonably needed to respond to your inquiry, and you can request deletion at any time consistent with the choices described above."
-    },
-    {
-      "question": "How do you contact you with a privacy question or request?",
-      "answer": "Reach out through the contact page with your specific request, whether that is deletion, a copy of your information, or a general question, and we will respond within a reasonable timeframe."
-    },
-    {
-      "question": "Does this policy apply to documents you mail rather than submit online?",
-      "answer": "Yes, the same handling and protection principles apply regardless of whether documents arrive electronically or by mail."
-    }
-  ],
-  "wordCount": 886,
-  "image": {
-    "src": "/images/pages/mineral-rights-pages-privacy-royaltybuyerusa-com.jpg",
-    "alt": "Privacy mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy — Royalty Buyer USA",
+ "metaDescription": "Our privacy policy: what information we collect when you request an offer, how it is used, how it is protected, and how to request it be deleted.",
+ "heroLead": "This page explains what information we collect when you use this site or request an offer, how it is used, and the choices you have regarding it.",
+ "intro": [
+  "We collect information because evaluating a mineral or royalty interest requires it, ownership documents, production history, contact details, not because we are building a marketing database to sell to third parties. This policy explains what we gather, why, and how you can control it.",
+  "If anything here is unclear, reach out through the contact page and we will explain it plainly rather than pointing you back to the fine print."
+ ],
+ "sections": [
+  {
+   "heading": "Information We Collect",
+   "paragraphs": [
+    "When you request an offer or contact us, we collect what you provide directly: your name, contact information, the county and description of your mineral or royalty interest, and any documents you choose to share, such as a deed, division order, or royalty statements. We do not require sensitive personal identifiers like a Social Security number at the offer-request stage.",
+    "Like most websites, we also collect limited technical information automatically, such as browser type and pages visited, through standard analytics tools, primarily to understand how the site is used and to fix anything that is not working correctly."
+   ]
+  },
+  {
+   "heading": "How We Use Your Information",
+   "paragraphs": [
+    "Information you submit is used to evaluate your interest, prepare a documented offer, communicate with you about your inquiry, and, if you proceed with a sale, prepare closing documents. We do not sell your personal information to third-party marketers.",
+    "If your submission requires county-level record review, we may reference publicly available recorded documents, deeds, division orders, lease filings, that are already part of the public record in the county where your minerals are located."
+   ]
+  },
+  {
+   "heading": "How Your Information Is Protected",
+   "paragraphs": [
+    "We take reasonable administrative and technical measures to protect the information you provide, including limiting access to those directly involved in evaluating your inquiry. No online transmission or storage system can be guaranteed completely secure, and we encourage you to avoid sending highly sensitive identifiers, like a full Social Security number, through unsecured channels such as standard email.",
+    "Documents related to an active or closed transaction are retained as needed for recordkeeping and legal purposes, consistent with standard practice for real property transactions."
+   ]
+  },
+  {
+   "heading": "Your Choices and Rights",
+   "paragraphs": [
+    "You can request that we delete personal information you have submitted, subject to any records we are required to retain related to a completed or pending transaction, such as closing documents already recorded with the county. You can also request a copy of the information we hold about you or ask questions about how it is being used.",
+    "To make any of these requests, contact us directly. We aim to respond to privacy-related requests within a reasonable timeframe, generally within thirty days."
+   ]
+  },
+  {
+   "heading": "Third Parties and Service Providers",
+   "paragraphs": [
+    "We may share information with service providers who help facilitate a transaction, such as a title company or escrow agent handling closing, but only as needed to complete that specific function. We do not share your information with unrelated third parties for their own marketing purposes.",
+    "This policy may be updated periodically to reflect changes in how the site or our process works. Material changes will be reflected with an updated effective date on this page."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell your personal information to third parties?",
+   "answer": "No, we do not sell your personal information to third-party marketers, and information you provide is used only to evaluate and, if applicable, complete your transaction."
+  },
+  {
+   "question": "Can you request that your information be deleted?",
+   "answer": "Yes, you can request deletion of information you have submitted, subject to records we are required to retain related to a completed transaction, such as recorded closing documents."
+  },
+  {
+   "question": "Do you need to provide sensitive identifiers like a Social Security number to get an offer?",
+   "answer": "No, an initial offer request does not require sensitive identifiers, though certain identifying information may be needed later for closing documents through a title company."
+  },
+  {
+   "question": "Who do you share your information with?",
+   "answer": "Only service providers directly involved in facilitating a transaction you are pursuing, such as a title company or escrow agent, and only as needed to complete that function."
+  },
+  {
+   "question": "Do you use cookies or tracking technology on this site?",
+   "answer": "We may use standard analytics tools that rely on cookies to understand general site usage, such as which pages are visited, and you can typically manage cookie preferences through your browser settings if you would prefer to limit this."
+  },
+  {
+   "question": "What happens to your documents if you decide not to proceed with a sale?",
+   "answer": "Documents submitted for an offer that does not result in a closed transaction are retained only as long as reasonably needed to respond to your inquiry, and you can request deletion at any time consistent with the choices described above."
+  },
+  {
+   "question": "How do you contact you with a privacy question or request?",
+   "answer": "Reach out through the contact page with your specific request, whether that is deletion, a copy of your information, or a general question, and we will respond within a reasonable timeframe."
+  },
+  {
+   "question": "Does this policy apply to documents you mail rather than submit online?",
+   "answer": "Yes, the same handling and protection principles apply regardless of whether documents arrive electronically or by mail."
+  }
+ ],
+ "wordCount": 886,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-royaltybuyerusa-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

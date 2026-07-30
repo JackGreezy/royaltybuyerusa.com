@@ -1,73 +1,73 @@
 {
-  "slug": "fractional-mineral-interests",
-  "title": "Fractional & Small Interests",
-  "type": "situation",
-  "note": "tiny undivided interests, many heirs",
-  "metaTitle": "Selling a Small Fractional Mineral Interest",
-  "metaDescription": "A 1/64th royalty check for $11 a month isn't worth the tax paperwork to some owners. Here's why small fractional interests exist and how to sell one.",
-  "heroLead": "Somewhere on your grandfather's land patent, one section got left to four kids, then to their kids, and now your check is a fraction of a fraction.",
-  "intro": [
-    "The family experience behind Royalty Buyer followed this same path before the desk reviewed another owner's sale. A great-grandfather held a full quarter section. By the next generations, that interest had passed among six heirs and their children, and the royalty statement carried a decimal with four zeros in front of it. The check that came with it some months barely covered the stamp to mail the statement.",
-    "That's just how mineral ownership works over three or four generations. Nobody did anything wrong — land that once passed to one heir now splits among a dozen, and each of those splits gets divided again by whatever fraction the original deed or will specified. A lot of owners in that position never learn what their interest is actually called or how it compares to a neighbor's, they just see a small number on a check and assume that's simply what mineral rights are worth."
-  ],
-  "sections": [
-    {
-      "heading": "How an Interest Gets This Small",
-      "paragraphs": [
-        "Start with a single owner holding an undivided mineral interest under 160 acres. Pass it to four children in equal shares and each now holds 1/4. Each of their estates splits among three grandchildren and each grandchild holds 1/12. Extend that two more generations, through remarriages, wills that split unevenly, and the occasional heir who sold off their piece separately along the way, and it's common to find interests measured in tiny fractions — 1/128th, 1/256th, sometimes further out than that.",
-        "None of this makes the interest illegitimate or worthless, it just means the royalty check on any given well gets divided by that same fraction before it reaches you. If a well produces $4,000 a month in gross royalty across all owners and your net mineral acreage works out to 1/256th of the unit, your share of that check is a very small number, even though the well itself is producing perfectly well."
-      ]
-    },
-    {
-      "heading": "Why Small Interests Are Genuinely Hard to Manage",
-      "paragraphs": [
-        "Operators are legally required to pay every owner of record, no matter how small the share, but many states let them hold payments below a minimum threshold — often $25 or $100 — in suspense until enough accumulates to cut a check, or until the owner requests it directly. That means some heirs go years without seeing a dollar even though the interest is actively producing, simply because their share never crosses the payout floor in any single period.",
-        "There's also a real administrative cost that falls on you, not the operator. Every 1099 from a producing interest, however small, is income you have to report. Every operator merger or unit reconfiguration means a new division order to sign. Every time you move, you have to update your address with every operator across every well your family's interest touches, and if a fractional owner dies without updating their own address, that piece can slip into unclaimed property or an unresolved probate that nobody in the family even remembers exists."
-      ]
-    },
-    {
-      "heading": "What a Small Interest Is Actually Worth",
-      "paragraphs": [
-        "Value on a fractional interest isn't calculated any differently than a full interest — it's still based on production history, remaining reserves, and current activity in the unit — but the total dollar figure scales down with the fraction, the same way the royalty check does. A tiny interest under an active, high-volume well can still be worth a real number, while a tiny interest under a marginal stripper well may not clear much at all. We look at your actual decimal interest and the well's real production before we say anything about value, rather than guessing off the size of the fraction alone.",
-        "What we hear most from owners in this position isn't really about the dollar amount, it's about wanting to be done carrying a piece of paperwork that pays less than it costs in time to track. Consolidating several small fractional interests into one payment, or simply cashing one out entirely, is a legitimate reason to sell even when the number itself is modest."
-      ]
-    },
-    {
-      "heading": "Selling a Small Interest Without the Runaround",
-      "paragraphs": [
-        "Because small fractional interests are common and the file work is largely the same regardless of size, we don't treat a tiny interest as a lesser transaction. We'll pull the well's production and payment history, confirm your decimal interest against the operator's division order, and put a written offer in front of you — often within days, since there's usually less title history to untangle on a long-held family interest than on one that's changed hands recently.",
-        "If you own several small fractional pieces scattered across different wells or even different counties, inherited from different branches of the family over the years, we can look at all of them together and give you one combined picture instead of forcing you to sort out each interest on your own before you even know if it's worth the effort."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Is a fractional interest like 1/128th even worth selling?",
-      "answer": "It depends entirely on the well's production, not the size of the fraction alone. A small fraction of an active, high-volume well can be worth a real number, while a small fraction of a marginal well may not be. We'll pull the actual numbers before giving you an opinion either way."
-    },
-    {
-      "question": "Why haven't you received a royalty check in years even though the well is producing?",
-      "answer": "Many states allow operators to hold small payments in suspense until they cross a minimum threshold, often $25 to $100. If your fractional share never crosses that floor in a given period, it can sit unpaid until it accumulates or until you contact the operator directly."
-    },
-    {
-      "question": "Do you need to know your exact decimal interest before contacting you?",
-      "answer": "No, it helps but isn't required. If you have a recent division order, royalty statement, or even the county and well name, we can usually track down your interest and confirm the decimal ourselves."
-    },
-    {
-      "question": "Can you sell just one small fractional interest and keep others you own?",
-      "answer": "Yes. Each interest under each well is a separate piece of property, and you're free to sell one, sell several together, or keep any of them. Nothing forces an all-or-nothing decision."
-    },
-    {
-      "question": "Will selling a small interest trigger a big tax bill?",
-      "answer": "Selling mineral rights generally creates a capital gain or loss based on your basis in the property, which is often small or hard to pin down on inherited fractional interests. Talk to your CPA about how a sale would land on your specific return before you decide."
-    }
-  ],
-  "status": "written",
-  "wordCount": 1147,
-  "image": {
-    "src": "/images/situations/mineral-rights-situations-fractional-mineral-interests-royaltybuyerusa-com.jpg",
-    "alt": "Fractional & Small Interests mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "fractional-mineral-interests",
+ "title": "Fractional & Small Interests",
+ "type": "situation",
+ "note": "tiny undivided interests, many heirs",
+ "metaTitle": "Selling a Small Fractional Mineral Interest",
+ "metaDescription": "A 1/64th royalty check for $11 a month isn't worth the tax paperwork to some owners. Here's why small fractional interests exist and how to sell one.",
+ "heroLead": "Somewhere on your grandfather's land patent, one section got left to four kids, then to their kids, and now your check is a fraction of a fraction.",
+ "intro": [
+  "The family experience behind Royalty Buyer followed this same path before the desk reviewed another owner's sale. A great-grandfather held a full quarter section. By the next generations, that interest had passed among six heirs and their children, and the royalty statement carried a decimal with four zeros in front of it. The check that came with it some months barely covered the stamp to mail the statement.",
+  "That's just how mineral ownership works over three or four generations. Nobody did anything wrong — land that once passed to one heir now splits among a dozen, and each of those splits gets divided again by whatever fraction the original deed or will specified. A lot of owners in that position never learn what their interest is actually called or how it compares to a neighbor's, they just see a small number on a check and assume that's simply what mineral rights are worth."
+ ],
+ "sections": [
+  {
+   "heading": "How an Interest Gets This Small",
+   "paragraphs": [
+    "Start with a single owner holding an undivided mineral interest under 160 acres. Pass it to four children in equal shares and each now holds 1/4. Each of their estates splits among three grandchildren and each grandchild holds 1/12. Extend that two more generations, through remarriages, wills that split unevenly, and the occasional heir who sold off their piece separately along the way, and it's common to find interests measured in tiny fractions — 1/128th, 1/256th, sometimes further out than that.",
+    "None of this makes the interest illegitimate or worthless, it just means the royalty check on any given well gets divided by that same fraction before it reaches you. If a well produces $4,000 a month in gross royalty across all owners and your net mineral acreage works out to 1/256th of the unit, your share of that check is a very small number, even though the well itself is producing perfectly well."
+   ]
+  },
+  {
+   "heading": "Why Small Interests Are Genuinely Hard to Manage",
+   "paragraphs": [
+    "Operators are legally required to pay every owner of record, no matter how small the share, but many states let them hold payments below a minimum threshold — often $25 or $100 — in suspense until enough accumulates to cut a check, or until the owner requests it directly. That means some heirs go years without seeing a dollar even though the interest is actively producing, simply because their share never crosses the payout floor in any single period.",
+    "There's also a real administrative cost that falls on you, not the operator. Every 1099 from a producing interest, however small, is income you have to report. Every operator merger or unit reconfiguration means a new division order to sign. Every time you move, you have to update your address with every operator across every well your family's interest touches, and if a fractional owner dies without updating their own address, that piece can slip into unclaimed property or an unresolved probate that nobody in the family even remembers exists."
+   ]
+  },
+  {
+   "heading": "What a Small Interest Is Actually Worth",
+   "paragraphs": [
+    "Value on a fractional interest isn't calculated any differently than a full interest — it's still based on production history, remaining reserves, and current activity in the unit — but the total dollar figure scales down with the fraction, the same way the royalty check does. A tiny interest under an active, high-volume well can still be worth a real number, while a tiny interest under a marginal stripper well may not clear much at all. We look at your actual decimal interest and the well's real production before we say anything about value, rather than guessing off the size of the fraction alone.",
+    "What we hear most from owners in this position isn't really about the dollar amount, it's about wanting to be done carrying a piece of paperwork that pays less than it costs in time to track. Consolidating several small fractional interests into one payment, or simply cashing one out entirely, is a legitimate reason to sell even when the number itself is modest."
+   ]
+  },
+  {
+   "heading": "Selling a Small Interest Without the Runaround",
+   "paragraphs": [
+    "Because small fractional interests are common and the file work is largely the same regardless of size, we don't treat a tiny interest as a lesser transaction. We'll pull the well's production and payment history, confirm your decimal interest against the operator's division order, and put a written offer in front of you — often within days, since there's usually less title history to untangle on a long-held family interest than on one that's changed hands recently.",
+    "If you own several small fractional pieces scattered across different wells or even different counties, inherited from different branches of the family over the years, we can look at all of them together and give you one combined picture instead of forcing you to sort out each interest on your own before you even know if it's worth the effort."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Is a fractional interest like 1/128th even worth selling?",
+   "answer": "It depends entirely on the well's production, not the size of the fraction alone. A small fraction of an active, high-volume well can be worth a real number, while a small fraction of a marginal well may not be. We'll pull the actual numbers before giving you an opinion either way."
+  },
+  {
+   "question": "Why haven't you received a royalty check in years even though the well is producing?",
+   "answer": "Many states allow operators to hold small payments in suspense until they cross a minimum threshold, often $25 to $100. If your fractional share never crosses that floor in a given period, it can sit unpaid until it accumulates or until you contact the operator directly."
+  },
+  {
+   "question": "Do you need to know your exact decimal interest before contacting you?",
+   "answer": "No, it helps but isn't required. If you have a recent division order, royalty statement, or even the county and well name, we can usually track down your interest and confirm the decimal ourselves."
+  },
+  {
+   "question": "Can you sell just one small fractional interest and keep others you own?",
+   "answer": "Yes. Each interest under each well is a separate piece of property, and you're free to sell one, sell several together, or keep any of them. Nothing forces an all-or-nothing decision."
+  },
+  {
+   "question": "Will selling a small interest trigger a big tax bill?",
+   "answer": "Selling mineral rights generally creates a capital gain or loss based on your basis in the property, which is often small or hard to pin down on inherited fractional interests. Talk to your CPA about how a sale would land on your specific return before you decide."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1147,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-fractional-mineral-interests-royaltybuyerusa-com.jpg",
+  "alt": "Fractional & Small Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

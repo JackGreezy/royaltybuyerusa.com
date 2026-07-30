@@ -1,72 +1,72 @@
 {
-  "slug": "documents-checklist",
-  "title": "Documents You Need to Sell",
-  "type": "resource",
-  "status": "written",
-  "metaTitle": "Documents You Need to Sell Mineral or Royalty Rights",
-  "metaDescription": "The actual paperwork a mineral or royalty sale requires, from your deed to probate records, and where to find each piece if you cannot locate it.",
-  "heroLead": "The paperwork question stops more sales than the price question does, mostly because nobody explains up front what is actually required.",
-  "intro": [
-    "We have gone through a courthouse basement looking for a deed our own family swore existed somewhere. Most owners do not have a tidy folder of everything a sale requires, and that is normal, not a barrier. This checklist covers what is typically needed, what is nice to have but not required, and where to look if a document has gone missing over the years."
-  ],
-  "sections": [
-    {
-      "heading": "The Core Documents Most Sales Require",
-      "paragraphs": [
-        "Your deed, whether a mineral deed, a royalty deed, or the deed by which you inherited the interest, is the starting point for almost every transaction. If you do not have a copy, the county clerk or recorder's office where the property sits keeps recorded deeds on file and can usually provide a certified copy for a small fee.",
-        "If your interest is producing, recent royalty statements, ideally the last six to twelve months, let a buyer price your interest against real income rather than a general estimate. A copy of your current lease, if one exists, is also useful, since royalty rate and post-production cost language directly affect value.",
-        "Government-issued identification is required at closing to satisfy notarization requirements, and most closings today can be handled through mobile or remote online notarization, so you generally do not need to travel to complete this step."
-      ]
-    },
-    {
-      "heading": "If the Interest Came Through Inheritance",
-      "paragraphs": [
-        "Probate records or an affidavit of heirship, depending on how the estate was settled and what your state requires, establish your legal right to sell. If the estate went through formal probate, the court order distributing the property is usually the key document. If it did not, many states allow an affidavit of heirship, sometimes paired with a death certificate, to establish ownership for smaller or older estates.",
-        "When an interest is shared among several heirs, siblings, cousins, or a mix of both, each owner typically needs to sign their own conveyance for their own share, even if the family intends to sell as a group. It is worth having this conversation with co-heirs early, since gathering signatures from family members spread across different states is often the step that takes the longest."
-      ]
-    },
-    {
-      "heading": "Title Issues Worth Resolving Before You Shop an Offer",
-      "paragraphs": [
-        "A name discrepancy between your identification and how your name appears on the deed, an unrecorded prior conveyance, or a lingering lien from decades ago can all slow a closing down. None of these are unusual on land that has been in a family for generations, and none of them are typically deal killers, but flagging them early rather than letting a buyer discover them mid-closing keeps the process moving.",
-        "If you are not sure whether your title is clean, a preliminary title search, which many buyers will order as part of due diligence anyway, is the most direct way to find out. Asking a buyer whether they cover this cost, and when, is a fair question to ask before you sign anything."
-      ]
-    },
-    {
-      "heading": "What You Do Not Need to Gather Up Front",
-      "paragraphs": [
-        "You do not need a survey, a full title abstract, or a formal appraisal before you start the conversation. Buyers who do serious diligence typically order or complete these themselves as part of closing, and asking a seller to front that cost or effort before any offer is even made is a sign worth noticing.",
-        "You also do not need to have every document perfectly organized before reaching out. Sending what you have, a deed if you can find one, a statement if the interest is producing, and a general description of the situation if neither is available, is enough to start, and the rest can typically be located together as part of the process."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "What if you cannot find your deed at all?",
-      "answer": "The county clerk or recorder's office where the minerals are located keeps recorded deeds on file, and a certified copy can usually be obtained for a small fee even decades after the original recording."
-    },
-    {
-      "question": "Do all the heirs need to sign the same document?",
-      "answer": "Typically each heir signs a conveyance for their own share of the interest, even when the family is selling together, so coordinating signatures across multiple people is often part of the timeline."
-    },
-    {
-      "question": "Is a formal appraisal required to sell?",
-      "answer": "No. An appraisal is not a required step to sell, and most buyers value the interest themselves as part of making an offer rather than requiring the seller to commission one first."
-    },
-    {
-      "question": "What if the deed lists a name that does not match your current legal name?",
-      "answer": "This is common after a marriage, divorce, or simple clerical variation over the years, and it is usually resolved with a supporting document like a marriage certificate rather than derailing the sale."
-    },
-    {
-      "question": "Can you start the process without probate being fully finished?",
-      "answer": "It depends on the state and the specific estate situation, but many closings can proceed once heirship or the executor's authority is clearly established, even if every administrative step of probate has not formally closed."
-    }
-  ],
-  "wordCount": 883,
-  "image": {
-    "src": "/images/resources/mineral-rights-resources-documents-checklist-royaltybuyerusa-com.jpg",
-    "alt": "Documents You Need to Sell mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents You Need to Sell Mineral or Royalty Rights",
+ "metaDescription": "The actual paperwork a mineral or royalty sale requires, from your deed to probate records, and where to find each piece if you cannot locate it.",
+ "heroLead": "The paperwork question stops more sales than the price question does, mostly because nobody explains up front what is actually required.",
+ "intro": [
+  "We have gone through a courthouse basement looking for a deed our own family swore existed somewhere. Most owners do not have a tidy folder of everything a sale requires, and that is normal, not a barrier. This checklist covers what is typically needed, what is nice to have but not required, and where to look if a document has gone missing over the years."
+ ],
+ "sections": [
+  {
+   "heading": "The Core Documents Most Sales Require",
+   "paragraphs": [
+    "Your deed, whether a mineral deed, a royalty deed, or the deed by which you inherited the interest, is the starting point for almost every transaction. If you do not have a copy, the county clerk or recorder's office where the property sits keeps recorded deeds on file and can usually provide a certified copy for a small fee.",
+    "If your interest is producing, recent royalty statements, ideally the last six to twelve months, let a buyer price your interest against real income rather than a general estimate. A copy of your current lease, if one exists, is also useful, since royalty rate and post-production cost language directly affect value.",
+    "Government-issued identification is required at closing to satisfy notarization requirements, and most closings today can be handled through mobile or remote online notarization, so you generally do not need to travel to complete this step."
+   ]
+  },
+  {
+   "heading": "If the Interest Came Through Inheritance",
+   "paragraphs": [
+    "Probate records or an affidavit of heirship, depending on how the estate was settled and what your state requires, establish your legal right to sell. If the estate went through formal probate, the court order distributing the property is usually the key document. If it did not, many states allow an affidavit of heirship, sometimes paired with a death certificate, to establish ownership for smaller or older estates.",
+    "When an interest is shared among several heirs, siblings, cousins, or a mix of both, each owner typically needs to sign their own conveyance for their own share, even if the family intends to sell as a group. It is worth having this conversation with co-heirs early, since gathering signatures from family members spread across different states is often the step that takes the longest."
+   ]
+  },
+  {
+   "heading": "Title Issues Worth Resolving Before You Shop an Offer",
+   "paragraphs": [
+    "A name discrepancy between your identification and how your name appears on the deed, an unrecorded prior conveyance, or a lingering lien from decades ago can all slow a closing down. None of these are unusual on land that has been in a family for generations, and none of them are typically deal killers, but flagging them early rather than letting a buyer discover them mid-closing keeps the process moving.",
+    "If you are not sure whether your title is clean, a preliminary title search, which many buyers will order as part of due diligence anyway, is the most direct way to find out. Asking a buyer whether they cover this cost, and when, is a fair question to ask before you sign anything."
+   ]
+  },
+  {
+   "heading": "What You Do Not Need to Gather Up Front",
+   "paragraphs": [
+    "You do not need a survey, a full title abstract, or a formal appraisal before you start the conversation. Buyers who do serious diligence typically order or complete these themselves as part of closing, and asking a seller to front that cost or effort before any offer is even made is a sign worth noticing.",
+    "You also do not need to have every document perfectly organized before reaching out. Sending what you have, a deed if you can find one, a statement if the interest is producing, and a general description of the situation if neither is available, is enough to start, and the rest can typically be located together as part of the process."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "What if you cannot find your deed at all?",
+   "answer": "The county clerk or recorder's office where the minerals are located keeps recorded deeds on file, and a certified copy can usually be obtained for a small fee even decades after the original recording."
+  },
+  {
+   "question": "Do all the heirs need to sign the same document?",
+   "answer": "Typically each heir signs a conveyance for their own share of the interest, even when the family is selling together, so coordinating signatures across multiple people is often part of the timeline."
+  },
+  {
+   "question": "Is a formal appraisal required to sell?",
+   "answer": "No. An appraisal is not a required step to sell, and most buyers value the interest themselves as part of making an offer rather than requiring the seller to commission one first."
+  },
+  {
+   "question": "What if the deed lists a name that does not match your current legal name?",
+   "answer": "This is common after a marriage, divorce, or simple clerical variation over the years, and it is usually resolved with a supporting document like a marriage certificate rather than derailing the sale."
+  },
+  {
+   "question": "Can you start the process without probate being fully finished?",
+   "answer": "It depends on the state and the specific estate situation, but many closings can proceed once heirship or the executor's authority is clearly established, even if every administrative step of probate has not formally closed."
+  }
+ ],
+ "wordCount": 883,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-royaltybuyerusa-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

@@ -1,73 +1,73 @@
 {
-  "slug": "out-of-state-owners",
-  "title": "Out-of-State Owners",
-  "type": "situation",
-  "note": "absentee owners managing from afar",
-  "metaTitle": "Managing or Selling Mineral Rights From Out of State",
-  "metaDescription": "Own mineral rights in a state you don't live in? Here's what makes absentee ownership harder, and how to sell without ever visiting the county.",
-  "heroLead": "The county courthouse where your minerals are recorded might be a thousand miles from your kitchen table.",
-  "intro": [
-    "A good number of the owners we work with have never set foot in the county where their minerals sit. That's not unusual — mineral ownership doesn't require living near the land, and families move across the country for jobs, retirement, or simply life, while the mineral interest stays tied to wherever the original homestead or ranch was. What starts as a simple inheritance or old family holding turns into a slow trickle of mail from an operator you've never spoken to, forwarded from an old address, sometimes arriving months late.",
-    "We manage minerals in counties we've never physically visited ourselves, so we understand exactly how disconnected this can feel. Distance doesn't make an interest less real or less valuable, but it does make every part of owning it — division orders, address updates, tax filings, lease negotiations — slower and more prone to slipping through the cracks."
-  ],
-  "sections": [
-    {
-      "heading": "The Specific Problems Distance Creates",
-      "paragraphs": [
-        "Operators mail everything: division orders, lease amendments, pooling notices, tax documents. If you've moved even once since the interest was established and never formally updated your address with every operator paying you, mail can bounce or simply get lost, and some states allow unclaimed royalty payments to eventually escheat to the state if they go unclaimed long enough. Tracking down funds that have escheated is possible but genuinely tedious, involving state unclaimed-property offices and documentation you may not have handy.",
-        "There's also a practical research gap. When a landman calls with a new lease offer, or an operator proposes pooling your interest into a new unit, local owners can drive out, talk to neighbors, or visit the courthouse to check what similar tracts nearby have gotten. From out of state, you're relying entirely on phone calls, county websites of wildly varying quality, and whatever the operator chooses to tell you, which puts you at a real information disadvantage when it comes time to negotiate."
-      ]
-    },
-    {
-      "heading": "Keeping Ownership Simple From Afar",
-      "paragraphs": [
-        "If you're planning to keep the interest, a few habits go a long way: update every operator directly whenever you move, rather than assuming mail forwarding will catch it forever, since forwarding orders expire. Keep copies of every division order and lease you sign in one place, physical or digital, so you're not reconstructing your ownership history from memory if a dispute or a sale ever comes up. And check your state's unclaimed property database periodically, along with any state where the minerals sit, since escheated royalty funds are searchable and reclaimable if you know where to look.",
-        "Some out-of-state owners also hire a local landman or mineral manager to handle lease negotiations and keep an eye on activity on their behalf, which can be worth the fee if the interest is sizable enough. For smaller interests, that cost often isn't justified relative to what's coming in, which is part of why some absentee owners eventually decide selling makes more sense than managing."
-      ]
-    },
-    {
-      "heading": "Selling Without Ever Visiting the County",
-      "paragraphs": [
-        "This is where distance stops mattering. We do the courthouse and title research on our end regardless of where you live, confirm your interest against the county's real property records, and put together a written offer based on that research rather than requiring you to drive out and verify anything yourself. Everything from the initial offer through the closing paperwork can be handled by mail, email, and a notarized deed, which is how most of our out-of-state transactions actually close.",
-        "If you're not sure exactly what you own or where the paperwork even is, that's a normal starting point, not a dealbreaker. Give us whatever you have — an old deed, a check stub, a family member's name it was under — and we'll do the legwork to identify the interest and confirm it's really yours before anything moves forward."
-      ]
-    },
-    {
-      "heading": "What to Watch Out For as an Absentee Owner",
-      "paragraphs": [
-        "Distance also makes it easier for a lowball offer to go unquestioned, simply because you have no local point of comparison. If a mailed offer arrives out of nowhere, it's worth getting a second opinion before signing anything back, ours or someone else's, rather than accepting the first number because verifying it feels like too much effort from far away. A legitimate buyer will explain how they arrived at their number and won't rush you to sign before you've had a chance to think it over or run it past family.",
-        "It's also worth confirming who's actually contacting you. Some absentee owners get calls or letters referencing minerals they don't actually own, or interests confused with a relative of the same name in the same county — always confirm the legal description and your specific decimal interest before engaging seriously with any offer."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "You moved and lost track of who's supposed to be paying you. What do you do?",
-      "answer": "Start with the last operator name you remember from a check or statement and call their owner relations line with your name and, if you have it, the well or lease name. They can confirm what's on file and help you update your address."
-    },
-    {
-      "question": "Can unclaimed royalty payments really go to the state?",
-      "answer": "Yes, most states have unclaimed property laws that eventually transfer unpaid funds to the state treasury if an owner can't be located. These are searchable and reclaimable through the state's unclaimed property database, though the process takes documentation and time."
-    },
-    {
-      "question": "Do you need to travel to sell your minerals?",
-      "answer": "No. We handle the county and title research on our end, and the whole process, from offer to closing, can be done by mail, email, and a notarized deed without you ever visiting the county."
-    },
-    {
-      "question": "How do you know an offer you received in the mail is legitimate?",
-      "answer": "A legitimate buyer will explain how they calculated the number, provide it in writing, and won't pressure you to sign quickly. If something feels rushed or vague, it's reasonable to ask for more detail or get a second opinion before responding."
-    },
-    {
-      "question": "What if you are not sure exactly what mineral interest you even own?",
-      "answer": "That's a common starting point for out-of-state owners. Send us whatever documents you have, even partial ones, and we'll research the county records to identify and confirm the interest before anything moves forward."
-    }
-  ],
-  "status": "written",
-  "wordCount": 1086,
-  "image": {
-    "src": "/images/situations/mineral-rights-situations-out-of-state-owners-royaltybuyerusa-com.jpg",
-    "alt": "Out-of-State Owners mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "out-of-state-owners",
+ "title": "Out-of-State Owners",
+ "type": "situation",
+ "note": "absentee owners managing from afar",
+ "metaTitle": "Managing or Selling Mineral Rights From Out of State",
+ "metaDescription": "Own mineral rights in a state you don't live in? Here's what makes absentee ownership harder, and how to sell without ever visiting the county.",
+ "heroLead": "The county courthouse where your minerals are recorded might be a thousand miles from your kitchen table.",
+ "intro": [
+  "A good number of the owners we work with have never set foot in the county where their minerals sit. That's not unusual — mineral ownership doesn't require living near the land, and families move across the country for jobs, retirement, or simply life, while the mineral interest stays tied to wherever the original homestead or ranch was. What starts as a simple inheritance or old family holding turns into a slow trickle of mail from an operator you've never spoken to, forwarded from an old address, sometimes arriving months late.",
+  "We manage minerals in counties we've never physically visited ourselves, so we understand exactly how disconnected this can feel. Distance doesn't make an interest less real or less valuable, but it does make every part of owning it — division orders, address updates, tax filings, lease negotiations — slower and more prone to slipping through the cracks."
+ ],
+ "sections": [
+  {
+   "heading": "The Specific Problems Distance Creates",
+   "paragraphs": [
+    "Operators mail everything: division orders, lease amendments, pooling notices, tax documents. If you've moved even once since the interest was established and never formally updated your address with every operator paying you, mail can bounce or simply get lost, and some states allow unclaimed royalty payments to eventually escheat to the state if they go unclaimed long enough. Tracking down funds that have escheated is possible but genuinely tedious, involving state unclaimed-property offices and documentation you may not have handy.",
+    "There's also a practical research gap. When a landman calls with a new lease offer, or an operator proposes pooling your interest into a new unit, local owners can drive out, talk to neighbors, or visit the courthouse to check what similar tracts nearby have gotten. From out of state, you're relying entirely on phone calls, county websites of wildly varying quality, and whatever the operator chooses to tell you, which puts you at a real information disadvantage when it comes time to negotiate."
+   ]
+  },
+  {
+   "heading": "Keeping Ownership Simple From Afar",
+   "paragraphs": [
+    "If you're planning to keep the interest, a few habits go a long way: update every operator directly whenever you move, rather than assuming mail forwarding will catch it forever, since forwarding orders expire. Keep copies of every division order and lease you sign in one place, physical or digital, so you're not reconstructing your ownership history from memory if a dispute or a sale ever comes up. And check your state's unclaimed property database periodically, along with any state where the minerals sit, since escheated royalty funds are searchable and reclaimable if you know where to look.",
+    "Some out-of-state owners also hire a local landman or mineral manager to handle lease negotiations and keep an eye on activity on their behalf, which can be worth the fee if the interest is sizable enough. For smaller interests, that cost often isn't justified relative to what's coming in, which is part of why some absentee owners eventually decide selling makes more sense than managing."
+   ]
+  },
+  {
+   "heading": "Selling Without Ever Visiting the County",
+   "paragraphs": [
+    "This is where distance stops mattering. We do the courthouse and title research on our end regardless of where you live, confirm your interest against the county's real property records, and put together a written offer based on that research rather than requiring you to drive out and verify anything yourself. Everything from the initial offer through the closing paperwork can be handled by mail, email, and a notarized deed, which is how most of our out-of-state transactions actually close.",
+    "If you're not sure exactly what you own or where the paperwork even is, that's a normal starting point, not a dealbreaker. Give us whatever you have — an old deed, a check stub, a family member's name it was under — and we'll do the legwork to identify the interest and confirm it's really yours before anything moves forward."
+   ]
+  },
+  {
+   "heading": "What to Watch Out For as an Absentee Owner",
+   "paragraphs": [
+    "Distance also makes it easier for a lowball offer to go unquestioned, simply because you have no local point of comparison. If a mailed offer arrives out of nowhere, it's worth getting a second opinion before signing anything back, ours or someone else's, rather than accepting the first number because verifying it feels like too much effort from far away. A legitimate buyer will explain how they arrived at their number and won't rush you to sign before you've had a chance to think it over or run it past family.",
+    "It's also worth confirming who's actually contacting you. Some absentee owners get calls or letters referencing minerals they don't actually own, or interests confused with a relative of the same name in the same county — always confirm the legal description and your specific decimal interest before engaging seriously with any offer."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "You moved and lost track of who's supposed to be paying you. What do you do?",
+   "answer": "Start with the last operator name you remember from a check or statement and call their owner relations line with your name and, if you have it, the well or lease name. They can confirm what's on file and help you update your address."
+  },
+  {
+   "question": "Can unclaimed royalty payments really go to the state?",
+   "answer": "Yes, most states have unclaimed property laws that eventually transfer unpaid funds to the state treasury if an owner can't be located. These are searchable and reclaimable through the state's unclaimed property database, though the process takes documentation and time."
+  },
+  {
+   "question": "Do you need to travel to sell your minerals?",
+   "answer": "No. We handle the county and title research on our end, and the whole process, from offer to closing, can be done by mail, email, and a notarized deed without you ever visiting the county."
+  },
+  {
+   "question": "How do you know an offer you received in the mail is legitimate?",
+   "answer": "A legitimate buyer will explain how they calculated the number, provide it in writing, and won't pressure you to sign quickly. If something feels rushed or vague, it's reasonable to ask for more detail or get a second opinion before responding."
+  },
+  {
+   "question": "What if you are not sure exactly what mineral interest you even own?",
+   "answer": "That's a common starting point for out-of-state owners. Send us whatever documents you have, even partial ones, and we'll research the county records to identify and confirm the interest before anything moves forward."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1086,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-out-of-state-owners-royaltybuyerusa-com.jpg",
+  "alt": "Out-of-State Owners mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

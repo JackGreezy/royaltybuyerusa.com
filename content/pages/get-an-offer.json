@@ -1,83 +1,83 @@
 {
-  "slug": "get-an-offer",
-  "title": "Get An Offer",
-  "type": "page",
-  "status": "written",
-  "metaTitle": "Get a No-Obligation Offer on Your Mineral Rights",
-  "metaDescription": "Request a documented, no-obligation offer on your mineral or royalty interest. Tell us what you know; we handle the rest and explain every number.",
-  "heroLead": "You do not need a complete file or a firm decision to start this conversation, only a willingness to send what you already have.",
-  "intro": [
-    "Getting an offer starts with telling us about your interest, in as much or as little detail as you currently have. From there, we do the research and the math, and we come back with a documented number we can explain line by line. There is no cost and no obligation to any part of this process."
-  ],
-  "sections": [
-    {
-      "heading": "Getting Started",
-      "paragraphs": [
-        "Reaching out costs nothing and commits you to nothing further. Whether you have a full folder of documents or nothing more than a family memory that minerals are somewhere in the estate, send us what you have and we will tell you plainly what we can work with and what, if anything, would help fill in the picture. This is the same starting point whether you are the original owner, an heir handling things for the first time, or someone simply trying to understand a decades-old family interest before deciding anything."
-      ]
-    },
-    {
-      "heading": "What to Send Us",
-      "paragraphs": [
-        "Your county and state, and a general description of your interest, are enough to begin. If you have a deed, a recent royalty statement, or a prior offer from another buyer, attaching any of those lets us give you a faster and more specific response rather than a general one.",
-        "If you are not sure what type of interest you hold, mineral, royalty, overriding royalty, or something else, that is a fair starting question rather than something you need to already know. Many people who reach out are still working that out themselves, especially after an inheritance."
-      ]
-    },
-    {
-      "heading": "What We Do With It",
-      "paragraphs": [
-        "We pull publicly available production and permit data for your county and combine it with whatever documents you send to put together a documented offer. For a producing interest, this weighs your real royalty history; for non-producing acreage, it weighs comparable sales and nearby development activity. We are glad to walk you through exactly how we got to the number.",
-        "We cover the full range of mineral and royalty interests, well beyond producing oil, including gas-heavy interests, overriding royalty interests, non-participating royalty interests, and non-producing acreage in an active or emerging part of a play."
-      ]
-    },
-    {
-      "heading": "No Pressure, No Obligation",
-      "paragraphs": [
-        "Receiving an offer does not commit you to anything. Take the time you need to review it, ask questions about anything unclear, and get a second opinion if you would like one, from us or from another buyer. A fair offer today is generally still a fair offer next week.",
-        "If you decide not to move forward, that is a completely acceptable outcome, and we would rather you make a well-informed decision, with us or with someone else, than feel rushed into one you later regret."
-      ]
-    },
-    {
-      "heading": "If You Already Have Another Offer",
-      "paragraphs": [
-        "Send it along with your deed or statement and we will give you an honest read on how it compares, including telling you plainly if we think it is a fair number even if it means we do not end up buying your interest. Comparing offers is one of the more protective steps available to any owner, and we would rather help you do that well than compete only on being the fastest response in your inbox."
-      ]
-    },
-    {
-      "heading": "What Happens After You Accept",
-      "paragraphs": [
-        "Accepting an offer starts title review, where we confirm ownership and flag anything that needs resolving before closing, an unrecorded deed or an open heirship question, for example, neither of which is unusual on land held across generations. Closing is typically handled by mail or mobile notarization, so travel is generally not required, and funds are typically sent shortly after the deed records.",
-        "If title work turns up something more involved, an old unrecorded deed or a heirship question that needs a curative affidavit, we will tell you honestly what that means for your timeline rather than promising a date we cannot actually hold to."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "How long does it take to receive an offer after you reach out?",
-      "answer": "Timing depends on how quickly we can pull county records and review any documents you send, but most owners hear back within a few business days of providing basic information."
-    },
-    {
-      "question": "Is there any fee to request an offer?",
-      "answer": "No. Requesting an offer, asking questions, or getting a second opinion on another buyer's offer all carry no cost and no obligation."
-    },
-    {
-      "question": "What if you only own a fractional or inherited interest?",
-      "answer": "That is a common situation, not a barrier. We regularly work with owners of small fractional interests split among heirs across generations."
-    },
-    {
-      "question": "Can you request an offer without deciding whether you want to sell?",
-      "answer": "Yes. Requesting an offer does not commit you to selling. Many owners request one simply to understand their options before deciding anything."
-    },
-    {
-      "question": "What if your interest is non-producing?",
-      "answer": "Non-producing minerals are within scope. We price them based on comparable sales and development probability rather than current royalty income, since there is no income stream yet to reference."
-    }
-  ],
-  "wordCount": 864,
-  "image": {
-    "src": "/images/pages/mineral-rights-pages-get-an-offer-royaltybuyerusa-com.jpg",
-    "alt": "Get An Offer mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get a No-Obligation Offer on Your Mineral Rights",
+ "metaDescription": "Request a documented, no-obligation offer on your mineral or royalty interest. Tell us what you know; we handle the rest and explain every number.",
+ "heroLead": "You do not need a complete file or a firm decision to start this conversation, only a willingness to send what you already have.",
+ "intro": [
+  "Getting an offer starts with telling us about your interest, in as much or as little detail as you currently have. From there, we do the research and the math, and we come back with a documented number we can explain line by line. There is no cost and no obligation to any part of this process."
+ ],
+ "sections": [
+  {
+   "heading": "Getting Started",
+   "paragraphs": [
+    "Reaching out costs nothing and commits you to nothing further. Whether you have a full folder of documents or nothing more than a family memory that minerals are somewhere in the estate, send us what you have and we will tell you plainly what we can work with and what, if anything, would help fill in the picture. This is the same starting point whether you are the original owner, an heir handling things for the first time, or someone simply trying to understand a decades-old family interest before deciding anything."
+   ]
+  },
+  {
+   "heading": "What to Send Us",
+   "paragraphs": [
+    "Your county and state, and a general description of your interest, are enough to begin. If you have a deed, a recent royalty statement, or a prior offer from another buyer, attaching any of those lets us give you a faster and more specific response rather than a general one.",
+    "If you are not sure what type of interest you hold, mineral, royalty, overriding royalty, or something else, that is a fair starting question rather than something you need to already know. Many people who reach out are still working that out themselves, especially after an inheritance."
+   ]
+  },
+  {
+   "heading": "What We Do With It",
+   "paragraphs": [
+    "We pull publicly available production and permit data for your county and combine it with whatever documents you send to put together a documented offer. For a producing interest, this weighs your real royalty history; for non-producing acreage, it weighs comparable sales and nearby development activity. We are glad to walk you through exactly how we got to the number.",
+    "We cover the full range of mineral and royalty interests, well beyond producing oil, including gas-heavy interests, overriding royalty interests, non-participating royalty interests, and non-producing acreage in an active or emerging part of a play."
+   ]
+  },
+  {
+   "heading": "No Pressure, No Obligation",
+   "paragraphs": [
+    "Receiving an offer does not commit you to anything. Take the time you need to review it, ask questions about anything unclear, and get a second opinion if you would like one, from us or from another buyer. A fair offer today is generally still a fair offer next week.",
+    "If you decide not to move forward, that is a completely acceptable outcome, and we would rather you make a well-informed decision, with us or with someone else, than feel rushed into one you later regret."
+   ]
+  },
+  {
+   "heading": "If You Already Have Another Offer",
+   "paragraphs": [
+    "Send it along with your deed or statement and we will give you an honest read on how it compares, including telling you plainly if we think it is a fair number even if it means we do not end up buying your interest. Comparing offers is one of the more protective steps available to any owner, and we would rather help you do that well than compete only on being the fastest response in your inbox."
+   ]
+  },
+  {
+   "heading": "What Happens After You Accept",
+   "paragraphs": [
+    "Accepting an offer starts title review, where we confirm ownership and flag anything that needs resolving before closing, an unrecorded deed or an open heirship question, for example, neither of which is unusual on land held across generations. Closing is typically handled by mail or mobile notarization, so travel is generally not required, and funds are typically sent shortly after the deed records.",
+    "If title work turns up something more involved, an old unrecorded deed or a heirship question that needs a curative affidavit, we will tell you honestly what that means for your timeline rather than promising a date we cannot actually hold to."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "How long does it take to receive an offer after you reach out?",
+   "answer": "Timing depends on how quickly we can pull county records and review any documents you send, but most owners hear back within a few business days of providing basic information."
+  },
+  {
+   "question": "Is there any fee to request an offer?",
+   "answer": "No. Requesting an offer, asking questions, or getting a second opinion on another buyer's offer all carry no cost and no obligation."
+  },
+  {
+   "question": "What if you only own a fractional or inherited interest?",
+   "answer": "That is a common situation, not a barrier. We regularly work with owners of small fractional interests split among heirs across generations."
+  },
+  {
+   "question": "Can you request an offer without deciding whether you want to sell?",
+   "answer": "Yes. Requesting an offer does not commit you to selling. Many owners request one simply to understand their options before deciding anything."
+  },
+  {
+   "question": "What if your interest is non-producing?",
+   "answer": "Non-producing minerals are within scope. We price them based on comparable sales and development probability rather than current royalty income, since there is no income stream yet to reference."
+  }
+ ],
+ "wordCount": 864,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-royaltybuyerusa-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }
