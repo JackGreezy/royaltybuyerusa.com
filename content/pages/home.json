@@ -1,72 +1,72 @@
 {
-  "slug": "home",
-  "title": "Home",
-  "type": "page",
-  "status": "written",
-  "metaTitle": "Sell Your Mineral or Royalty Rights, Direct and No Obligation",
-  "metaDescription": "A direct royalty buyer covering oil, gas, and mixed mineral interests nationwide. Get a documented offer with no obligation and no broker commission.",
-  "heroLead": "The check that shows up every month, or the one that used to and stopped, is usually where this conversation actually starts, not with a legal question.",
-  "intro": [
-    "We have sat on your side of the table, holding a royalty statement we did not fully understand and an offer letter that felt like it arrived from nowhere. That is the gap this site exists to close. We buy oil, gas, and mixed mineral and royalty interests directly, whole or fractional, producing or non-producing, and we would rather walk you through the math behind an offer than ask you to take our word for it.",
-    "Whatever brought you here, a mailbox offer you want a second opinion on, an inherited interest you are still figuring out, or a royalty check you are ready to convert to cash, no obligation attaches to reaching out or asking questions."
-  ],
-  "sections": [
-    {
-      "heading": "What Kind of Buyer We Are",
-      "paragraphs": [
-        "We buy directly, with no broker commission taken out of your number and no middleman between your acceptance and closing. We are candid about the tradeoff: a direct sale trades away long-term upside for certainty today, and we would rather tell you that plainly than let you assume otherwise.",
-        "We cover the full range of what mineral owners actually hold, well beyond producing oil wells. Royalty interests, overriding royalty interests, non-participating royalty interests, gas-heavy and mixed-commodity interests, and non-producing acreage in an active or emerging part of a play are all within scope. Widening the aperture beyond producing oil-only interests, whole or fractional, is part of how we price fairly."
-      ]
-    },
-    {
-      "heading": "How the Process Actually Works",
-      "paragraphs": [
-        "You tell us about your interest, ideally with a deed or a recent statement in hand, though neither is required to start the conversation. We pull publicly available production and permit records for your county and combine that with whatever documents you provide to put together a documented offer, one we can walk you through line by line if you ask us to.",
-        "If you accept, we order a title review to confirm ownership and flag anything that needs resolving before closing, an old heirship question or a missing recorded document, for instance, neither of which is unusual on land that has passed through a family for generations. Closing is typically handled by mail or mobile notarization, so travel is generally not required, and funds are typically sent shortly after the deed records. A straightforward transaction with clean title commonly closes within a few weeks; title complexity can extend that timeline, and we will tell you honestly if that applies to your situation."
-      ]
-    },
-    {
-      "heading": "The Fine Print, Said Plainly",
-      "paragraphs": [
-        "No broker commission comes out of your offer. There is no obligation attached to a conversation, and there is no cost to asking us to review a statement, a deed, or another buyer's offer. If we think another offer you received is a fair number, even if it means we do not end up buying your interest, we will tell you that directly.",
-        "We are a direct buyer, not a licensed appraiser, attorney, or CPA, and nothing on this site should be read as legal, tax, or appraisal advice. Value talk here is always tied to your actual production history, decimal interest, and lease terms, never a fixed dollar-per-acre promise, because that number does not exist until we have looked at your documents."
-      ]
-    },
-    {
-      "heading": "Coverage Across Basins and Interest Types",
-      "paragraphs": [
-        "We buy across major producing basins nationwide and across the situations that bring owners to a decision point: inherited interests split among heirs, small fractional interests that have been in a family for generations, interests with unresolved title questions, and straightforward producing royalty a working owner is ready to convert to cash. Our county and basin library goes deeper than most sites in this space, because the local details, the operators active in your specific area, the courthouse where your deed sits, the spacing pattern on your unit, are what actually drive a fair number.",
-        "If you are still researching rather than ready to sell, our resource library covers reading a royalty statement, understanding division orders, spotting a lowball offer, and the tax basics of a sale. Working through those first, before any conversation about price, tends to produce a better outcome either way."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Do you only buy producing oil wells?",
-      "answer": "No. We buy oil, gas, and mixed interests, producing and non-producing, whole and fractional, including royalty, overriding royalty, and non-participating royalty interests. Widening beyond producing-oil-only is part of our angle."
-    },
-    {
-      "question": "Is there any cost or obligation to get an offer?",
-      "answer": "No. There is no cost or obligation to reach out, ask questions, or receive a documented offer. You decide whether to move forward after seeing it."
-    },
-    {
-      "question": "How fast can this actually move?",
-      "answer": "A straightforward transaction with clean title commonly closes within a few weeks of an accepted offer. Title complexity, such as an unresolved heirship question, can extend that timeline, and we will tell you honestly where your situation stands."
-    },
-    {
-      "question": "What if you only own a small fractional interest?",
-      "answer": "Small fractional interests, common on land split among heirs across generations, are still within scope. The decimal being small does not mean the interest lacks real value."
-    },
-    {
-      "question": "Can you get a second opinion on an offer from another buyer?",
-      "answer": "Yes, and we encourage it. Send us the other offer along with your deed or statement and we will give you an honest read, including telling you plainly if we think it is a fair number."
-    }
-  ],
-  "wordCount": 940,
-  "image": {
-    "src": "/images/pages/mineral-rights-pages-home-royaltybuyerusa-com.jpg",
-    "alt": "Home mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Sell Your Mineral or Royalty Rights, Direct and No Obligation",
+ "metaDescription": "A direct royalty buyer covering oil, gas, and mixed mineral interests nationwide. Get a documented offer with no obligation and no broker commission.",
+ "heroLead": "The check that shows up every month, or the one that used to and stopped, is usually where this conversation actually starts, not with a legal question.",
+ "intro": [
+  "We have sat on your side of the table, holding a royalty statement we did not fully understand and an offer letter that felt like it arrived from nowhere. That is the gap this site exists to close. We buy oil, gas, and mixed mineral and royalty interests directly, whole or fractional, producing or non-producing, and we would rather walk you through the math behind an offer than ask you to take our word for it.",
+  "Whatever brought you here, a mailbox offer you want a second opinion on, an inherited interest you are still figuring out, or a royalty check you are ready to convert to cash, no obligation attaches to reaching out or asking questions."
+ ],
+ "sections": [
+  {
+   "heading": "What Kind of Buyer We Are",
+   "paragraphs": [
+    "We buy directly, with no broker commission taken out of your number and no middleman between your acceptance and closing. We are candid about the tradeoff: a direct sale trades away long-term upside for certainty today, and we would rather tell you that plainly than let you assume otherwise.",
+    "We cover the full range of what mineral owners actually hold, well beyond producing oil wells. Royalty interests, overriding royalty interests, non-participating royalty interests, gas-heavy and mixed-commodity interests, and non-producing acreage in an active or emerging part of a play are all within scope. Widening the aperture beyond producing oil-only interests, whole or fractional, is part of how we price fairly."
+   ]
+  },
+  {
+   "heading": "How the Process Actually Works",
+   "paragraphs": [
+    "You tell us about your interest, ideally with a deed or a recent statement in hand, though neither is required to start the conversation. We pull publicly available production and permit records for your county and combine that with whatever documents you provide to put together a documented offer, one we can walk you through line by line if you ask us to.",
+    "If you accept, we order a title review to confirm ownership and flag anything that needs resolving before closing, an old heirship question or a missing recorded document, for instance, neither of which is unusual on land that has passed through a family for generations. Closing is typically handled by mail or mobile notarization, so travel is generally not required, and funds are typically sent shortly after the deed records. A straightforward transaction with clean title commonly closes within a few weeks; title complexity can extend that timeline, and we will tell you honestly if that applies to your situation."
+   ]
+  },
+  {
+   "heading": "The Fine Print, Said Plainly",
+   "paragraphs": [
+    "No broker commission comes out of your offer. There is no obligation attached to a conversation, and there is no cost to asking us to review a statement, a deed, or another buyer's offer. If we think another offer you received is a fair number, even if it means we do not end up buying your interest, we will tell you that directly.",
+    "We are a direct buyer, not a licensed appraiser, attorney, or CPA, and nothing on this site should be read as legal, tax, or appraisal advice. Value talk here is always tied to your actual production history, decimal interest, and lease terms, never a fixed dollar-per-acre promise, because that number does not exist until we have looked at your documents."
+   ]
+  },
+  {
+   "heading": "Coverage Across Basins and Interest Types",
+   "paragraphs": [
+    "We buy across major producing basins nationwide and across the situations that bring owners to a decision point: inherited interests split among heirs, small fractional interests that have been in a family for generations, interests with unresolved title questions, and straightforward producing royalty a working owner is ready to convert to cash. Our county and basin library goes deeper than most sites in this space, because the local details, the operators active in your specific area, the courthouse where your deed sits, the spacing pattern on your unit, are what actually drive a fair number.",
+    "If you are still researching rather than ready to sell, our resource library covers reading a royalty statement, understanding division orders, spotting a lowball offer, and the tax basics of a sale. Working through those first, before any conversation about price, tends to produce a better outcome either way."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Do you only buy producing oil wells?",
+   "answer": "No. We buy oil, gas, and mixed interests, producing and non-producing, whole and fractional, including royalty, overriding royalty, and non-participating royalty interests. Widening beyond producing-oil-only is part of our angle."
+  },
+  {
+   "question": "Is there any cost or obligation to get an offer?",
+   "answer": "No. There is no cost or obligation to reach out, ask questions, or receive a documented offer. You decide whether to move forward after seeing it."
+  },
+  {
+   "question": "How fast can this actually move?",
+   "answer": "A straightforward transaction with clean title commonly closes within a few weeks of an accepted offer. Title complexity, such as an unresolved heirship question, can extend that timeline, and we will tell you honestly where your situation stands."
+  },
+  {
+   "question": "What if you only own a small fractional interest?",
+   "answer": "Small fractional interests, common on land split among heirs across generations, are still within scope. The decimal being small does not mean the interest lacks real value."
+  },
+  {
+   "question": "Can you get a second opinion on an offer from another buyer?",
+   "answer": "Yes, and we encourage it. Send us the other offer along with your deed or statement and we will give you an honest read, including telling you plainly if we think it is a fair number."
+  }
+ ],
+ "wordCount": 940,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-royaltybuyerusa-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

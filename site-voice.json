@@ -10,20 +10,62 @@
     "exchange-1031": "Mineral 1031 Exchange Guides"
   },
   "scrub": [
-    ["lead.generation", "owner inquiry"],
-    ["\\bguarantee(d|s)?\\b", "document"],
-    ["\\bhighest offer\\b", "supported offer"],
-    ["\\bbest price\\b", "reviewed sale terms"],
-    ["\\binstant valuation\\b", "preliminary royalty review"],
-    ["\\bno risk\\b", "no obligation to sell"],
-    ["\\baward-winning\\b", "owner-focused"],
-    ["CesiumAstro", "Royalty Buyer"],
-    ["\\bCesium\\b", "the royalty desk"],
-    ["spacecraft", "royalty interest"],
-    ["satellite", "producing property"],
-    ["orbital", "production"],
-    ["payload", "royalty file"],
-    ["mission", "review"]
+    [
+      "lead.generation",
+      "owner inquiry"
+    ],
+    [
+      "\\bguarantee(d|s)?\\b",
+      "document"
+    ],
+    [
+      "\\bhighest offer\\b",
+      "supported offer"
+    ],
+    [
+      "\\bbest price\\b",
+      "reviewed sale terms"
+    ],
+    [
+      "\\binstant valuation\\b",
+      "preliminary royalty review"
+    ],
+    [
+      "\\bno risk\\b",
+      "no obligation to sell"
+    ],
+    [
+      "\\baward-winning\\b",
+      "owner-focused"
+    ],
+    [
+      "CesiumAstro",
+      "Royalty Buyer"
+    ],
+    [
+      "\\bCesium\\b",
+      "the royalty desk"
+    ],
+    [
+      "spacecraft",
+      "royalty interest"
+    ],
+    [
+      "satellite",
+      "producing property"
+    ],
+    [
+      "orbital",
+      "production"
+    ],
+    [
+      "payload",
+      "royalty file"
+    ],
+    [
+      "mission",
+      "review"
+    ]
   ],
   "heroes": [
     [
@@ -83,13 +125,30 @@
     "nf_cta": "Return to Royalty Buyer"
   },
   "form_fields": [
-    ["firstName", "text", "First name", true],
-    ["lastName", "text", "Last name", true],
-    ["emailAddress", "email", "Email address", true],
-    ["phoneNumber", "tel", "Phone number", true],
-    ["propertyLocation", "text", "County, state, and legal description if known", true],
-    ["fileEvidence", "text", "Operator, payor, statement, deed, lease, or well clues", false],
-    ["propertyDetails", "textarea", "What changed and what should the review explain?", true]
+    [
+      "name",
+      "text",
+      "Name",
+      true
+    ],
+    [
+      "email",
+      "email",
+      "Email",
+      true
+    ],
+    [
+      "phone",
+      "tel",
+      "Phone",
+      true
+    ],
+    [
+      "message",
+      "textarea",
+      "Message",
+      true
+    ]
   ],
   "about_blocks": [
     [
@@ -119,43 +178,118 @@
   ],
   "taxonomy_enrichment": {
     "situations": [
-      ["Name the Event That Changed the Family File", "{name} becomes easier to address when the triggering event, date, people, tracts, checks, documents, and unanswered questions are recorded together."],
-      ["Keep Ownership Questions Separate From Well Questions", "The ownership path for {name} explains who may convey an interest. Production evidence explains what the interest currently pays. Neither should be used as a shortcut for the other."],
-      ["Match the Review to the Owner's Real Choice", "A family considering {name} may sell all, sell part, retain a fraction, gather more evidence, or decline a transaction. The working file should support each path without manufacturing urgency."]
+      [
+        "Name the Event That Changed the Family File",
+        "{name} becomes easier to address when the triggering event, date, people, tracts, checks, documents, and unanswered questions are recorded together."
+      ],
+      [
+        "Keep Ownership Questions Separate From Well Questions",
+        "The ownership path for {name} explains who may convey an interest. Production evidence explains what the interest currently pays. Neither should be used as a shortcut for the other."
+      ],
+      [
+        "Match the Review to the Owner's Real Choice",
+        "A family considering {name} may sell all, sell part, retain a fraction, gather more evidence, or decline a transaction. The working file should support each path without manufacturing urgency."
+      ]
     ],
     "interest-types": [
-      ["Name the Economic Right", "{name} should be traced through the deed, lease, assignments, reservations, division order, statement, and unit before a buyer applies a value."],
-      ["Explain the Decimal", "The owner decimal connected to {name} should be understandable through tract share, ownership fraction, lease burden, unit allocation, product, and payor setup."],
-      ["Write Included and Retained Rights", "A proposal for {name} should identify the property, fractions, depths, formations, wells, units, receivables, reservations, and liabilities that do or do not transfer."]
+      [
+        "Name the Economic Right",
+        "{name} should be traced through the deed, lease, assignments, reservations, division order, statement, and unit before a buyer applies a value."
+      ],
+      [
+        "Explain the Decimal",
+        "The owner decimal connected to {name} should be understandable through tract share, ownership fraction, lease burden, unit allocation, product, and payor setup."
+      ],
+      [
+        "Write Included and Retained Rights",
+        "A proposal for {name} should identify the property, fractions, depths, formations, wells, units, receivables, reservations, and liabilities that do or do not transfer."
+      ]
     ],
     "basins": [
-      ["Use Basin Context Without Losing the Property", "{name} can frame formations, operator behavior, spacing, takeaway, differentials, and development pace. The subject royalty still depends on its own title, lease, unit, wells, decimal, burdens, and production."],
-      ["Separate Existing Wells From Future Inventory", "Producing wells, behind-pipe opportunities, permits, and broader undeveloped acreage in {name} carry different evidence, timing, and uncertainty. A buyer should show each layer."],
-      ["Reconcile the Owner's Net Revenue", "Cash flow in {name} can reflect quality, gathering, processing, transportation, taxes, curtailment, workovers, shut-ins, and accounting adjustments. The review connects those items to the owner's actual statement."]
+      [
+        "Use Basin Context Without Losing the Property",
+        "{name} can frame formations, operator behavior, spacing, takeaway, differentials, and development pace. The subject royalty still depends on its own title, lease, unit, wells, decimal, burdens, and production."
+      ],
+      [
+        "Separate Existing Wells From Future Inventory",
+        "Producing wells, behind-pipe opportunities, permits, and broader undeveloped acreage in {name} carry different evidence, timing, and uncertainty. A buyer should show each layer."
+      ],
+      [
+        "Reconcile the Owner's Net Revenue",
+        "Cash flow in {name} can reflect quality, gathering, processing, transportation, taxes, curtailment, workovers, shut-ins, and accounting adjustments. The review connects those items to the owner's actual statement."
+      ]
     ],
     "locations": [
-      ["Build the File From the County Outward", "A review of {name} begins with the county, legal description, record owner, deed chain, estate or trust instruments, lease, unit records, division orders, payor accounts, and recent check detail."],
-      ["Match State Rules to the Instrument", "Recording, probate, marital-property, transfer, regulatory, tax, and payor-notice rules may differ in {name}. The file flags those local questions for the right professional before closing."],
-      ["Keep the Payor Trail Current", "Operator changes, new wells, revised units, curative work, suspense, and effective-date terms can change a {name} royalty file while a sale is being reviewed."]
+      [
+        "Build the File From the County Outward",
+        "A review of {name} begins with the county, legal description, record owner, deed chain, estate or trust instruments, lease, unit records, division orders, payor accounts, and recent check detail."
+      ],
+      [
+        "Match State Rules to the Instrument",
+        "Recording, probate, marital-property, transfer, regulatory, tax, and payor-notice rules may differ in {name}. The file flags those local questions for the right professional before closing."
+      ],
+      [
+        "Keep the Payor Trail Current",
+        "Operator changes, new wells, revised units, curative work, suspense, and effective-date terms can change a {name} royalty file while a sale is being reviewed."
+      ]
     ],
     "resources": [
-      ["Turn the Guide Into a File Check", "{name} should help an owner identify a statement field, locate a deed, compare a decimal, find a well, label an offer term, or ask a qualified professional a focused question."],
-      ["Use Each Record for What It Proves", "The documents discussed in {name} may describe payment, title, lease burden, well history, or transaction terms. A useful review does not ask one record to prove everything."],
-      ["Preserve Dates and Sources", "Production, prices, deductions, decimals, permits, operator plans, and offers change. For {name}, every figure should retain its source, date, unit, period, and whether it is observed or forecast."]
+      [
+        "Turn the Guide Into a File Check",
+        "{name} should help an owner identify a statement field, locate a deed, compare a decimal, find a well, label an offer term, or ask a qualified professional a focused question."
+      ],
+      [
+        "Use Each Record for What It Proves",
+        "The documents discussed in {name} may describe payment, title, lease burden, well history, or transaction terms. A useful review does not ask one record to prove everything."
+      ],
+      [
+        "Preserve Dates and Sources",
+        "Production, prices, deductions, decimals, permits, operator plans, and offers change. For {name}, every figure should retain its source, date, unit, period, and whether it is observed or forecast."
+      ]
     ],
     "investing": [
-      ["Build the Producing Case From the Revenue Deck", "For {name}, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow."],
-      ["Treat Decline as a Range, Not a Clock", "A decline case for {name} is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal."],
-      ["Keep Future Development in a Separate Layer", "{name} may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story."],
-      ["Stress-Test Price and Netback Independently", "A useful review of {name} changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple."],
-      ["Show the Discount, Title Reserve, and Closing Math", "The analysis for {name} should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing."]
+      [
+        "Build the Producing Case From the Revenue Deck",
+        "For {name}, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow."
+      ],
+      [
+        "Treat Decline as a Range, Not a Clock",
+        "A decline case for {name} is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal."
+      ],
+      [
+        "Keep Future Development in a Separate Layer",
+        "{name} may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story."
+      ],
+      [
+        "Stress-Test Price and Netback Independently",
+        "A useful review of {name} changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple."
+      ],
+      [
+        "Show the Discount, Title Reserve, and Closing Math",
+        "The analysis for {name} should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing."
+      ]
     ],
     "exchange-1031": [
-      ["Confirm the Exchange Question Before Reshaping the Sale", "For {name}, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale."],
-      ["Keep the Royalty Underwriting File Intact", "A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in {name}. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing."],
-      ["Coordinate the Intermediary Before Funds Move", "The working file for {name} should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork."],
-      ["Run One Calendar for the Sale and One for the Exchange", "{name} can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter."],
-      ["Preserve a Clear Non-Exchange Closing Path", "A family considering {name} should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment."]
+      [
+        "Confirm the Exchange Question Before Reshaping the Sale",
+        "For {name}, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale."
+      ],
+      [
+        "Keep the Royalty Underwriting File Intact",
+        "A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in {name}. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing."
+      ],
+      [
+        "Coordinate the Intermediary Before Funds Move",
+        "The working file for {name} should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork."
+      ],
+      [
+        "Run One Calendar for the Sale and One for the Exchange",
+        "{name} can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter."
+      ],
+      [
+        "Preserve a Clear Non-Exchange Closing Path",
+        "A family considering {name} should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment."
+      ]
     ]
   }
 }
