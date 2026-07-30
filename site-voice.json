@@ -291,5 +291,13 @@
         "A family considering {name} should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment."
       ]
     ]
+  },
+  "slug_ui": {
+    "related_kicker": "Royalty working file",
+    "related_heading": "Keep the royalty evidence in one file",
+    "related_intro": "Carry the tract, deed chain, lease, division order, payor account, wells, deductions, and offer terms from {item} into the next review.",
+    "related_action": "Browse the Royalty Working File",
+    "faq_kicker": "Owner review",
+    "faq_intro": "Use these answers to keep ownership, payment history, well performance, and sale terms connected rather than reviewed in isolation."
   }
 }
