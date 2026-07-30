@@ -1,72 +1,72 @@
 {
-  "slug": "surface-vs-mineral-estate",
-  "title": "Surface vs. Mineral Estate",
-  "type": "interest-type",
-  "metaTitle": "Surface Rights vs. Mineral Rights Explained",
-  "metaDescription": "Owning the land and owning what's underneath it are legally separate in most states. Here's how the split works and why the mineral estate usually wins access disputes.",
-  "heroLead": "You can own every acre you can see and still not own a single drop of what's underneath it.",
-  "intro": [
-    "In most of the country, real property can be split into two legally distinct estates: the surface estate, which is the land itself and everything on it, and the mineral estate, which is whatever oil, gas, and other minerals sit beneath it. These two estates can be owned by the same person, or they can be severed and owned by two completely different people who may never meet, may never even know each other exists, and who each hold rights that can directly affect the other.",
-    "Most owners who reach out to us about a mineral interest have already run into this distinction somewhere along the way, usually because they own minerals under land someone else farms or ranches, or because they own the surface and discovered, sometimes only when a landman showed up, that they don't actually own what's underneath their own property."
-  ],
-  "sections": [
-    {
-      "heading": "How the Two Estates Get Separated",
-      "paragraphs": [
-        "Severance happens when a deed conveys the surface and the minerals to different parties, either at the same time — a seller conveys the surface but reserves the minerals — or later, when a mineral owner sells off just the mineral estate while a different owner keeps the surface. Once severed, each estate is its own piece of real property, tracked separately at the county, and each can be sold, leased, inherited, or subdivided independent of what happens to the other.",
-        "This creates situations that surprise a lot of surface owners: you can buy a house and the surrounding acreage with a completely clean title on the surface, and still not own the minerals beneath it, because a previous owner reserved them decades earlier in a deed that has nothing to do with the transaction you just closed. Title insurance on a surface purchase typically doesn't guarantee mineral ownership unless specifically addressed, which is why surface buyers are sometimes caught off guard."
-      ]
-    },
-    {
-      "heading": "Why the Mineral Estate Is Usually the Dominant Estate",
-      "paragraphs": [
-        "In most states that recognize severed mineral ownership, the mineral estate is legally considered dominant over the surface estate, meaning the mineral owner (or their lessee) generally has an implied right to use as much of the surface as is reasonably necessary to explore for and produce the minerals, even without the surface owner's consent, subject to state law and any specific surface use agreement in place. This surprises a lot of surface owners who assume that owning the land gives them control over what happens on it.",
-        "In practice, this dominance is limited by a reasonableness standard, and many states now require operators to provide notice, minimize surface disturbance, or negotiate a surface use agreement covering compensation and access terms before drilling. Some states have gone further and enacted specific surface owner protection statutes. The exact balance of rights varies meaningfully by state, so a surface owner dealing with a mineral lessee should understand their specific state's rules rather than assuming either side has absolute control."
-      ]
-    },
-    {
-      "heading": "What This Means for Mineral Owners Specifically",
-      "paragraphs": [
-        "If you own minerals under land you don't own the surface of, you generally retain your right to lease and receive royalty regardless of who owns the surface or how they feel about drilling activity. The surface owner's consent typically isn't legally required for you to lease your minerals, though practically speaking, cooperative surface owners make development easier and less contentious, and some operators factor surface owner relations into where they choose to drill first within a broader leased area.",
-        "This also means that as a mineral owner, you're not responsible for surface use disputes between the operator and the surface owner — that relationship and any compensation for surface damage is typically handled directly between them, separate from your royalty payments, unless your specific lease says otherwise."
-      ]
-    },
-    {
-      "heading": "Buying or Selling With the Split in Mind",
-      "paragraphs": [
-        "We only buy mineral interests, not surface land, so if you're looking to sell just your severed mineral estate while keeping your home and surface acreage, that's exactly the kind of transaction we handle regularly and it doesn't touch your surface ownership at all. Confirming that your interest really is a severed mineral estate, and getting the legal description to match what's on file at the county, is one of the first things we check before making an offer.",
-        "If you own both the surface and the minerals together and are only looking to sell the mineral portion, that's equally straightforward — the sale simply carves out and transfers the mineral estate while your surface ownership stays exactly as it is, with the buyer stepping into a now-severed mineral position beneath your land."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "If you own the surface, do you automatically own the minerals underneath?",
-      "answer": "Not necessarily. In most states, surface and mineral ownership can be severed, meaning a previous owner may have reserved or sold the minerals separately, sometimes long before you purchased the surface."
-    },
-    {
-      "question": "Can a mineral owner drill without the surface owner's permission?",
-      "answer": "Generally the mineral estate is considered dominant and carries an implied right of reasonable surface access, though many states require notice, limit surface disturbance, or mandate a surface use agreement. The exact rules vary meaningfully by state."
-    },
-    {
-      "question": "Do you need to own the surface to sell your mineral rights?",
-      "answer": "No. We buy severed mineral estates regularly, and selling your mineral interest doesn't require owning or affect ownership of the surface land above it."
-    },
-    {
-      "question": "How do you find out if your minerals were severed from the surface at some point?",
-      "answer": "Check your deed and its chain of title at the county clerk or recorder's office. A reservation or conveyance of minerals separate from the surface should appear somewhere in that recorded history."
-    },
-    {
-      "question": "If you sell your mineral rights, does it affect your ownership of the land?",
-      "answer": "No. Selling the mineral estate transfers only the minerals beneath your property. Your surface ownership, home, and land stay exactly as they were before the sale."
-    }
-  ],
-  "status": "written",
-  "wordCount": 1031,
-  "image": {
-    "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-royaltybuyerusa-com.jpg",
-    "alt": "Surface vs. Mineral Estate mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface Rights vs. Mineral Rights Explained",
+ "metaDescription": "Owning the land and owning what's underneath it are legally separate in most states. Here's how the split works and why the mineral estate usually wins access disputes.",
+ "heroLead": "You can own every acre you can see and still not own a single drop of what's underneath it.",
+ "intro": [
+  "In most of the country, real property can be split into two legally distinct estates: the surface estate, which is the land itself and everything on it, and the mineral estate, which is whatever oil, gas, and other minerals sit beneath it. These two estates can be owned by the same person, or they can be severed and owned by two completely different people who may never meet, may never even know each other exists, and who each hold rights that can directly affect the other.",
+  "Most owners who reach out to us about a mineral interest have already run into this distinction somewhere along the way, usually because they own minerals under land someone else farms or ranches, or because they own the surface and discovered, sometimes only when a landman showed up, that they don't actually own what's underneath their own property."
+ ],
+ "sections": [
+  {
+   "heading": "How the Two Estates Get Separated",
+   "paragraphs": [
+    "Severance happens when a deed conveys the surface and the minerals to different parties, either at the same time — a seller conveys the surface but reserves the minerals — or later, when a mineral owner sells off just the mineral estate while a different owner keeps the surface. Once severed, each estate is its own piece of real property, tracked separately at the county, and each can be sold, leased, inherited, or subdivided independent of what happens to the other.",
+    "This creates situations that surprise a lot of surface owners: you can buy a house and the surrounding acreage with a completely clean title on the surface, and still not own the minerals beneath it, because a previous owner reserved them decades earlier in a deed that has nothing to do with the transaction you just closed. Title insurance on a surface purchase typically doesn't guarantee mineral ownership unless specifically addressed, which is why surface buyers are sometimes caught off guard."
+   ]
+  },
+  {
+   "heading": "Why the Mineral Estate Is Usually the Dominant Estate",
+   "paragraphs": [
+    "In most states that recognize severed mineral ownership, the mineral estate is legally considered dominant over the surface estate, meaning the mineral owner (or their lessee) generally has an implied right to use as much of the surface as is reasonably necessary to explore for and produce the minerals, even without the surface owner's consent, subject to state law and any specific surface use agreement in place. This surprises a lot of surface owners who assume that owning the land gives them control over what happens on it.",
+    "In practice, this dominance is limited by a reasonableness standard, and many states now require operators to provide notice, minimize surface disturbance, or negotiate a surface use agreement covering compensation and access terms before drilling. Some states have gone further and enacted specific surface owner protection statutes. The exact balance of rights varies meaningfully by state, so a surface owner dealing with a mineral lessee should understand their specific state's rules rather than assuming either side has absolute control."
+   ]
+  },
+  {
+   "heading": "What This Means for Mineral Owners Specifically",
+   "paragraphs": [
+    "If you own minerals under land you don't own the surface of, you generally retain your right to lease and receive royalty regardless of who owns the surface or how they feel about drilling activity. The surface owner's consent typically isn't legally required for you to lease your minerals, though practically speaking, cooperative surface owners make development easier and less contentious, and some operators factor surface owner relations into where they choose to drill first within a broader leased area.",
+    "This also means that as a mineral owner, you're not responsible for surface use disputes between the operator and the surface owner — that relationship and any compensation for surface damage is typically handled directly between them, separate from your royalty payments, unless your specific lease says otherwise."
+   ]
+  },
+  {
+   "heading": "Buying or Selling With the Split in Mind",
+   "paragraphs": [
+    "We only buy mineral interests, not surface land, so if you're looking to sell just your severed mineral estate while keeping your home and surface acreage, that's exactly the kind of transaction we handle regularly and it doesn't touch your surface ownership at all. Confirming that your interest really is a severed mineral estate, and getting the legal description to match what's on file at the county, is one of the first things we check before making an offer.",
+    "If you own both the surface and the minerals together and are only looking to sell the mineral portion, that's equally straightforward — the sale simply carves out and transfers the mineral estate while your surface ownership stays exactly as it is, with the buyer stepping into a now-severed mineral position beneath your land."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "If you own the surface, do you automatically own the minerals underneath?",
+   "answer": "Not necessarily. In most states, surface and mineral ownership can be severed, meaning a previous owner may have reserved or sold the minerals separately, sometimes long before you purchased the surface."
+  },
+  {
+   "question": "Can a mineral owner drill without the surface owner's permission?",
+   "answer": "Generally the mineral estate is considered dominant and carries an implied right of reasonable surface access, though many states require notice, limit surface disturbance, or mandate a surface use agreement. The exact rules vary meaningfully by state."
+  },
+  {
+   "question": "Do you need to own the surface to sell your mineral rights?",
+   "answer": "No. We buy severed mineral estates regularly, and selling your mineral interest doesn't require owning or affect ownership of the surface land above it."
+  },
+  {
+   "question": "How do you find out if your minerals were severed from the surface at some point?",
+   "answer": "Check your deed and its chain of title at the county clerk or recorder's office. A reservation or conveyance of minerals separate from the surface should appear somewhere in that recorded history."
+  },
+  {
+   "question": "If you sell your mineral rights, does it affect your ownership of the land?",
+   "answer": "No. Selling the mineral estate transfers only the minerals beneath your property. Your surface ownership, home, and land stay exactly as they were before the sale."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1031,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-royaltybuyerusa-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

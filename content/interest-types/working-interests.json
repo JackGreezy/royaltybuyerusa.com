@@ -1,72 +1,72 @@
 {
-  "slug": "working-interests",
-  "title": "Working Interests",
-  "type": "interest-type",
-  "metaTitle": "What Is a Working Interest in Oil and Gas?",
-  "metaDescription": "A working interest pays more per barrel but carries drilling costs and liability royalty owners never see. Here's the tradeoff explained plainly.",
-  "heroLead": "A working interest owns the upside and the bill, which is exactly what separates it from every royalty type we've written about here.",
-  "intro": [
-    "A working interest is the operating side of an oil and gas lease — the party that bears the cost of drilling, completing, and operating a well in exchange for the largest share of production revenue. Where every royalty interest we cover elsewhere on this site is free of cost by definition, a working interest owner pays their proportionate share of every dollar it takes to drill and run the well, which is the fundamental trade that defines this interest type.",
-    "Most owners who come to us with a working interest inherited it, sometimes through a family member who was an early investor in a drilling program, sometimes through a small non-operated stake picked up decades ago that's been quietly generating both income and cost statements ever since. If that's you, understanding the cost side is just as important as understanding the income side before deciding what to do with it."
-  ],
-  "sections": [
-    {
-      "heading": "How a Working Interest Differs From a Royalty",
-      "paragraphs": [
-        "A royalty owner receives their percentage of production revenue with no deduction for drilling or operating costs — the operator absorbs those entirely. A working interest owner receives their percentage of net revenue after their proportionate share of drilling, completion, and ongoing operating costs is deducted, but that percentage is typically calculated against a much larger base, since working interest owners split the full production stream among themselves before any royalty comes off the top.",
-        "This means a working interest can pay significantly more per unit of production than a royalty interest, but it can also produce negative cash flow in months when operating costs, workovers, or new drilling exceed revenue. A royalty check can shrink to a small number in a bad month; a working interest statement can actually show money owed back to the operator in a bad month, which is a real difference owners need to understand clearly before holding this interest type."
-      ]
-    },
-    {
-      "heading": "Costs and Liability That Come With the Interest",
-      "paragraphs": [
-        "Beyond the initial drilling and completion costs, working interest owners are typically responsible for their share of ongoing lease operating expenses — pumping, maintenance, workovers, plugging costs when a well eventually reaches the end of its life — and depending on how the interest is structured, may face joint and several liability exposure tied to the well's operations. This is a meaningfully different risk profile than royalty ownership, where the royalty owner has no exposure to operating costs or liability at all.",
-        "Non-operated working interests, where you own a fraction of the working interest but an operator handles day-to-day management, are the most common form individual owners hold, and they still carry proportionate cost responsibility even without any hands-on involvement in running the well. If you've been receiving joint interest billing statements alongside your revenue checks, that's the cost side of a non-operated working interest showing up on paper."
-      ]
-    },
-    {
-      "heading": "Why Working Interests End Up for Sale",
-      "paragraphs": [
-        "Owners sell working interests for many of the same reasons they sell royalty interests — inheritance from someone who invested decades ago, wanting out of ongoing cost and administrative exposure, or simply preferring a known lump sum over an income stream that carries both upside and real downside risk. Working interests also come with more ongoing paperwork than royalty ownership, including responding to authorization-for-expenditure requests for future work on the well, which some non-operated owners find burdensome relative to the size of their stake.",
-        "Some owners specifically want out of the liability and cost exposure a working interest carries, even when the interest has historically paid well, simply because an unexpected large workover bill or a plugging obligation on an aging well is a real financial exposure that royalty ownership never presents."
-      ]
-    },
-    {
-      "heading": "Valuing and Selling a Working Interest",
-      "paragraphs": [
-        "Valuing a working interest requires looking at both sides of the ledger — gross revenue potential based on production and reserves, and the realistic cost side including operating expenses and any known future capital needs like workovers or eventual plugging and abandonment. This makes working interest valuation more involved than a royalty interest, and we review recent joint interest billing statements alongside revenue statements to build an accurate picture of net cash flow rather than looking at gross production alone.",
-        "When we buy a working interest, we typically also take on the associated future cost and liability exposure going forward, which is often the main relief sellers are looking for beyond just the cash itself. We'll walk through exactly how we're valuing both the revenue and cost sides so the offer isn't a mystery number, and we'll explain plainly what liability you're being released from as part of the sale."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Why did you receive a bill instead of a check for your working interest this month?",
-      "answer": "Working interest owners are responsible for their proportionate share of drilling, operating, and workover costs. In months where those costs exceed your share of revenue, you can receive a joint interest billing statement showing an amount owed rather than a payment."
-    },
-    {
-      "question": "Do you have any liability exposure as a working interest owner?",
-      "answer": "Potentially, depending on how the interest is structured, including exposure tied to the well's operations and eventual plugging obligations. This is different from royalty ownership, which carries no operating cost or liability exposure."
-    },
-    {
-      "question": "What's a non-operated working interest?",
-      "answer": "It's a fractional working interest where an operator handles day-to-day management of the well, but you still bear your proportionate share of costs and revenue even without hands-on involvement."
-    },
-    {
-      "question": "How is a working interest valued differently from a royalty interest?",
-      "answer": "Valuation has to account for both gross revenue potential and the realistic cost side, including operating expenses and any known future capital needs, rather than looking at production revenue alone the way a royalty valuation would."
-    },
-    {
-      "question": "Does selling your working interest get you out of future liability?",
-      "answer": "Generally yes, the buyer takes on the associated future cost and liability exposure as part of the purchase, which is often a major reason owners choose to sell rather than continue holding a working interest."
-    }
-  ],
-  "status": "written",
-  "wordCount": 1049,
-  "image": {
-    "src": "/images/interest-types/mineral-rights-interest-types-working-interests-royaltybuyerusa-com.jpg",
-    "alt": "Working Interests mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "metaTitle": "What Is a Working Interest in Oil and Gas?",
+ "metaDescription": "A working interest pays more per barrel but carries drilling costs and liability royalty owners never see. Here's the tradeoff explained plainly.",
+ "heroLead": "A working interest owns the upside and the bill, which is exactly what separates it from every royalty type we've written about here.",
+ "intro": [
+  "A working interest is the operating side of an oil and gas lease — the party that bears the cost of drilling, completing, and operating a well in exchange for the largest share of production revenue. Where every royalty interest we cover elsewhere on this site is free of cost by definition, a working interest owner pays their proportionate share of every dollar it takes to drill and run the well, which is the fundamental trade that defines this interest type.",
+  "Most owners who come to us with a working interest inherited it, sometimes through a family member who was an early investor in a drilling program, sometimes through a small non-operated stake picked up decades ago that's been quietly generating both income and cost statements ever since. If that's you, understanding the cost side is just as important as understanding the income side before deciding what to do with it."
+ ],
+ "sections": [
+  {
+   "heading": "How a Working Interest Differs From a Royalty",
+   "paragraphs": [
+    "A royalty owner receives their percentage of production revenue with no deduction for drilling or operating costs — the operator absorbs those entirely. A working interest owner receives their percentage of net revenue after their proportionate share of drilling, completion, and ongoing operating costs is deducted, but that percentage is typically calculated against a much larger base, since working interest owners split the full production stream among themselves before any royalty comes off the top.",
+    "This means a working interest can pay significantly more per unit of production than a royalty interest, but it can also produce negative cash flow in months when operating costs, workovers, or new drilling exceed revenue. A royalty check can shrink to a small number in a bad month; a working interest statement can actually show money owed back to the operator in a bad month, which is a real difference owners need to understand clearly before holding this interest type."
+   ]
+  },
+  {
+   "heading": "Costs and Liability That Come With the Interest",
+   "paragraphs": [
+    "Beyond the initial drilling and completion costs, working interest owners are typically responsible for their share of ongoing lease operating expenses — pumping, maintenance, workovers, plugging costs when a well eventually reaches the end of its life — and depending on how the interest is structured, may face joint and several liability exposure tied to the well's operations. This is a meaningfully different risk profile than royalty ownership, where the royalty owner has no exposure to operating costs or liability at all.",
+    "Non-operated working interests, where you own a fraction of the working interest but an operator handles day-to-day management, are the most common form individual owners hold, and they still carry proportionate cost responsibility even without any hands-on involvement in running the well. If you've been receiving joint interest billing statements alongside your revenue checks, that's the cost side of a non-operated working interest showing up on paper."
+   ]
+  },
+  {
+   "heading": "Why Working Interests End Up for Sale",
+   "paragraphs": [
+    "Owners sell working interests for many of the same reasons they sell royalty interests — inheritance from someone who invested decades ago, wanting out of ongoing cost and administrative exposure, or simply preferring a known lump sum over an income stream that carries both upside and real downside risk. Working interests also come with more ongoing paperwork than royalty ownership, including responding to authorization-for-expenditure requests for future work on the well, which some non-operated owners find burdensome relative to the size of their stake.",
+    "Some owners specifically want out of the liability and cost exposure a working interest carries, even when the interest has historically paid well, simply because an unexpected large workover bill or a plugging obligation on an aging well is a real financial exposure that royalty ownership never presents."
+   ]
+  },
+  {
+   "heading": "Valuing and Selling a Working Interest",
+   "paragraphs": [
+    "Valuing a working interest requires looking at both sides of the ledger — gross revenue potential based on production and reserves, and the realistic cost side including operating expenses and any known future capital needs like workovers or eventual plugging and abandonment. This makes working interest valuation more involved than a royalty interest, and we review recent joint interest billing statements alongside revenue statements to build an accurate picture of net cash flow rather than looking at gross production alone.",
+    "When we buy a working interest, we typically also take on the associated future cost and liability exposure going forward, which is often the main relief sellers are looking for beyond just the cash itself. We'll walk through exactly how we're valuing both the revenue and cost sides so the offer isn't a mystery number, and we'll explain plainly what liability you're being released from as part of the sale."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Why did you receive a bill instead of a check for your working interest this month?",
+   "answer": "Working interest owners are responsible for their proportionate share of drilling, operating, and workover costs. In months where those costs exceed your share of revenue, you can receive a joint interest billing statement showing an amount owed rather than a payment."
+  },
+  {
+   "question": "Do you have any liability exposure as a working interest owner?",
+   "answer": "Potentially, depending on how the interest is structured, including exposure tied to the well's operations and eventual plugging obligations. This is different from royalty ownership, which carries no operating cost or liability exposure."
+  },
+  {
+   "question": "What's a non-operated working interest?",
+   "answer": "It's a fractional working interest where an operator handles day-to-day management of the well, but you still bear your proportionate share of costs and revenue even without hands-on involvement."
+  },
+  {
+   "question": "How is a working interest valued differently from a royalty interest?",
+   "answer": "Valuation has to account for both gross revenue potential and the realistic cost side, including operating expenses and any known future capital needs, rather than looking at production revenue alone the way a royalty valuation would."
+  },
+  {
+   "question": "Does selling your working interest get you out of future liability?",
+   "answer": "Generally yes, the buyer takes on the associated future cost and liability exposure as part of the purchase, which is often a major reason owners choose to sell rather than continue holding a working interest."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1049,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-royaltybuyerusa-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

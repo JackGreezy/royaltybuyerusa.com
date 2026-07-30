@@ -1,71 +1,71 @@
 {
-  "slug": "mineral-deed-transfer",
-  "title": "Mineral Deeds & Title Transfer",
-  "type": "resource",
-  "status": "written",
-  "metaTitle": "Mineral Deeds and Title Transfer, Explained Plainly",
-  "metaDescription": "What a mineral deed actually conveys, the difference between deed types, and how title transfer and recording work when you sell an interest.",
-  "heroLead": "The word deed can mean several different things in this business, and getting the type right matters more than most owners realize.",
-  "intro": [
-    "A mineral deed is the document that conveys ownership of the minerals themselves, and it is not the same thing as a surface deed, a lease, or a division order, even though families sometimes use these terms loosely at the kitchen table. This page walks through the deed types you are likely to run into, how recording and title work, and what actually happens to the paperwork when you sell."
-  ],
-  "sections": [
-    {
-      "heading": "Mineral Deed vs. Royalty Deed vs. Surface Deed",
-      "paragraphs": [
-        "A mineral deed conveys the mineral estate itself, including the right to lease, receive bonus payments, and receive royalty if production occurs. A royalty deed conveys only the right to receive royalty income if the property is developed, without the broader rights that come with owning the mineral estate, such as the ability to negotiate a lease or receive a bonus. A surface deed conveys the surface of the land only and, unless specifically stated otherwise, does not include the minerals underneath it.",
-        "This split, known as a severed estate, is common in older ranch and farm land where minerals were reserved or sold separately from the surface at some point in the property's history, sometimes generations ago. It is entirely possible to own the minerals under land you do not own the surface of, or the reverse, and this is not unusual at all."
-      ]
-    },
-    {
-      "heading": "How Recording Works and Why It Matters",
-      "paragraphs": [
-        "A deed becomes part of the public record once it is filed with the county clerk or recorder's office in the county where the property sits, and that recording is what establishes a clear chain of title, the traceable sequence of ownership from one owner to the next. An unrecorded deed can create real title problems later, since a subsequent buyer or lender has no public record to rely on.",
-        "If a deed in your family's chain was never recorded, or was recorded in the wrong county, it is usually still resolvable, but it can add time to a closing while the correction gets filed. This is one of the more common issues we run into on land that has been passed down informally across generations."
-      ]
-    },
-    {
-      "heading": "What Happens to the Deed When You Sell",
-      "paragraphs": [
-        "When you sell a mineral or royalty interest, you sign a new deed conveying your interest to the buyer, which is then recorded in the same county records where your original deed was filed. This recording is what puts the world, and specifically the operator paying royalties, on notice of the change in ownership.",
-        "After recording, the buyer typically sends the recorded deed to the operator along with a request for a new division order, which starts the process of redirecting future royalty payments, if any, to the new owner. You should receive a copy of the final recorded deed for your own records as part of a clean closing."
-      ]
-    },
-    {
-      "heading": "Fixing Title Problems Before or During a Sale",
-      "paragraphs": [
-        "Common issues include a missing link in the chain of title, an unresolved heirship situation, a name discrepancy between documents, or an old lien that was never formally released. Most of these are routine to fix, typically through a curative document like an affidavit or a corrective deed, rather than being reasons a sale falls through entirely.",
-        "A buyer doing real diligence will usually identify these issues through a title search and can often help coordinate the fix rather than simply walking away. Asking upfront who handles title curative work, and who pays for it, is a reasonable question before you agree to a sale."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "What is the difference between a mineral deed and a royalty deed?",
-      "answer": "A mineral deed conveys the full mineral estate, including leasing and bonus rights. A royalty deed conveys only the right to receive royalty income if the property is developed, without those broader ownership rights."
-    },
-    {
-      "question": "Can you own minerals without owning the surface land above them?",
-      "answer": "Yes. This is called a severed estate and is common on land where minerals were reserved or sold separately from the surface at some point in the property's history."
-    },
-    {
-      "question": "What happens if a deed in your family's history was never recorded?",
-      "answer": "It usually creates a gap in the chain of title that needs to be corrected before a clean sale can close, but this is typically resolvable and is a routine part of title work rather than a dead end."
-    },
-    {
-      "question": "Who pays for title curative work when there is a problem?",
-      "answer": "This varies by buyer and by agreement, so it is worth asking directly before you accept an offer. Some buyers absorb reasonable curative costs as part of the transaction."
-    },
-    {
-      "question": "Will you get a copy of the final recorded deed after you sell?",
-      "answer": "Yes, you should. A clean closing includes providing the seller with a copy of the recorded conveyance for their own records."
-    }
-  ],
-  "wordCount": 850,
-  "image": {
-    "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-royaltybuyerusa-com.jpg",
-    "alt": "Mineral Deeds & Title Transfer mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer, Explained Plainly",
+ "metaDescription": "What a mineral deed actually conveys, the difference between deed types, and how title transfer and recording work when you sell an interest.",
+ "heroLead": "The word deed can mean several different things in this business, and getting the type right matters more than most owners realize.",
+ "intro": [
+  "A mineral deed is the document that conveys ownership of the minerals themselves, and it is not the same thing as a surface deed, a lease, or a division order, even though families sometimes use these terms loosely at the kitchen table. This page walks through the deed types you are likely to run into, how recording and title work, and what actually happens to the paperwork when you sell."
+ ],
+ "sections": [
+  {
+   "heading": "Mineral Deed vs. Royalty Deed vs. Surface Deed",
+   "paragraphs": [
+    "A mineral deed conveys the mineral estate itself, including the right to lease, receive bonus payments, and receive royalty if production occurs. A royalty deed conveys only the right to receive royalty income if the property is developed, without the broader rights that come with owning the mineral estate, such as the ability to negotiate a lease or receive a bonus. A surface deed conveys the surface of the land only and, unless specifically stated otherwise, does not include the minerals underneath it.",
+    "This split, known as a severed estate, is common in older ranch and farm land where minerals were reserved or sold separately from the surface at some point in the property's history, sometimes generations ago. It is entirely possible to own the minerals under land you do not own the surface of, or the reverse, and this is not unusual at all."
+   ]
+  },
+  {
+   "heading": "How Recording Works and Why It Matters",
+   "paragraphs": [
+    "A deed becomes part of the public record once it is filed with the county clerk or recorder's office in the county where the property sits, and that recording is what establishes a clear chain of title, the traceable sequence of ownership from one owner to the next. An unrecorded deed can create real title problems later, since a subsequent buyer or lender has no public record to rely on.",
+    "If a deed in your family's chain was never recorded, or was recorded in the wrong county, it is usually still resolvable, but it can add time to a closing while the correction gets filed. This is one of the more common issues we run into on land that has been passed down informally across generations."
+   ]
+  },
+  {
+   "heading": "What Happens to the Deed When You Sell",
+   "paragraphs": [
+    "When you sell a mineral or royalty interest, you sign a new deed conveying your interest to the buyer, which is then recorded in the same county records where your original deed was filed. This recording is what puts the world, and specifically the operator paying royalties, on notice of the change in ownership.",
+    "After recording, the buyer typically sends the recorded deed to the operator along with a request for a new division order, which starts the process of redirecting future royalty payments, if any, to the new owner. You should receive a copy of the final recorded deed for your own records as part of a clean closing."
+   ]
+  },
+  {
+   "heading": "Fixing Title Problems Before or During a Sale",
+   "paragraphs": [
+    "Common issues include a missing link in the chain of title, an unresolved heirship situation, a name discrepancy between documents, or an old lien that was never formally released. Most of these are routine to fix, typically through a curative document like an affidavit or a corrective deed, rather than being reasons a sale falls through entirely.",
+    "A buyer doing real diligence will usually identify these issues through a title search and can often help coordinate the fix rather than simply walking away. Asking upfront who handles title curative work, and who pays for it, is a reasonable question before you agree to a sale."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "What is the difference between a mineral deed and a royalty deed?",
+   "answer": "A mineral deed conveys the full mineral estate, including leasing and bonus rights. A royalty deed conveys only the right to receive royalty income if the property is developed, without those broader ownership rights."
+  },
+  {
+   "question": "Can you own minerals without owning the surface land above them?",
+   "answer": "Yes. This is called a severed estate and is common on land where minerals were reserved or sold separately from the surface at some point in the property's history."
+  },
+  {
+   "question": "What happens if a deed in your family's history was never recorded?",
+   "answer": "It usually creates a gap in the chain of title that needs to be corrected before a clean sale can close, but this is typically resolvable and is a routine part of title work rather than a dead end."
+  },
+  {
+   "question": "Who pays for title curative work when there is a problem?",
+   "answer": "This varies by buyer and by agreement, so it is worth asking directly before you accept an offer. Some buyers absorb reasonable curative costs as part of the transaction."
+  },
+  {
+   "question": "Will you get a copy of the final recorded deed after you sell?",
+   "answer": "Yes, you should. A clean closing includes providing the seller with a copy of the recorded conveyance for their own records."
+  }
+ ],
+ "wordCount": 850,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-royaltybuyerusa-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }
