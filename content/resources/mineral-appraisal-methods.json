@@ -1,78 +1,78 @@
 {
- "slug": "mineral-appraisal-methods",
- "title": "How Minerals Are Appraised",
- "type": "resource",
- "status": "written",
- "metaTitle": "How Mineral and Royalty Rights Are Appraised",
- "metaDescription": "The actual methods used to appraise mineral and royalty interests, from discounted cash flow to comparable sales, explained without jargon.",
- "heroLead": "We are not licensed appraisers, and we say that plainly, but understanding the methods behind a number is something every owner deserves before signing.",
- "intro": [
-  "When a producing well is involved, a decent appraisal is math applied to real numbers, not a guess dressed up to look precise. When there is no production yet, it leans more heavily on judgment about probability, which is exactly where the honesty of the person doing the estimating matters most. This page walks through the two main methods used to appraise mineral and royalty interests, so a number you receive starts to make sense as a calculation rather than a mystery."
- ],
- "sections": [
-  {
-   "heading": "Discounted Cash Flow: The Method for Producing Interests",
-   "paragraphs": [
-    "Discounted cash flow, often shortened to DCF, projects your future royalty income based on the well's decline curve, then reduces, or discounts, that projected income to reflect that money received later is worth less than money received today. The result is a present-value estimate of your interest as an ongoing income stream.",
-    "The inputs matter enormously here. Decline rate assumptions, commodity price assumptions, and the discount rate applied all shift the final number, sometimes significantly, and two appraisers using different assumptions on the identical well can land on genuinely different values. Asking what decline rate and price deck were used behind a number is a fair and useful question."
-   ]
-  },
-  {
-   "heading": "Comparable Sales: The Method for Non-Producing Interests",
-   "paragraphs": [
-    "For acreage with no current production, appraisers and buyers often lean on recent nearby sales, adjusted for differences in location within the play, proximity to active permits, and how core or how flank the specific tract sits. This method is inherently less precise than discounted cash flow because it depends on finding truly comparable transactions, which are not always public or recent.",
-    "This is also where local, county-level fluency separates a careful estimate from a generic one. A tract two miles from an active permit and a tract twenty miles away in the same county can carry very different value, even though both would show up identically on a broad per-acre chart that ignores that distinction."
-   ]
-  },
-  {
-   "heading": "What a Real Appraisal Looks At",
-   "paragraphs": [
-    "For producing interests: your decimal interest, twelve to twenty-four months of production history if available, the operator's public decline data, and current commodity price assumptions. For non-producing interests: your net mineral acres, unit or spacing information if any exists nearby, recent permit activity, and comparable sales within a reasonably tight radius.",
-    "A serious estimate also accounts for lease terms, since royalty rate and post-production cost treatment flow directly into how much income actually reaches the mineral owner versus the operator."
-   ]
-  },
-  {
-   "heading": "What We Are, and What We Are Not",
-   "paragraphs": [
-    "We are a direct buyer, not a licensed appraiser, attorney, or CPA, and nothing on this page should be read as a formal appraisal or as legal or tax advice. When we make an offer, we walk through our own math using the same categories described here, and we are glad to explain exactly how we arrived at a number rather than asking you to take it on faith.",
-    "If you need a formal appraisal for a legal, tax, or estate purpose, a credentialed mineral appraiser is the right professional to engage, and we can point you toward what that process typically involves if it would help."
-   ]
-  },
-  {
-   "heading": "Why the Same Interest Can Get Different Numbers",
-   "paragraphs": [
-    "A gap between two offers or estimates on the same interest is common and does not automatically mean one side is wrong. Different buyers weight decline risk differently, hold different views on future commodity prices, and deploy capital on different timelines, all of which shift the discount rate or multiple they apply to the same underlying production.",
-    "This is exactly why we encourage getting more than one read before deciding anything. A wide spread between two honest estimates tells you something real about how much uncertainty is baked into the underlying assumptions, beyond simply which buyer is offering more."
-   ]
+  "slug": "mineral-appraisal-methods",
+  "title": "How Minerals Are Appraised",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "How Mineral and Royalty Rights Are Appraised",
+  "metaDescription": "The actual methods used to appraise mineral and royalty interests, from discounted cash flow to comparable sales, explained without jargon.",
+  "heroLead": "We are not licensed appraisers, and we say that plainly, but understanding the methods behind a number is something every owner deserves before signing.",
+  "intro": [
+    "When a producing well is involved, a decent appraisal is math applied to real numbers, not a guess dressed up to look precise. When there is no production yet, it leans more heavily on judgment about probability, which is exactly where the honesty of the person doing the estimating matters most. This page walks through the two main methods used to appraise mineral and royalty interests, so a number you receive starts to make sense as a calculation rather than a mystery."
+  ],
+  "sections": [
+    {
+      "heading": "Discounted Cash Flow: The Method for Producing Interests",
+      "paragraphs": [
+        "Discounted cash flow, often shortened to DCF, projects your future royalty income based on the well's decline curve, then reduces, or discounts, that projected income to reflect that money received later is worth less than money received today. The result is a present-value estimate of your interest as an ongoing income stream.",
+        "The inputs matter enormously here. Decline rate assumptions, commodity price assumptions, and the discount rate applied all shift the final number, sometimes significantly, and two appraisers using different assumptions on the identical well can land on genuinely different values. Asking what decline rate and price deck were used behind a number is a fair and useful question."
+      ]
+    },
+    {
+      "heading": "Comparable Sales: The Method for Non-Producing Interests",
+      "paragraphs": [
+        "For acreage with no current production, appraisers and buyers often lean on recent nearby sales, adjusted for differences in location within the play, proximity to active permits, and how core or how flank the specific tract sits. This method is inherently less precise than discounted cash flow because it depends on finding truly comparable transactions, which are not always public or recent.",
+        "This is also where local, county-level fluency separates a careful estimate from a generic one. A tract two miles from an active permit and a tract twenty miles away in the same county can carry very different value, even though both would show up identically on a broad per-acre chart that ignores that distinction."
+      ]
+    },
+    {
+      "heading": "What a Real Appraisal Looks At",
+      "paragraphs": [
+        "For producing interests: your decimal interest, twelve to twenty-four months of production history if available, the operator's public decline data, and current commodity price assumptions. For non-producing interests: your net mineral acres, unit or spacing information if any exists nearby, recent permit activity, and comparable sales within a reasonably tight radius.",
+        "A serious estimate also accounts for lease terms, since royalty rate and post-production cost treatment flow directly into how much income actually reaches the mineral owner versus the operator."
+      ]
+    },
+    {
+      "heading": "What We Are, and What We Are Not",
+      "paragraphs": [
+        "We are a direct buyer, not a licensed appraiser, attorney, or CPA, and nothing on this page should be read as a formal appraisal or as legal or tax advice. When we make an offer, we walk through our own math using the same categories described here, and we are glad to explain exactly how we arrived at a number rather than asking you to take it on faith.",
+        "If you need a formal appraisal for a legal, tax, or estate purpose, a credentialed mineral appraiser is the right professional to engage, and we can point you toward what that process typically involves if it would help."
+      ]
+    },
+    {
+      "heading": "Why the Same Interest Can Get Different Numbers",
+      "paragraphs": [
+        "A gap between two offers or estimates on the same interest is common and does not automatically mean one side is wrong. Different buyers weight decline risk differently, hold different views on future commodity prices, and deploy capital on different timelines, all of which shift the discount rate or multiple they apply to the same underlying production.",
+        "This is exactly why we encourage getting more than one read before deciding anything. A wide spread between two honest estimates tells you something real about how much uncertainty is baked into the underlying assumptions, beyond simply which buyer is offering more."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are you licensed mineral appraisers?",
+      "answer": "No. We are a direct buyer, and any figure we provide is our own offer based on the same categories described on this page, not a formal, credentialed appraisal."
+    },
+    {
+      "question": "Why do two appraisals of the same interest come back with different numbers?",
+      "answer": "Different decline rate assumptions, different price decks, and different discount rates all shift a discounted cash flow result, and comparable-sales estimates depend heavily on which nearby transactions were used. A meaningful spread between two honest estimates is normal, not necessarily a sign either one is wrong."
+    },
+    {
+      "question": "Can non-producing minerals really be appraised without any production history?",
+      "answer": "Yes, using comparable sales and probability-of-development factors like nearby permits and how core the acreage sits within the play, though this method is inherently less precise than discounted cash flow on a producing well."
+    },
+    {
+      "question": "Do you need a formal appraisal to sell your interest?",
+      "answer": "No. A formal appraisal is not required to sell, though it can be useful for estate, tax, or legal purposes, in which case a credentialed appraiser rather than a buyer is the right professional to engage."
+    },
+    {
+      "question": "Will you explain how you arrived at your offer?",
+      "answer": "Yes, and we think you should ask any buyer this question directly. A straightforward buyer can walk you through the decline, price, and decimal assumptions behind their number rather than presenting it as a take-it-or-leave-it figure."
+    }
+  ],
+  "wordCount": 909,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-royaltybuyerusa-com.jpg",
+    "alt": "How Minerals Are Appraised mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Are you licensed mineral appraisers?",
-   "answer": "No. We are a direct buyer, and any figure we provide is our own offer based on the same categories described on this page, not a formal, credentialed appraisal."
-  },
-  {
-   "question": "Why do two appraisals of the same interest come back with different numbers?",
-   "answer": "Different decline rate assumptions, different price decks, and different discount rates all shift a discounted cash flow result, and comparable-sales estimates depend heavily on which nearby transactions were used. A meaningful spread between two honest estimates is normal, not necessarily a sign either one is wrong."
-  },
-  {
-   "question": "Can non-producing minerals really be appraised without any production history?",
-   "answer": "Yes, using comparable sales and probability-of-development factors like nearby permits and how core the acreage sits within the play, though this method is inherently less precise than discounted cash flow on a producing well."
-  },
-  {
-   "question": "Do you need a formal appraisal to sell your interest?",
-   "answer": "No. A formal appraisal is not required to sell, though it can be useful for estate, tax, or legal purposes, in which case a credentialed appraiser rather than a buyer is the right professional to engage."
-  },
-  {
-   "question": "Will you explain how you arrived at your offer?",
-   "answer": "Yes, and we think you should ask any buyer this question directly. A straightforward buyer can walk you through the decline, price, and decimal assumptions behind their number rather than presenting it as a take-it-or-leave-it figure."
-  }
- ],
- "wordCount": 909,
- "image": {
-  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-royaltybuyerusa-com.jpg",
-  "alt": "How Minerals Are Appraised mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

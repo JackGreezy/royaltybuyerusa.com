@@ -1,72 +1,72 @@
 {
- "slug": "mineral-rights",
- "title": "Mineral Rights",
- "type": "interest-type",
- "metaTitle": "What Are Mineral Rights? Ownership Explained",
- "metaDescription": "Mineral rights are ownership of what's under the surface, separate from the land itself. Here's how they're created, leased, and how royalties flow from them.",
- "heroLead": "Owning the surface and owning what's beneath it are two different things in most of the country, and that split shapes everything else about how minerals work.",
- "intro": [
-  "Mineral rights are the ownership interest in oil, gas, and other resources beneath a tract of land, and they can be owned by someone entirely different from whoever owns the surface. This split — called a severed estate — happens constantly across the country, often because a previous owner sold the surface but kept the minerals, or the reverse, sometimes generations ago. If you own mineral rights, you own a piece of what's underground on that tract, whether or not you've ever set foot on it.",
-  "Understanding what you actually hold starts with the deed language, since 'mineral rights' as a category covers several different legal positions, from full ownership with leasing authority down to a narrow royalty carved out of someone else's interest. Getting that distinction right matters for both what you can do with the interest and what it's worth."
- ],
- "sections": [
-  {
-   "heading": "What Owning Minerals Actually Gives You",
-   "paragraphs": [
-    "A mineral owner generally holds what's called the executive right — the authority to lease the minerals to an oil and gas operator, negotiate the bonus payment and royalty rate, and receive a share of production once a well is drilled and completed. This is different from simply holding a royalty interest, which entitles you to production income but not the authority to sign leases or negotiate terms on the underlying acreage.",
-    "Mineral rights also typically carry a right of reasonable access for exploration and development, meaning an operator holding a valid lease generally has the right to use the surface as reasonably necessary to develop the minerals, subject to state law and any surface use agreement negotiated separately. This is one of the more contentious areas when surface and mineral ownership are split between different people, and it's part of why surface owners and mineral owners sometimes negotiate directly over access terms."
-   ]
-  },
-  {
-   "heading": "How a Severed Mineral Estate Gets Created",
-   "paragraphs": [
-    "Severance typically happens one of two ways: a landowner sells the surface but reserves the minerals in the deed, or sells the minerals outright while keeping the surface. Either way, once severed, the mineral estate becomes its own piece of property that can be sold, leased, or passed down entirely independent of what happens to the surface above it. In parts of the country with a long history of homesteading and land patents, mineral reservations going back a century or more are common, and tracing the full chain of title can take real research.",
-    "Once minerals are severed, they can also be split further — divided among heirs, sold in fractional pieces, or carved into separate royalty and working interests — which is how a single original mineral estate can end up owned by dozens of people generations later, each holding a small undivided fraction of the whole."
-   ]
-  },
-  {
-   "heading": "Producing vs. Non-Producing Minerals",
-   "paragraphs": [
-    "Mineral rights don't require an active well to have value, but the presence or absence of production changes how that value is calculated. Producing minerals under an active lease generate ongoing royalty income and can be valued off real payment history and decline trends. Non-producing minerals — never leased, or leased with the lease long since expired — are valued more on nearby activity and formation potential, since there's no check history to point to yet.",
-    "Either way, mineral ownership remains real property that you can sell, lease, or pass down regardless of whether a well currently sits on it. Plenty of long-held family mineral interests have gone decades without production before an operator finally showed interest, and plenty more never see a rig at all."
-   ]
-  },
-  {
-   "heading": "Selling Mineral Rights vs. Selling a Royalty",
-   "paragraphs": [
-    "When you sell full mineral rights, the buyer steps into your full position — leasing authority, future bonus negotiation, and royalty income if a well is drilled. When you sell a royalty interest carved out of your minerals, you typically retain the underlying mineral ownership and executive rights but sell off the production income stream, or a portion of it. These are structured differently on the deed, and the choice affects both what you keep and what you're paid.",
-    "We buy both, and which structure fits depends on what you're trying to accomplish. Some owners want to exit entirely and sell the full mineral estate; others want to keep long-term leasing control over their family's minerals while converting near-term royalty income into cash now. We'll walk through both options and what each means for your specific interest before you decide."
-   ]
+  "slug": "mineral-rights",
+  "title": "Mineral Rights",
+  "type": "interest-type",
+  "metaTitle": "What Are Mineral Rights? Ownership Explained",
+  "metaDescription": "Mineral rights are ownership of what's under the surface, separate from the land itself. Here's how they're created, leased, and how royalties flow from them.",
+  "heroLead": "Owning the surface and owning what's beneath it are two different things in most of the country, and that split shapes everything else about how minerals work.",
+  "intro": [
+    "Mineral rights are the ownership interest in oil, gas, and other resources beneath a tract of land, and they can be owned by someone entirely different from whoever owns the surface. This split — called a severed estate — happens constantly across the country, often because a previous owner sold the surface but kept the minerals, or the reverse, sometimes generations ago. If you own mineral rights, you own a piece of what's underground on that tract, whether or not you've ever set foot on it.",
+    "Understanding what you actually hold starts with the deed language, since 'mineral rights' as a category covers several different legal positions, from full ownership with leasing authority down to a narrow royalty carved out of someone else's interest. Getting that distinction right matters for both what you can do with the interest and what it's worth."
+  ],
+  "sections": [
+    {
+      "heading": "What Owning Minerals Actually Gives You",
+      "paragraphs": [
+        "A mineral owner generally holds what's called the executive right — the authority to lease the minerals to an oil and gas operator, negotiate the bonus payment and royalty rate, and receive a share of production once a well is drilled and completed. This is different from simply holding a royalty interest, which entitles you to production income but not the authority to sign leases or negotiate terms on the underlying acreage.",
+        "Mineral rights also typically carry a right of reasonable access for exploration and development, meaning an operator holding a valid lease generally has the right to use the surface as reasonably necessary to develop the minerals, subject to state law and any surface use agreement negotiated separately. This is one of the more contentious areas when surface and mineral ownership are split between different people, and it's part of why surface owners and mineral owners sometimes negotiate directly over access terms."
+      ]
+    },
+    {
+      "heading": "How a Severed Mineral Estate Gets Created",
+      "paragraphs": [
+        "Severance typically happens one of two ways: a landowner sells the surface but reserves the minerals in the deed, or sells the minerals outright while keeping the surface. Either way, once severed, the mineral estate becomes its own piece of property that can be sold, leased, or passed down entirely independent of what happens to the surface above it. In parts of the country with a long history of homesteading and land patents, mineral reservations going back a century or more are common, and tracing the full chain of title can take real research.",
+        "Once minerals are severed, they can also be split further — divided among heirs, sold in fractional pieces, or carved into separate royalty and working interests — which is how a single original mineral estate can end up owned by dozens of people generations later, each holding a small undivided fraction of the whole."
+      ]
+    },
+    {
+      "heading": "Producing vs. Non-Producing Minerals",
+      "paragraphs": [
+        "Mineral rights don't require an active well to have value, but the presence or absence of production changes how that value is calculated. Producing minerals under an active lease generate ongoing royalty income and can be valued off real payment history and decline trends. Non-producing minerals — never leased, or leased with the lease long since expired — are valued more on nearby activity and formation potential, since there's no check history to point to yet.",
+        "Either way, mineral ownership remains real property that you can sell, lease, or pass down regardless of whether a well currently sits on it. Plenty of long-held family mineral interests have gone decades without production before an operator finally showed interest, and plenty more never see a rig at all."
+      ]
+    },
+    {
+      "heading": "Selling Mineral Rights vs. Selling a Royalty",
+      "paragraphs": [
+        "When you sell full mineral rights, the buyer steps into your full position — leasing authority, future bonus negotiation, and royalty income if a well is drilled. When you sell a royalty interest carved out of your minerals, you typically retain the underlying mineral ownership and executive rights but sell off the production income stream, or a portion of it. These are structured differently on the deed, and the choice affects both what you keep and what you're paid.",
+        "We buy both, and which structure fits depends on what you're trying to accomplish. Some owners want to exit entirely and sell the full mineral estate; others want to keep long-term leasing control over their family's minerals while converting near-term royalty income into cash now. We'll walk through both options and what each means for your specific interest before you decide."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What's the difference between mineral rights and a royalty interest?",
+      "answer": "Mineral rights include the authority to lease the minerals and negotiate terms, plus a royalty once production begins. A royalty interest, if carved out separately, typically only entitles the holder to production income without any leasing authority."
+    },
+    {
+      "question": "Can mineral rights be owned separately from the land above them?",
+      "answer": "Yes, this is called a severed estate and it's extremely common across the country. A previous owner may have reserved or sold the minerals separately from the surface, sometimes generations ago."
+    },
+    {
+      "question": "Do you need an active well for your mineral rights to have value?",
+      "answer": "No. Non-producing minerals still carry value based on nearby drilling activity and formation potential, though the valuation approach differs from a producing interest with real payment history."
+    },
+    {
+      "question": "Can you sell mineral rights while keeping a lease in place?",
+      "answer": "Yes. The buyer steps into your position as lessor under the existing lease, inheriting the royalty rate and terms already in place, while you keep any bonus you've already collected."
+    },
+    {
+      "question": "How do you find out exactly what mineral interest you own?",
+      "answer": "Start with any deed, division order, or probate document you have. County clerk or recorder's office records where the minerals sit can confirm the legal description and chain of title if your paperwork is incomplete."
+    }
+  ],
+  "status": "written",
+  "wordCount": 1007,
+  "image": {
+    "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-royaltybuyerusa-com.jpg",
+    "alt": "Mineral Rights mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "What's the difference between mineral rights and a royalty interest?",
-   "answer": "Mineral rights include the authority to lease the minerals and negotiate terms, plus a royalty once production begins. A royalty interest, if carved out separately, typically only entitles the holder to production income without any leasing authority."
-  },
-  {
-   "question": "Can mineral rights be owned separately from the land above them?",
-   "answer": "Yes, this is called a severed estate and it's extremely common across the country. A previous owner may have reserved or sold the minerals separately from the surface, sometimes generations ago."
-  },
-  {
-   "question": "Do you need an active well for your mineral rights to have value?",
-   "answer": "No. Non-producing minerals still carry value based on nearby drilling activity and formation potential, though the valuation approach differs from a producing interest with real payment history."
-  },
-  {
-   "question": "Can you sell mineral rights while keeping a lease in place?",
-   "answer": "Yes. The buyer steps into your position as lessor under the existing lease, inheriting the royalty rate and terms already in place, while you keep any bonus you've already collected."
-  },
-  {
-   "question": "How do you find out exactly what mineral interest you own?",
-   "answer": "Start with any deed, division order, or probate document you have. County clerk or recorder's office records where the minerals sit can confirm the legal description and chain of title if your paperwork is incomplete."
-  }
- ],
- "status": "written",
- "wordCount": 1007,
- "image": {
-  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-royaltybuyerusa-com.jpg",
-  "alt": "Mineral Rights mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

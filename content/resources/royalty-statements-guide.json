@@ -1,72 +1,72 @@
 {
- "slug": "royalty-statements-guide",
- "title": "Reading Your Royalty Statements",
- "type": "resource",
- "status": "written",
- "metaTitle": "How to Read Your Royalty Statement Line by Line",
- "metaDescription": "A plain walkthrough of what every line on an oil, gas, or royalty check stub actually means, from gross value to deductions to your decimal interest.",
- "heroLead": "Most owners stack their royalty stubs in a drawer without ever reading one closely, which is exactly why so many mailbox offers go unquestioned.",
- "intro": [
-  "We keep a shoebox of our own old statements, going back to before we understood a single line on them. Reading a royalty statement is not hard once someone walks you through it, but almost nobody does, and operators are not in the business of explaining their own paperwork. This guide breaks down the columns you will find on nearly any statement, whatever company sent it, and what each one is telling you about the well and about your interest specifically."
- ],
- "sections": [
-  {
-   "heading": "The Well and Property Identifiers",
-   "paragraphs": [
-    "Near the top you will usually find a well name, an API number, and sometimes a lease or property number the operator uses internally. The API number is worth writing down; it is the one identifier that follows a well through changes in operator, and you can use it to pull public production data through your state's oil and gas commission if you ever want to check the well's history against what your statement shows.",
-    "You may also see a county and state, which matters more than it sounds like it should if you own interests in more than one place. Family land that has been divided over generations sometimes throws off statements from wells in two or three counties at once, and it is easy to mix them up if you are not tracking which decimal belongs to which property."
-   ]
-  },
-  {
-   "heading": "Gross Value, Your Decimal, and Net Value",
-   "paragraphs": [
-    "Gross value is the total dollar value of oil or gas produced from the well for that period, before anyone's share is carved out. Your decimal interest, sometimes shown as eight digits after a zero, is the fraction of that well you actually own, and it is the single most important number on the page even though it is usually the smallest print on it.",
-    "Net value is gross value multiplied by your decimal, minus whatever deductions apply for that period. If your net value looks wrong relative to a prior month, the first thing to check is whether the decimal itself changed, which can happen when a new well is added to your unit or when an interest gets reallocated after a title correction.",
-    "It is worth sitting with the decimal for a minute. An owner with a small fractional interest, the kind that gets passed down through a handful of heirs over a few generations, will see a decimal with a lot of zeros in front of it, and that is normal. It does not mean the interest is worthless; it means the well is shared among many owners, which is common on older units and on land that was allotted or divided decades ago."
-   ]
-  },
-  {
-   "heading": "Deductions and Why Gas Runs Differently Than Oil",
-   "paragraphs": [
-    "Post-production costs, sometimes labeled gathering, processing, transportation, or compression, are the deductions operators subtract before you get paid, and how much shows up here depends heavily on your specific lease language. Some older leases were negotiated with post-production costs excluded entirely; many newer ones were not, and that difference alone can explain a real gap between two owners in the same unit.",
-    "Gas statements tend to carry more deduction lines than oil statements because gas has to be gathered, processed, and transported before it reaches a buyer, while oil is often sold closer to the wellhead. If your interest includes both oil and gas production, do not expect the two to move in parallel; oil prices and gas prices behave differently, and a strong oil month can sit right next to a weak gas month on the same statement without anything being wrong."
-   ]
-  },
-  {
-   "heading": "Suspense, Adjustments, and When to Ask Questions",
-   "paragraphs": [
-    "A statement marked suspense means the operator is holding your share back, usually over an unresolved title question, a missing division order, or a probate that has not cleared. Suspense is common after an inheritance and is not itself a red flag, but it should have an end date attached to it in your mind, and it is fair to call the operator's owner relations line and ask what specifically is holding it.",
-    "Prior-period adjustments, shown as negative lines, happen when an operator corrects an earlier overpayment or underpayment, often tied to a late gas measurement or a pricing correction from the purchaser. One adjustment is normal. A pattern of repeated large adjustments on the same well is worth a closer look, and it is one of the details we ask about when we review a statement for someone benchmarking an offer against what the underlying production actually supports."
-   ]
+  "slug": "royalty-statements-guide",
+  "title": "Reading Your Royalty Statements",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "How to Read Your Royalty Statement Line by Line",
+  "metaDescription": "A plain walkthrough of what every line on an oil, gas, or royalty check stub actually means, from gross value to deductions to your decimal interest.",
+  "heroLead": "Most owners stack their royalty stubs in a drawer without ever reading one closely, which is exactly why so many mailbox offers go unquestioned.",
+  "intro": [
+    "We keep a shoebox of our own old statements, going back to before we understood a single line on them. Reading a royalty statement is not hard once someone walks you through it, but almost nobody does, and operators are not in the business of explaining their own paperwork. This guide breaks down the columns you will find on nearly any statement, whatever company sent it, and what each one is telling you about the well and about your interest specifically."
+  ],
+  "sections": [
+    {
+      "heading": "The Well and Property Identifiers",
+      "paragraphs": [
+        "Near the top you will usually find a well name, an API number, and sometimes a lease or property number the operator uses internally. The API number is worth writing down; it is the one identifier that follows a well through changes in operator, and you can use it to pull public production data through your state's oil and gas commission if you ever want to check the well's history against what your statement shows.",
+        "You may also see a county and state, which matters more than it sounds like it should if you own interests in more than one place. Family land that has been divided over generations sometimes throws off statements from wells in two or three counties at once, and it is easy to mix them up if you are not tracking which decimal belongs to which property."
+      ]
+    },
+    {
+      "heading": "Gross Value, Your Decimal, and Net Value",
+      "paragraphs": [
+        "Gross value is the total dollar value of oil or gas produced from the well for that period, before anyone's share is carved out. Your decimal interest, sometimes shown as eight digits after a zero, is the fraction of that well you actually own, and it is the single most important number on the page even though it is usually the smallest print on it.",
+        "Net value is gross value multiplied by your decimal, minus whatever deductions apply for that period. If your net value looks wrong relative to a prior month, the first thing to check is whether the decimal itself changed, which can happen when a new well is added to your unit or when an interest gets reallocated after a title correction.",
+        "It is worth sitting with the decimal for a minute. An owner with a small fractional interest, the kind that gets passed down through a handful of heirs over a few generations, will see a decimal with a lot of zeros in front of it, and that is normal. It does not mean the interest is worthless; it means the well is shared among many owners, which is common on older units and on land that was allotted or divided decades ago."
+      ]
+    },
+    {
+      "heading": "Deductions and Why Gas Runs Differently Than Oil",
+      "paragraphs": [
+        "Post-production costs, sometimes labeled gathering, processing, transportation, or compression, are the deductions operators subtract before you get paid, and how much shows up here depends heavily on your specific lease language. Some older leases were negotiated with post-production costs excluded entirely; many newer ones were not, and that difference alone can explain a real gap between two owners in the same unit.",
+        "Gas statements tend to carry more deduction lines than oil statements because gas has to be gathered, processed, and transported before it reaches a buyer, while oil is often sold closer to the wellhead. If your interest includes both oil and gas production, do not expect the two to move in parallel; oil prices and gas prices behave differently, and a strong oil month can sit right next to a weak gas month on the same statement without anything being wrong."
+      ]
+    },
+    {
+      "heading": "Suspense, Adjustments, and When to Ask Questions",
+      "paragraphs": [
+        "A statement marked suspense means the operator is holding your share back, usually over an unresolved title question, a missing division order, or a probate that has not cleared. Suspense is common after an inheritance and is not itself a red flag, but it should have an end date attached to it in your mind, and it is fair to call the operator's owner relations line and ask what specifically is holding it.",
+        "Prior-period adjustments, shown as negative lines, happen when an operator corrects an earlier overpayment or underpayment, often tied to a late gas measurement or a pricing correction from the purchaser. One adjustment is normal. A pattern of repeated large adjustments on the same well is worth a closer look, and it is one of the details we ask about when we review a statement for someone benchmarking an offer against what the underlying production actually supports."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why does your check amount change every month even though you own the same interest?",
+      "answer": "Production volume and commodity prices both move month to month, and your net value is a function of both, so normal variation is expected even when your decimal interest has not changed at all."
+    },
+    {
+      "question": "What does it mean if your decimal interest changed without warning?",
+      "answer": "A decimal can shift when a new well is added to your unit, when a title correction is filed, or when an interest is reallocated after probate. It is worth requesting an explanation from the operator's owner relations department if the change was not communicated to you."
+    },
+    {
+      "question": "Should you be worried if your statement shows zero for several months?",
+      "answer": "Not automatically. Wells decline, some are shut in temporarily for maintenance or repair, and non-producing periods happen. Persistent zeros over a long stretch on a well you know is active is a better reason to call and ask directly."
+    },
+    {
+      "question": "Can you use your statements to get a sense of what your interest might be worth?",
+      "answer": "Yes, recent statements are one of the most useful things you can hand a buyer, since they show real production history rather than an estimate, and they are typically weighted more heavily than a generic per-acre figure pulled from a nearby sale."
+    },
+    {
+      "question": "Do you need every past statement, or just recent ones?",
+      "answer": "A handful of the most recent statements, ideally six to twelve months, usually gives a buyer or an appraiser enough to work with, though older statements can help if production has been unusually volatile recently."
+    }
+  ],
+  "wordCount": 1068,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-royaltybuyerusa-com.jpg",
+    "alt": "Reading Your Royalty Statements mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Why does your check amount change every month even though you own the same interest?",
-   "answer": "Production volume and commodity prices both move month to month, and your net value is a function of both, so normal variation is expected even when your decimal interest has not changed at all."
-  },
-  {
-   "question": "What does it mean if your decimal interest changed without warning?",
-   "answer": "A decimal can shift when a new well is added to your unit, when a title correction is filed, or when an interest is reallocated after probate. It is worth requesting an explanation from the operator's owner relations department if the change was not communicated to you."
-  },
-  {
-   "question": "Should you be worried if your statement shows zero for several months?",
-   "answer": "Not automatically. Wells decline, some are shut in temporarily for maintenance or repair, and non-producing periods happen. Persistent zeros over a long stretch on a well you know is active is a better reason to call and ask directly."
-  },
-  {
-   "question": "Can you use your statements to get a sense of what your interest might be worth?",
-   "answer": "Yes, recent statements are one of the most useful things you can hand a buyer, since they show real production history rather than an estimate, and they are typically weighted more heavily than a generic per-acre figure pulled from a nearby sale."
-  },
-  {
-   "question": "Do you need every past statement, or just recent ones?",
-   "answer": "A handful of the most recent statements, ideally six to twelve months, usually gives a buyer or an appraiser enough to work with, though older statements can help if production has been unusually volatile recently."
-  }
- ],
- "wordCount": 1068,
- "image": {
-  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-royaltybuyerusa-com.jpg",
-  "alt": "Reading Your Royalty Statements mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }
