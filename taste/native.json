@@ -1,0 +1,35 @@
+{
+  "classes": {
+    "#contact-form .rr-contact-field": "f-input-group",
+    "#contact-form input": "f-input-field",
+    "#contact-form textarea": "f-input-field textarea",
+    "#contact-form label": "f-input-label"
+  },
+  "remove": {
+    "all": [
+      ".c-video > .background-video-2",
+      ".rr-header-submenu li:has(> a[href=\"/situations\"]) + li:has(> a[href=\"/situations\"])",
+      ".rr-header-submenu li:has(> a[href=\"/interest-types\"]) + li:has(> a[href=\"/interest-types\"])",
+      ".rr-header-submenu li:has(> a[href=\"/basins\"]) + li:has(> a[href=\"/basins\"])",
+      ".rr-m-link[href=\"/contact\"] ~ .rr-m-link[href=\"/contact\"]"
+    ],
+    "slug": []
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "slug_mounts": {
+    "faq": ".rr-taste-prose-shell + section.c-section",
+    "related": ".rr-taste-prose-shell + section.c-section",
+    "cta": ".rr-taste-prose-shell + section.c-section"
+  },
+  "templates": {
+    "faq": "<div class=\"c-container\"><div class=\"c-grid\"><div class=\"c-sticky_track\"><h2 class=\"c-h2-sticky-product\">{heading}</h2></div><div class=\"c-product\">{items}</div></div></div>",
+    "faq_item": "<div class=\"c-table_cell-3\"><div class=\"c-table_cell_label-2\">{q}</div><div class=\"c-table_cell_value-2\">{a}</div></div>",
+    "related": "<div class=\"c-container\"><h2 class=\"c-h2\">{heading}</h2><p class=\"d-application-subtitle\">{intro}</p><div class=\"goodappgrid\">{items}</div><a class=\"c-button-mod dh-wide\" href=\"{all_href}\"><div>{all_label}</div></a></div>",
+    "related_item": "<a class=\"d-application-card\" href=\"{href}\"><div class=\"d-application-content\"><h3 class=\"d-application-heading\">{name}</h3><p class=\"d-application-subtitle\">{teaser}</p></div></a>",
+    "cta": "<div class=\"c-container\"><div class=\"c-vertical\"><h2 class=\"c-h2 centered\">{title}</h2><p class=\"d-application-subtitle\">{intro}</p><a class=\"c-button-mod dh-wide\" href=\"{contact_href}\"><div>{label}</div></a><a class=\"c-button-mod dh-wide\" href=\"{tel_href}\"><div>Call {phone}</div></a></div></div>"
+  }
+}

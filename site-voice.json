@@ -295,9 +295,10 @@
   "slug_ui": {
     "related_kicker": "Royalty working file",
     "related_heading": "Keep the royalty evidence in one file",
-    "related_intro": "Carry the tract, deed chain, lease, division order, payor account, wells, deductions, and offer terms from {item} into the next review.",
+    "related_intro": "The same tract, deed chain, lease, division order, payor account, wells, and deductions carry into each of these reviews.",
     "related_action": "Browse the Royalty Working File",
     "faq_kicker": "Owner review",
+    "faq_heading": "Royalty Owner Questions",
     "faq_intro": "Use these answers to keep ownership, payment history, well performance, and sale terms connected rather than reviewed in isolation."
   }
 }
