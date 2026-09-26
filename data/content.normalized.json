@@ -120,7 +120,7 @@
       },
       {
        "q": "Do you buy minerals that are part of an unclaimed or unresponsive owner situation?",
-       "a": "<p>If you're the rightful owner and can document your interest, yes. We're used to helping owners work through Oklahoma Corporation Comreview records to confirm standing before making an offer.</p>"
+       "a": "<p>If you're the rightful owner and can document your interest, yes. We're used to helping owners work through Oklahoma Corporation Commission records to confirm standing before making an offer.</p>"
       },
       {
        "q": "How do royalty rates differ between an old Anadarko basin lease and a modern SCOOP or STACK lease?",
@@ -214,7 +214,7 @@
       },
       {
        "title": "Reading your own decline curve",
-       "html": "<p>Bakken and Three Forks wells typically post their strongest production in the first twelve to eighteen months, then decline steeply before settling into a longer, shallower tail that can run for years. If you've owned a producing interest for a while, your own check stubs already tell that story, month by month. We pull your production history from the North Dakota Industrial Comreview's records and line it up against your actual payments to figure out where the well sits on that curve right now, not where it sat when it was first completed.</p><p>That matters because the same well can be priced very differently depending on whether it's still in its steep early decline or has leveled off into a more predictable stretch. Selling into the steep part of the curve and selling once it's leveled off are two different conversations, and we'll tell you honestly where your well appears to be.</p>"
+       "html": "<p>Bakken and Three Forks wells typically post their strongest production in the first twelve to eighteen months, then decline steeply before settling into a longer, shallower tail that can run for years. If you've owned a producing interest for a while, your own check stubs already tell that story, month by month. We pull your production history from the North Dakota Industrial Commission's records and line it up against your actual payments to figure out where the well sits on that curve right now, not where it sat when it was first completed.</p><p>That matters because the same well can be priced very differently depending on whether it's still in its steep early decline or has leveled off into a more predictable stretch. Selling into the steep part of the curve and selling once it's leveled off are two different conversations, and we'll tell you honestly where your well appears to be.</p>"
       },
       {
        "title": "Core counties versus the edges",
@@ -236,7 +236,7 @@
       },
       {
        "q": "How do you value an interest under a multi-well spacing unit?",
-       "a": "<p>We review your division order alongside the North Dakota Industrial Comreview's production records to identify every wellbore tied to your unit, then value the combined production history rather than assuming a single well.</p>"
+       "a": "<p>We review your division order alongside the North Dakota Industrial Commission's production records to identify every wellbore tied to your unit, then value the combined production history rather than assuming a single well.</p>"
       },
       {
        "q": "Is now a bad time to sell if your well is still in steep decline?",
@@ -528,7 +528,7 @@
       },
       {
        "title": "Sorting out what you actually own",
-       "html": "<p>A lot of Wyoming owners aren't entirely sure whether their interest is state, private, or federal, especially if it was inherited rather than acquired directly. We check the Wyoming Oil and Gas Conservation Comreview's records, county assessor and recorder documents, and, where relevant, BLM records to nail this down before we ever discuss a number, so you're working from an accurate picture of what you actually hold.</p>"
+       "html": "<p>A lot of Wyoming owners aren't entirely sure whether their interest is state, private, or federal, especially if it was inherited rather than acquired directly. We check the Wyoming Oil and Gas Conservation Commission's records, county assessor and recorder documents, and, where relevant, BLM records to nail this down before we ever discuss a number, so you're working from an accurate picture of what you actually hold.</p>"
       }
      ],
      "faqs": [
@@ -554,7 +554,7 @@
       },
       {
        "q": "Your family's Wyoming minerals were inherited and you do not have any recent paperwork. Can you still help?",
-       "a": "<p>Yes, we can research your interest through the Wyoming Oil and Gas Conservation Comreview and county records using your family name and, if you have it, a general location, then confirm exactly what you own before discussing a number.</p>"
+       "a": "<p>Yes, we can research your interest through the Wyoming Oil and Gas Conservation Commission and county records using your family name and, if you have it, a general location, then confirm exactly what you own before discussing a number.</p>"
       }
      ],
      "noindex": false,
@@ -1410,7 +1410,7 @@
       },
       {
        "title": "Why Alaska interests are harder to value than most",
-       "html": "<p>Most royalty buyers who focus on Texas, Oklahoma, and Louisiana simply won't touch an Alaska interest, because the comparable sales data that makes pricing fast in the Permian or Haynesville doesn't exist up there in the same volume. Fewer transactions means we can't just pull three recent nearby deals and price off them the way we would in Reeves County. Instead we go straight to production data filed with the Alaska Oil and Gas Conservation Comreview and build a decline model specific to your well or unit.</p><p>That extra work is exactly why we're careful not to throw out a number before we've actually looked at your interest. If someone offers you a fast, generic quote on an Alaska royalty without asking which field, which unit, and what your decimal interest is, be skeptical — it likely means they're guessing, not pricing.</p>"
+       "html": "<p>Most royalty buyers who focus on Texas, Oklahoma, and Louisiana simply won't touch an Alaska interest, because the comparable sales data that makes pricing fast in the Permian or Haynesville doesn't exist up there in the same volume. Fewer transactions means we can't just pull three recent nearby deals and price off them the way we would in Reeves County. Instead we go straight to production data filed with the Alaska Oil and Gas Conservation Commission and build a decline model specific to your well or unit.</p><p>That extra work is exactly why we're careful not to throw out a number before we've actually looked at your interest. If someone offers you a fast, generic quote on an Alaska royalty without asking which field, which unit, and what your decimal interest is, be skeptical — it likely means they're guessing, not pricing.</p>"
       },
       {
        "title": "ANCSA land, state leases, and what you actually own",
@@ -1457,7 +1457,8 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Recording rules, probate practice, and payor habits shift from state to state, but every review still starts at the same county courthouse."
   },
   "situations": {
    "title": "Royalty Owner Situations",
@@ -1851,7 +1852,7 @@
        "a": "<p>Yes, though the value depends heavily on nearby drilling activity rather than your specific tract's history. Acreage in an actively developing area can carry real value even with no well yet; quiet acreage carries less.</p>"
       },
       {
-       "q": "Do you need the operator's perreview to sell your leased minerals?",
+       "q": "Do you need the operator's permission to sell your leased minerals?",
        "a": "<p>In most states, no. You can sell your mineral interest subject to the existing lease without the operator's consent, though the sale should be recorded at the county to put the operator on notice of who to pay going forward.</p>"
       },
       {
@@ -2043,7 +2044,8 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "The event that brought a mineral file to the desk, whether inheritance, an unsolicited letter, probate, or a trust, shapes which questions belong first."
   },
   "interest-types": {
    "title": "Mineral and Royalty Interests",
@@ -2288,7 +2290,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>A working interest owns the upside and the bill, which is exactly what separates it from every royalty type we've written about here.</p><p>A working interest is the operating side of an oil and gas lease — the party that bears the cost of drilling, completing, and operating a well in exchange for the largest share of production revenue. Where every royalty interest we cover elsewhere on this site is free of cost by definition, a working interest owner pays their proportionate share of every dollar it takes to drill and run the well, which is the fundamental trade that defines this interest type.</p><p>Most owners who come to us with a working interest inherited it, sometimes through a family member who was an early investor in a drilling program, sometimes through a small non-operated stake picked up decades ago that's been quietly generating both income and cost statements ever since. If that's you, understanding the cost side is just as important as understanding the income side before deciding what to do with it.</p>"
+       "html": "<p>A working interest owns the upside and the bill, which is exactly what separates it from every royalty type we've written about here.</p><p>A working interest is the operating side of an oil and gas lease — the party that bears the cost of drilling, completing, and operating a well in exchange for the largest share of production revenue. Where every royalty interest is free of cost by definition, a working interest owner pays their proportionate share of every dollar it takes to drill and run the well, which is the fundamental trade that defines this interest type.</p><p>Most owners who come to us with a working interest inherited it, sometimes through a family member who was an early investor in a drilling program, sometimes through a small non-operated stake picked up decades ago that's been quietly generating both income and cost statements ever since. If that's you, understanding the cost side is just as important as understanding the income side before deciding what to do with it.</p>"
       },
       {
        "title": "How a Working Interest Differs From a Royalty",
@@ -2371,7 +2373,7 @@
        "a": "<p>Not necessarily. In most states, surface and mineral ownership can be severed, meaning a previous owner may have reserved or sold the minerals separately, sometimes long before you purchased the surface.</p>"
       },
       {
-       "q": "Can a mineral owner drill without the surface owner's perreview?",
+       "q": "Can a mineral owner drill without the surface owner's permission?",
        "a": "<p>Generally the mineral estate is considered dominant and carries an implied right of reasonable surface access, though many states require notice, limit surface disturbance, or mandate a surface use agreement. The exact rules vary meaningfully by state.</p>"
       },
       {
@@ -2397,7 +2399,8 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "A fee mineral, royalty, NPRI, override, and working interest each carry their own rights, burdens, and closing risk, so naming the right correctly comes before pricing it."
   },
   "basins": {
    "title": "Producing Basins and Plays",
@@ -2610,7 +2613,7 @@
      "faqs": [
       {
        "q": "How do you know which formation your Anadarko Basin royalty comes from?",
-       "a": "<p>Your check stub or division order should list a well name and API number. Oklahoma's Corporation Comreview well records, or the Texas Railroad Comreview for Panhandle counties, will show the completed formation for that well. If you send us the well name, we can usually tell you within a day.</p>"
+       "a": "<p>Your check stub or division order should list a well name and API number. Oklahoma's Corporation Commission well records, or the Texas Railroad Commission for Panhandle counties, will show the completed formation for that well. If you send us the well name, we can usually tell you within a day.</p>"
       },
       {
        "q": "Are Granite Wash wells worth more than Woodford Shale wells?",
@@ -2684,7 +2687,7 @@
       },
       {
        "q": "Do you need your original lease to make an offer on SCOOP or STACK minerals?",
-       "a": "<p>It helps but isn't required. A recent check stub or division order with a well name is usually enough for us to begin, and we pull the rest through Oklahoma Corporation Comreview records ourselves, well by well.</p>"
+       "a": "<p>It helps but isn't required. A recent check stub or division order with a well name is usually enough for us to begin, and we pull the rest through Oklahoma Corporation Commission records ourselves, well by well.</p>"
       },
       {
        "q": "Does it matter which operator is currently producing your SCOOP or STACK well?",
@@ -2894,7 +2897,7 @@
       },
       {
        "title": "Sorting Out Which Era Your Family's Lease Belongs To",
-       "html": "<p>If your family's paperwork is unclear about whether your production comes from a coalbed methane well or a newer horizontal target, the well name and API number on your check stub or division order will settle it quickly through Wyoming Oil and Gas Conservation Comreview records. That single detail changes almost everything about how we'd approach valuing your interest.</p><p>We'd rather spend the time confirming that up front than make assumptions based on how old your lease paperwork looks, since some families hold both eras of production on overlapping acreage.</p>"
+       "html": "<p>If your family's paperwork is unclear about whether your production comes from a coalbed methane well or a newer horizontal target, the well name and API number on your check stub or division order will settle it quickly through Wyoming Oil and Gas Conservation Commission records. That single detail changes almost everything about how we'd approach valuing your interest.</p><p>We'd rather spend the time confirming that up front than make assumptions based on how old your lease paperwork looks, since some families hold both eras of production on overlapping acreage.</p>"
       }
      ],
      "faqs": [
@@ -3745,7 +3748,8 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "A basin can explain formations, operator behavior, and development pace, but the title, lease, and decimal attached to one tract still decide what an owner is actually paid."
   },
   "resources": {
    "title": "Royalty Owner Field Guides",
@@ -3828,7 +3832,7 @@
       },
       {
        "title": "The Well and Property Identifiers",
-       "html": "<p>Near the top you will usually find a well name, an API number, and sometimes a lease or property number the operator uses internally. The API number is worth writing down; it is the one identifier that follows a well through changes in operator, and you can use it to pull public production data through your state's oil and gas comreview if you ever want to check the well's history against what your statement shows.</p><p>You may also see a county and state, which matters more than it sounds like it should if you own interests in more than one place. Family land that has been divided over generations sometimes throws off statements from wells in two or three counties at once, and it is easy to mix them up if you are not tracking which decimal belongs to which property.</p>"
+       "html": "<p>Near the top you will usually find a well name, an API number, and sometimes a lease or property number the operator uses internally. The API number is worth writing down; it is the one identifier that follows a well through changes in operator, and you can use it to pull public production data through your state's oil and gas commission if you ever want to check the well's history against what your statement shows.</p><p>You may also see a county and state, which matters more than it sounds like it should if you own interests in more than one place. Family land that has been divided over generations sometimes throws off statements from wells in two or three counties at once, and it is easy to mix them up if you are not tracking which decimal belongs to which property.</p>"
       },
       {
        "title": "Gross Value, Your Decimal, and Net Value",
@@ -3970,7 +3974,7 @@
       },
       {
        "q": "Is a formal appraisal required to sell?",
-       "a": "<p>No. An appraisal is not a required step to sell, and most buyers value the interest themselves as part of making an offer rather than requiring the seller to comreview one first.</p>"
+       "a": "<p>No. An appraisal is not a required step to sell, and most buyers value the interest themselves as part of making an offer rather than requiring the seller to commission one first.</p>"
       },
       {
        "q": "What if the deed lists a name that does not match your current legal name?",
@@ -4056,7 +4060,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>We received an offer once that felt urgent and final at the same time, and it took a phone call to another buyer to realize how far off it actually was.</p><p>Not every low offer is a scam, and not every fast-moving buyer is acting in bad faith. But there are recognizable patterns behind offers that undervalue what an owner actually has, and knowing them ahead of time is the cheapest protection available to you. This page covers what to watch for, without accusing every buyer who uses urgency of anything worse than aggressive sales tactics.</p>"
+       "html": "<p>We received an offer once that felt urgent and final at the same time, and it took a phone call to another buyer to realize how far off it actually was.</p><p>Not every low offer is a scam, and not every fast-moving buyer is acting in bad faith. But there are recognizable patterns behind offers that undervalue what an owner actually has, and knowing them ahead of time is the cheapest protection available to you. Below is what to watch for, without accusing every buyer who uses urgency of anything worse than aggressive sales tactics.</p>"
       },
       {
        "title": "Artificial Urgency Is the Most Common Tactic",
@@ -4118,7 +4122,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>We are not licensed appraisers, and we say that plainly, but understanding the methods behind a number is something every owner deserves before signing.</p><p>When a producing well is involved, a decent appraisal is math applied to real numbers, not a guess dressed up to look precise. When there is no production yet, it leans more heavily on judgment about probability, which is exactly where the honesty of the person doing the estimating matters most. This page walks through the two main methods used to appraise mineral and royalty interests, so a number you receive starts to make sense as a calculation rather than a mystery.</p>"
+       "html": "<p>We are not licensed appraisers, and we say that plainly, but understanding the methods behind a number is something every owner deserves before signing.</p><p>When a producing well is involved, a decent appraisal is math applied to real numbers, not a guess dressed up to look precise. When there is no production yet, it leans more heavily on judgment about probability, which is exactly where the honesty of the person doing the estimating matters most. Here are the two main methods used to appraise mineral and royalty interests, so a number you receive starts to make sense as a calculation rather than a mystery.</p>"
       },
       {
        "title": "Discounted Cash Flow: The Method for Producing Interests",
@@ -4134,7 +4138,7 @@
       },
       {
        "title": "What We Are, and What We Are Not",
-       "html": "<p>We are a direct buyer, not a licensed appraiser, attorney, or CPA, and nothing on this page should be read as a formal appraisal or as legal or tax advice. When we make an offer, we walk through our own math using the same categories described here, and we are glad to explain exactly how we arrived at a number rather than asking you to take it on faith.</p><p>If you need a formal appraisal for a legal, tax, or estate purpose, a credentialed mineral appraiser is the right professional to engage, and we can point you toward what that process typically involves if it would help.</p>"
+       "html": "<p>We are a direct buyer, not a licensed appraiser, attorney, or CPA, and nothing here should be read as a formal appraisal or as legal or tax advice. When we make an offer, we walk through our own math using the same categories described here, and we are glad to explain exactly how we arrived at a number rather than asking you to take it on faith.</p><p>If you need a formal appraisal for a legal, tax, or estate purpose, a credentialed mineral appraiser is the right professional to engage, and we can point you toward what that process typically involves if it would help.</p>"
       },
       {
        "title": "Why the Same Interest Can Get Different Numbers",
@@ -4144,7 +4148,7 @@
      "faqs": [
       {
        "q": "Are you licensed mineral appraisers?",
-       "a": "<p>No. We are a direct buyer, and any figure we provide is our own offer based on the same categories described on this page, not a formal, credentialed appraisal.</p>"
+       "a": "<p>No. We are a direct buyer, and any figure we provide is our own offer based on the same categories described above, not a formal, credentialed appraisal.</p>"
       },
       {
        "q": "Why do two appraisals of the same interest come back with different numbers?",
@@ -4180,7 +4184,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>Our own family debated this exact question at a kitchen table more than once, and the honest answer was that it depended on what we needed the money to do.</p><p>Leasing and selling are different transactions solving different problems, and neither one is automatically the right answer. Leasing keeps you as the mineral owner while granting an operator the right to develop, in exchange for a bonus payment and ongoing royalty if production results. Selling converts your interest, in whole or in part, into a lump sum today. This page walks through the honest tradeoffs of each so you can weigh them against your own situation rather than a generic recommendation.</p>"
+       "html": "<p>Our own family debated this exact question at a kitchen table more than once, and the honest answer was that it depended on what we needed the money to do.</p><p>Leasing and selling are different transactions solving different problems, and neither one is automatically the right answer. Leasing keeps you as the mineral owner while granting an operator the right to develop, in exchange for a bonus payment and ongoing royalty if production results. Selling converts your interest, in whole or in part, into a lump sum today. Below are the honest tradeoffs of each, so you can weigh them against your own situation rather than a generic recommendation.</p>"
       },
       {
        "title": "What Leasing Actually Offers",
@@ -4238,7 +4242,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>Nobody handed us a tax summary when we sold, and figuring it out after the fact is harder than understanding the basics ahead of time.</p><p>This page explains, in plain terms, how a mineral or royalty sale is generally treated for tax purposes so the conversation with your CPA starts from a place of understanding rather than confusion. It is general information, not tax advice for your specific situation, and every owner should talk to a CPA or tax advisor before finalizing a sale, since state rules, your basis, and your broader tax picture all affect the actual outcome.</p>"
+       "html": "<p>Nobody handed us a tax summary when we sold, and figuring it out after the fact is harder than understanding the basics ahead of time.</p><p>In plain terms, here is how a mineral or royalty sale is generally treated for tax purposes, so the conversation with your CPA starts from a place of understanding rather than confusion. It is general information, not tax advice for your specific situation, and every owner should talk to a CPA or tax advisor before finalizing a sale, since state rules, your basis, and your broader tax picture all affect the actual outcome.</p>"
       },
       {
        "title": "Capital Gains Is the Starting Framework",
@@ -4280,7 +4284,7 @@
       },
       {
        "q": "Are you able to give you tax advice directly?",
-       "a": "<p>No. We are a direct buyer, not a CPA or tax advisor, and this page is general information only. Please consult your CPA or tax advisor about how a sale would affect your specific situation before finalizing anything.</p>"
+       "a": "<p>No. We are a direct buyer, not a CPA or tax advisor, and the above is general information only. Please consult your CPA or tax advisor about how a sale would affect your specific situation before finalizing anything.</p>"
       }
      ],
      "noindex": false,
@@ -4300,7 +4304,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<p>The word deed can mean several different things in this business, and getting the type right matters more than most owners realize.</p><p>A mineral deed is the document that conveys ownership of the minerals themselves, and it is not the same thing as a surface deed, a lease, or a division order, even though families sometimes use these terms loosely at the kitchen table. This page walks through the deed types you are likely to run into, how recording and title work, and what actually happens to the paperwork when you sell.</p>"
+       "html": "<p>The word deed can mean several different things in this business, and getting the type right matters more than most owners realize.</p><p>A mineral deed is the document that conveys ownership of the minerals themselves, and it is not the same thing as a surface deed, a lease, or a division order, even though families sometimes use these terms loosely at the kitchen table. Here is a walk-through of the deed types you are likely to run into, how recording and title work, and what actually happens to the paperwork when you sell.</p>"
       },
       {
        "title": "Mineral Deed vs. Royalty Deed vs. Surface Deed",
@@ -4351,7 +4355,8 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Practical field guides translate deeds, division orders, statements, deductions, and offer language into the questions a family can carry into its own decision."
   },
   "investing": {
    "title": "How Royalty Buyers Underwrite",
@@ -4364,23 +4369,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For How Royalty Income Works, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for How Royalty Income Works is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>How Royalty Income Works may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of How Royalty Income Works changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for How Royalty Income Works should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4401,23 +4406,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For Cash Flow vs. Long-Term Value, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for Cash Flow vs. Long-Term Value is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>Cash Flow vs. Long-Term Value may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of Cash Flow vs. Long-Term Value changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for Cash Flow vs. Long-Term Value should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4438,23 +4443,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For How to Evaluate a Mineral Package, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for How to Evaluate a Mineral Package is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>How to Evaluate a Mineral Package may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of How to Evaluate a Mineral Package changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for How to Evaluate a Mineral Package should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4475,23 +4480,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For Producing vs. Non-Producing for Investors, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for Producing vs. Non-Producing for Investors is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>Producing vs. Non-Producing for Investors may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of Producing vs. Non-Producing for Investors changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for Producing vs. Non-Producing for Investors should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4512,23 +4517,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For The Real Risks of Mineral Investing, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for The Real Risks of Mineral Investing is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>The Real Risks of Mineral Investing may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of The Real Risks of Mineral Investing changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for The Real Risks of Mineral Investing should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4549,23 +4554,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For Passive Royalty Income, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for Passive Royalty Income is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>Passive Royalty Income may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of Passive Royalty Income changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for Passive Royalty Income should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4586,23 +4591,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For Mineral Rights as an Investment, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for Mineral Rights as an Investment is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>Mineral Rights as an Investment may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of Mineral Rights as an Investment changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for Mineral Rights as an Investment should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4623,23 +4628,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For Diversifying a Portfolio With Minerals, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for Diversifying a Portfolio With Minerals is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>Diversifying a Portfolio With Minerals may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of Diversifying a Portfolio With Minerals changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for Diversifying a Portfolio With Minerals should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4660,23 +4665,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For Direct Minerals vs. Royalty Funds, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for Direct Minerals vs. Royalty Funds is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>Direct Minerals vs. Royalty Funds may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of Direct Minerals vs. Royalty Funds changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for Direct Minerals vs. Royalty Funds should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4697,23 +4702,23 @@
      "sections": [
       {
        "title": "Build the Producing Case From the Revenue Deck",
-       "html": "<p>For Inflation and Mineral Income, the buyer should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
+       "html": "<p>Underwriting should begin with well-level volumes, products, realized prices, severance and property taxes, gathering or processing deductions, owner decimals, downtime, adjustments, and the dates represented by each statement. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the payor's current setup. Keeping that bridge dated also prevents a suspense release, correction, or one-time adjustment from being mistaken for ordinary monthly cash flow.</p>"
       },
       {
        "title": "Treat Decline as a Range, Not a Clock",
-       "html": "<p>A decline case for Inflation and Mineral Income is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
+       "html": "<p>A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal.</p>"
       },
       {
        "title": "Keep Future Development in a Separate Layer",
-       "html": "<p>Inflation and Mineral Income may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
+       "html": "<p>Future development may involve permits, spacing, offset results, undeveloped benches, infill locations, recompletions, or operator inventory. Each possibility needs a formation, location count or probability, timing case, production shape, burden, price deck, capital and service context, and discount rate. Undeveloped possibility should not quietly inflate the producing cash flow or be described as a certainty. A clean review shows which dollars come from existing wells, which come from identified projects, and which depend on a broader basin story.</p>"
       },
       {
        "title": "Stress-Test Price and Netback Independently",
-       "html": "<p>A useful review of Inflation and Mineral Income changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
+       "html": "<p>A useful review changes benchmark price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic about commodity price but conservative about netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's actual statement and helps explain why two proposals built from the same recent check can still differ. The family should be able to see which assumption moved rather than being handed a single unexplained multiple.</p>"
       },
       {
        "title": "Show the Discount, Title Reserve, and Closing Math",
-       "html": "<p>The analysis for Inflation and Mineral Income should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
+       "html": "<p>The analysis should identify forecast periods, discount convention, terminal treatment, title reserve, data limitations, operator concentration, development timing, commodity sensitivity, and closing adjustments. It should also connect the modeled interest to the tract schedule, included depths, effective date, revenue cutoff, curative requirements, and final conveyance. The output is a buyer's underwriting case rather than an appraisal or investment recommendation. Facts, forecasts, and transaction terms remain labeled so later changes can be understood instead of appearing as a surprise reduction at closing.</p>"
       }
      ],
      "faqs": [],
@@ -4727,7 +4732,8 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "A buyer's underwriting case separates producing cash flow from future possibility, showing which dollars are documented and which are still a forecast."
   },
   "exchange-1031": {
    "title": "Mineral 1031 Exchange Guides",
@@ -4740,23 +4746,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For Is a 1031 Exchange Right for You?, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in Is a 1031 Exchange Right for You?. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for Is a 1031 Exchange Right for You? should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>Is a 1031 Exchange Right for You? can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering Is a 1031 Exchange Right for You? should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -4777,23 +4783,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For Qualified Intermediaries, Explained, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in Qualified Intermediaries, Explained. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for Qualified Intermediaries, Explained should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>Qualified Intermediaries, Explained can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering Qualified Intermediaries, Explained should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -4814,23 +4820,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For The 45- and 180-Day 1031 Deadlines, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in The 45- and 180-Day 1031 Deadlines. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for The 45- and 180-Day 1031 Deadlines should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>The 45- and 180-Day 1031 Deadlines can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering The 45- and 180-Day 1031 Deadlines should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -4851,23 +4857,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For Defer Taxes on Your Mineral Sale, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in Defer Taxes on Your Mineral Sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for Defer Taxes on Your Mineral Sale should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>Defer Taxes on Your Mineral Sale can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering Defer Taxes on Your Mineral Sale should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -4888,23 +4894,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For Reinvesting Your Mineral Sale Proceeds, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in Reinvesting Your Mineral Sale Proceeds. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for Reinvesting Your Mineral Sale Proceeds should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>Reinvesting Your Mineral Sale Proceeds can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering Reinvesting Your Mineral Sale Proceeds should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -4925,23 +4931,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For Minerals as 1031 Replacement Property, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in Minerals as 1031 Replacement Property. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for Minerals as 1031 Replacement Property should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>Minerals as 1031 Replacement Property can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering Minerals as 1031 Replacement Property should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -4962,23 +4968,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For Partial Exchanges and Boot, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in Partial Exchanges and Boot. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for Partial Exchanges and Boot should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>Partial Exchanges and Boot can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering Partial Exchanges and Boot should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -4999,23 +5005,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For 1031 Exchange Into Mineral Rights, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in 1031 Exchange Into Mineral Rights. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for 1031 Exchange Into Mineral Rights should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>1031 Exchange Into Mineral Rights can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering 1031 Exchange Into Mineral Rights should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -5036,23 +5042,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For 1031 From Real Estate Into Minerals, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in 1031 From Real Estate Into Minerals. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for 1031 From Real Estate Into Minerals should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>1031 From Real Estate Into Minerals can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering 1031 From Real Estate Into Minerals should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -5073,23 +5079,23 @@
      "sections": [
       {
        "title": "Confirm the Exchange Question Before Reshaping the Sale",
-       "html": "<p>For 1031 From Farmland Into Minerals, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
+       "html": "<p>Before assuming any exchange applies, an owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's circumstances. Royalty Buyer can provide accurate transaction facts, dates, schedules, and draft documents, but the desk should not promise qualification or choose tax elections for a family. That advice boundary belongs in the working file from the first conversation so a proposed exchange does not quietly become an unsupported condition of the mineral sale.</p>"
       },
       {
        "title": "Keep the Royalty Underwriting File Intact",
-       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights in 1031 From Farmland Into Minerals. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
+       "html": "<p>A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustments, and retained rights behind the sale. The buyer's production and development assumptions should remain documented even when proceeds routing and replacement-property timing receive extra attention. The family should still be able to trace the sale amount to the property being conveyed, the revenue being transferred, and the title findings that affect closing.</p>"
       },
       {
        "title": "Coordinate the Intermediary Before Funds Move",
-       "html": "<p>The working file for 1031 From Farmland Into Minerals should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
+       "html": "<p>The working file for this kind of exchange should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, estimated consideration, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released. If vesting, signer authority, entity names, or account instructions do not match, the discrepancy should be resolved before a deadline forces the parties into hurried paperwork.</p>"
       },
       {
        "title": "Run One Calendar for the Sale and One for the Exchange",
-       "html": "<p>1031 From Farmland Into Minerals can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
+       "html": "<p>This route can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Placing every event on one page helps the owner see where buyer diligence, title work, replacement-property research, financing, and adviser approvals can collide. The calendar should show responsible parties, required documents, dependencies, and backup dates rather than treating the two statutory periods as the only deadlines that matter.</p>"
       },
       {
        "title": "Preserve a Clear Non-Exchange Closing Path",
-       "html": "<p>A family considering 1031 From Farmland Into Minerals should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
+       "html": "<p>A family weighing this path should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to function as a mineral sale. A documented backup path does not provide tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague. It also lets advisers focus on the owner's tax choices without forcing the buyer to rewrite the property description or closing economics at the last moment.</p>"
       }
      ],
      "faqs": [],
@@ -5103,7 +5109,8 @@
      "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "A possible 1031 exchange adds a qualified intermediary and two statutory deadlines on top of the ordinary mineral sale, without changing the underlying title and production facts."
   }
  },
  "warnings": []

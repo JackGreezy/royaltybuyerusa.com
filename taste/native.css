@@ -8,6 +8,7 @@ html body.rr-native header.c-nav-2 .rr-header-utility{align-items:center!importa
 html body.rr-native header.c-nav-2 a.rr-header-cta,html body.rr-native header.c-nav-2 a.rr-header-phone,html body.rr-native header.c-nav-2 .rr-header-explore-toggle{display:flex!important;align-items:center!important;min-height:44px!important;padding:0 .9rem!important;border:0!important;border-radius:6px!important;background:transparent!important;box-shadow:none!important;color:#fff!important;font-family:helvetica-neue-lt-pro,sans-serif!important;font-size:16px!important;font-weight:500!important;letter-spacing:0!important;line-height:1!important;text-transform:none!important;white-space:nowrap!important;transition:background-color .2s!important}
 html body.rr-native header.c-nav-2 a.rr-header-phone{color:#fff!important;font-weight:400!important;opacity:.82!important}
 html body.rr-native header.c-nav-2 a.rr-header-cta:hover,html body.rr-native header.c-nav-2 a.rr-header-phone:hover,html body.rr-native header.c-nav-2 .rr-header-explore-toggle:hover{background:#333!important;color:#fff!important}
+html body.rr-native header .rr-header-explore-toggle::after{display:inline-block!important;box-sizing:border-box!important;width:.4em!important;height:.4em!important;margin-left:.5em!important;border:solid #fff!important;border-width:0 1.5px 1.5px 0!important;background:none!important;opacity:.82!important}
 
 /* Dropdown: dark donor menu surface with white links */
 html body.rr-native header .rr-header-submenu,html body.rr-native header .rr-dropdown-menu{min-width:300px!important;padding:.5rem!important;border:1px solid #333!important;border-radius:6px!important;background:#1b1b1b!important;box-shadow:0 20px 40px rgba(0,0,0,.6)!important}
@@ -98,6 +99,12 @@ html body.rr-native #contact-form button[type=submit]{grid-column:1/-1!important
 html body.rr-native #contact-form button[type=submit]:hover{background:#333!important}
 html body.rr-native .rr-contact-map{order:2!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;height:300px!important;margin:3rem 0 0!important;border:0!important;border-radius:0!important;background:#e4e4e4!important;box-shadow:none!important;filter:grayscale(1) invert(.92) contrast(.9)!important;transform:none!important;left:auto!important}
 
+/* ---------- Home closing CTA: let the donor pill size to our longer label instead of a fixed 240px ---------- */
+html body.rr-native section.c-section.big a.c-button-mod.dh-wide{width:auto!important;max-width:none!important;white-space:nowrap!important;padding:1rem 1.5rem!important}
+
+/* ---------- Index pages: breathing room between the H1 and the first card row ---------- */
+html body.rr-native section.c-section-2.first>.c-container>h1{margin:0 0 2.5rem!important}
+
 /* ---------- Home/about media bands: keep donor white type legible over our photos ---------- */
 html body.rr-native .c-product_vertical_image::after{content:""!important;position:absolute!important;inset:0!important;background:linear-gradient(180deg,rgba(0,0,0,.72) 0,rgba(0,0,0,.35) 45%,rgba(0,0,0,.1) 75%,rgba(0,0,0,.35) 100%)!important;pointer-events:none!important}
 html body.rr-native .c-product_vertical_title,html body.rr-native .c-product_vertical_desc{position:relative!important;z-index:2!important;text-shadow:0 1px 14px rgba(0,0,0,.5)!important}
@@ -121,4 +128,6 @@ html body.rr-native footer .rr-footer-map{box-sizing:border-box!important;width:
   html body.rr-native #contact-form{grid-template-columns:1fr!important}
   html body.rr-native .rr-wordmark .rr-wm-1,html body.rr-native .rr-wordmark .rr-wm-2,html body.rr-native .rr-wordmark::after{font-size:16px!important}
   html body.rr-native [data-rr-taste-related] a.d-application-card{min-height:0!important}
+  html body.rr-native[data-rr-page="contact"] section.c-section-2.first>.c-container{padding-left:1.25rem!important;padding-right:1.25rem!important}
+  html body.rr-native #contact-form button[type=submit]{white-space:nowrap!important}
 }
