@@ -1,5 +1,5 @@
 {
-  "_": "This voice belongs only to royaltybuyerusa.com. Royalty Buyer speaks as an institutional Midland royalty desk shaped by a fourth-generation ranch family's own mineral sale. The voice is calm, story-aware, and exact about documents, family fractions, production, non-oil royalties, offer terms, and closing. It never uses singular first-person blog language and must never become a shared voice pack.",
+  "_": "This voice belongs only to royaltybuyerusa.com. Royalty Buyer speaks as an institutional royalty desk working every producing basin, informed by a fourth-generation ranch family's own mineral sale. The voice is calm, story-aware, and exact about documents, family fractions, production, non-oil royalties, offer terms, and closing. It never uses singular first-person blog language and must never become a shared voice pack.",
   "taxonomy_titles": {
     "situations": "Royalty Owner Situations",
     "locations": "Royalty Buyers by State",
@@ -81,7 +81,7 @@
   ],
   "heroes": [
     [
-      "Royalty Buyer for Midland, Texas and Owners Nationwide",
+      "Royalty Buyer for Families Who Own Minerals in Any Producing State",
       "A family mineral sale should connect the land, the ownership history, the royalty statement, the offer, and the deed before anyone calls the decision simple."
     ],
     [
@@ -94,9 +94,9 @@
     ]
   ],
   "copy": {
-    "home_title": "Royalty Buyer in Midland, TX | Mineral and Royalty Interest Reviews",
-    "home_meta": "A Midland royalty buyer helping owners understand mineral and royalty interests, family ownership, production evidence, offer terms, title review, and closing nationwide.",
-    "home_hero_title": "Royalty Buyer for Midland, Texas and Owners Nationwide",
+    "home_title": "Royalty Buyer | Mineral and Royalty Interest Reviews for Owners in Every Producing State",
+    "home_meta": "A royalty buyer helping owners in every producing state understand mineral and royalty interests, family ownership, production evidence, offer terms, title review, and closing wherever the land sits.",
+    "home_hero_title": "Royalty Buyer for Families Who Own Minerals in Any Producing State",
     "home_intro_title": "A Royalty Sale Is a Land Decision and a Family Decision",
     "home_intro": "Royalty Buyer begins with the interest the family actually owns: the tract, deed chain, lease, division order, payor account, wells, products, deductions, and offer language. That record keeps a meaningful property story from being reduced to one unexplained multiple.",
     "home_situations_title": "Start With What Changed for the Owner",
@@ -123,13 +123,13 @@
     "index_tagline": "Explore {title} through the documents, ownership history, production evidence, buyer assumptions, offer terms, and closing questions that matter to a royalty-owning family.",
     "detail_cta_title": "Ready to place this royalty interest into one clear working file?",
     "faq_heading": "Questions Royalty Owners Commonly Bring",
-    "about_title": "A Royalty Buyer Built Around the Owner's Whole File",
-    "about_p1": "Royalty Buyer was shaped by a fourth-generation ranch family's experience selling its own minerals. The process showed how quickly land history, family fractions, check detail, title language, and buyer assumptions can become disconnected. The desk keeps those pieces together.",
+    "about_title": "A Royalty Buyer That Reads the Owner's Whole File",
+    "about_p1": "Royalty Buyer was informed by a fourth-generation ranch family's experience selling its own minerals. The process showed how quickly land history, family fractions, check detail, title language, and buyer assumptions can become disconnected. The desk keeps those pieces together.",
     "about_p2": "The objective is a transaction an owner can follow from the first document through funding: identify the property, trace the ownership, read the revenue, separate facts from forecasts, compare the complete offer, resolve title questions, and close the same interest that was reviewed.",
     "contact_title": "Request a Royalty Review",
     "contact_intro": "Share the county and state, owner name, operator or payor, recent statement, deed or lease if available, and the question behind the inquiry. The review begins with the evidence already in the family's hands.",
     "contact_section_title": "Bring the Land Story and the Current Records",
-    "footer_tagline": "A Midland royalty desk connecting family ownership, recorded title, real cash flow, buyer assumptions, sale terms, and closing documents.",
+    "footer_tagline": "A royalty desk for owners wherever the tract sits, connecting family ownership, recorded title, real cash flow, buyer assumptions, sale terms, and closing documents.",
     "privacy": "Royalty Buyer uses submitted contact, ownership, property, production, statement, lease, title, operator, payor, offer, and timing information only to respond to an inquiry and evaluate a possible royalty transaction. Submitted personal information is not sold. Do not submit bank credentials, government identification numbers, or original documents through this website.",
     "terms": "This website provides general educational and transaction information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, or exchange advice. Production, ownership, commodity prices, deductions, title findings, offers, and closing amounts can change. Owners should consult their own qualified professionals before signing a mineral or royalty conveyance.",
     "nf_title": "That Royalty Guide Is Not in This Field Book",
@@ -266,7 +266,7 @@
       ],
       [
         "Treat Decline as a Range, Not a Clock",
-        "A decline case here is an informed estimate shaped by completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal."
+        "A decline case here is an informed estimate that depends on completion design, pressure behavior, choke strategy, offset interference, artificial lift, workovers, curtailment, operating practice, and data gaps. The buyer's file should state the history used, forecast start date, decline method, terminal behavior, downtime allowance, and sensitivity range. If a producing history is short or interrupted, the uncertainty should widen instead of being hidden behind a smoother curve. That distinction matters to a family comparing a current check with a long-term lump-sum proposal."
       ],
       [
         "Keep Future Development in a Separate Layer",
@@ -321,5 +321,6 @@
     "resources": "Practical field guides translate deeds, division orders, statements, deductions, and offer language into the questions a family can carry into its own decision.",
     "investing": "A buyer's underwriting case separates producing cash flow from future possibility, showing which dollars are documented and which are still a forecast.",
     "exchange-1031": "A possible 1031 exchange adds a qualified intermediary and two statutory deadlines on top of the ordinary mineral sale, without changing the underlying title and production facts."
-  }
+  },
+  "hero_city_suffix": false
 }
