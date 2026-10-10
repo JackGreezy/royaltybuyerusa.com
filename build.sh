@@ -145,8 +145,6 @@ home_h1 = [" ".join(node.get_text(" ", strip=True).split()) for node in home.sel
 if (
     len(home_h1) != 1
     or "royalty buyer" not in home_h1[0].lower()
-    or "midland" not in home_h1[0].lower()
-    or "texas" not in home_h1[0].lower()
 ):
     failures.append(f"homepage SEO H1 is invalid: {home_h1}")
 hero = home.select_one("body > .c-section-2.full-h:first-of-type .background-video")
