@@ -129,7 +129,7 @@ for page in pages:
                 f"{page.relative_to(project)}: miniature image regression: {image.get('src', '')}"
             )
         src = str(image.get("src", ""))
-        if src and not src.startswith(("/ours/", "data:")):
+        if src and not src.startswith(("/ours/", "/brand/", "data:")):
             failures.append(f"{page.relative_to(project)}: non-mapped image source: {src}")
     maps = soup.select('iframe[src*="google.com/maps"]')
     footer_maps = footer.select('iframe[src*="google.com/maps"]') if footer else []
