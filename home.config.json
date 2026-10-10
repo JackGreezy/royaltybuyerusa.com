@@ -60,6 +60,8 @@
   "brand_runtime_script": "/brand/visibility.js?v=5d6424499781",
   "brand_media_replacements": {
     "/ours/situations/mineral-title-review.png": "/ours/situations/mineral-title-review.png",
+    "/images/situations/mineral-title-review.png": "/ours/situations/mineral-title-review.png",
+    "/ours/situations/mineral-title-review.png": "/ours/situations/mineral-title-review.png",
     "/images/situations/mineral-title-review.png": "/ours/situations/mineral-title-review.png"
   },
   "brand_logo_variant": ""
