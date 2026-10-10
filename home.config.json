@@ -65,5 +65,103 @@
     "/ours/exchange-1031/mineral-rights-exchange-1031-partial-exchange-and-boot-royaltybuyerusa-com.jpg": "/ours/situations/mineral-title-review.png",
     "/images/exchange-1031/mineral-rights-exchange-1031-partial-exchange-and-boot-royaltybuyerusa-com.jpg": "/ours/situations/mineral-title-review.png"
   },
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/texas": {
+      "src": "/ours/locations/sell-mineral-rights-texas.jpg",
+      "alt": "Local view for Sell Mineral Rights in Texas"
+    },
+    "/locations/oklahoma": {
+      "src": "/ours/locations/sell-mineral-rights-oklahoma.jpg",
+      "alt": "Local view for Sell Mineral Rights in Oklahoma"
+    },
+    "/locations/new-mexico": {
+      "src": "/ours/locations/sell-mineral-rights-new-mexico.jpg",
+      "alt": "Local view for Sell Mineral Rights in New Mexico"
+    },
+    "/locations/north-dakota": {
+      "src": "/ours/locations/sell-mineral-rights-north-dakota.jpg",
+      "alt": "Local view for Sell Mineral Rights in North Dakota"
+    },
+    "/locations/pennsylvania": {
+      "src": "/ours/locations/sell-mineral-rights-pennsylvania.jpg",
+      "alt": "Local view for Sell Mineral Rights in Pennsylvania"
+    },
+    "/locations/west-virginia": {
+      "src": "/ours/locations/sell-mineral-rights-west-virginia.jpg",
+      "alt": "Local view for Sell Mineral Rights in West Virginia"
+    },
+    "/locations/ohio": {
+      "src": "/ours/locations/sell-mineral-rights-ohio.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ohio"
+    },
+    "/locations/louisiana": {
+      "src": "/ours/locations/sell-mineral-rights-louisiana.jpg",
+      "alt": "Local view for Sell Mineral Rights in Louisiana"
+    },
+    "/locations/wyoming": {
+      "src": "/ours/locations/sell-mineral-rights-wyoming.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wyoming"
+    },
+    "/locations/colorado": {
+      "src": "/ours/locations/sell-mineral-rights-colorado.jpg",
+      "alt": "Local view for Sell Mineral Rights in Colorado"
+    },
+    "/locations/montana": {
+      "src": "/ours/locations/sell-mineral-rights-montana.jpg",
+      "alt": "Local view for Sell Mineral Rights in Montana"
+    },
+    "/locations/arkansas": {
+      "src": "/ours/locations/sell-mineral-rights-arkansas.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arkansas"
+    },
+    "/locations/kansas": {
+      "src": "/ours/locations/sell-mineral-rights-kansas.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kansas"
+    },
+    "/locations/utah": {
+      "src": "/ours/locations/sell-mineral-rights-utah.jpg",
+      "alt": "Local view for Sell Mineral Rights in Utah"
+    },
+    "/locations/alabama": {
+      "src": "/ours/locations/sell-mineral-rights-alabama.jpg",
+      "alt": "Local view for Sell Mineral Rights in Alabama"
+    },
+    "/locations/mississippi": {
+      "src": "/ours/locations/sell-mineral-rights-mississippi.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mississippi"
+    },
+    "/locations/kentucky": {
+      "src": "/ours/locations/sell-mineral-rights-kentucky.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kentucky"
+    },
+    "/locations/tennessee": {
+      "src": "/ours/locations/sell-mineral-rights-tennessee.jpg",
+      "alt": "Local view for Sell Mineral Rights in Tennessee"
+    },
+    "/locations/nebraska": {
+      "src": "/ours/locations/sell-mineral-rights-nebraska.jpg",
+      "alt": "Local view for Sell Mineral Rights in Nebraska"
+    },
+    "/locations/michigan": {
+      "src": "/ours/locations/sell-mineral-rights-michigan.jpg",
+      "alt": "Local view for Sell Mineral Rights in Michigan"
+    },
+    "/locations/illinois": {
+      "src": "/ours/locations/sell-mineral-rights-illinois.jpg",
+      "alt": "Local view for Sell Mineral Rights in Illinois"
+    },
+    "/locations/missouri": {
+      "src": "/ours/locations/sell-mineral-rights-missouri.jpg",
+      "alt": "Local view for Sell Mineral Rights in Missouri"
+    },
+    "/locations/california": {
+      "src": "/ours/locations/sell-mineral-rights-california.jpg",
+      "alt": "Local view for Sell Mineral Rights in California"
+    },
+    "/locations/alaska": {
+      "src": "/ours/locations/sell-mineral-rights-alaska.jpg",
+      "alt": "Local view for Sell Mineral Rights in Alaska"
+    }
+  }
 }
